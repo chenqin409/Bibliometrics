@@ -1,0 +1,418 @@
+PT J
+AU Gómez-Rey, P
+   Fernández-Navarro, F
+   Barberà, E
+AF Gomez-Rey, Pilar
+   Fernandez-Navarro, Francisco
+   Barbera, Elena
+TI Ordinal regression by a gravitational model in the field of educational data mining
+SO EXPERT SYSTEMS
+LA English
+DT Article
+DE educational data mining; ordinal regression models; students satisfaction; gravitational models
+ID classification; knowledge; feedback
+AB Educational data mining (EDM) is a research area where the goal is to develop data mining methods to examine data critically from educational environments. Traditionally, EDM has addressed the following problems: clustering, classification, regression, anomaly detection and association rule mining. In this paper, the ordinal regression (OR) paradigm, is introduced in the field of EDM. The goal of OR problems is the classification of items in an ordinal scale. For instance, the prediction of students' performance in categories (where the different grades could be ordered according to A > B > C > D) is a classical example of an OR problem. The EDM community has not yet explored this paradigm (despite the importance of these problems in the field of EDM). Furthermore, an amenable and interpretable OR model based on the concept of gravitation is proposed. The model is an extension of a recently proposed gravitational model that tackles imbalanced nominal classification problems. The model is carefully adapted to the ordinal scenario and validated with four EDM datasets. The results obtained were compared with state-of-the-art OR algorithms and nominal classification ones. The proposed models can be used to better understand the learning-teaching process in higher education environments.
+C1 [Gomez-Rey, Pilar; Barbera, Elena] Open Univ Catalunya, eLearn Ctr, Barcelona, Spain.
+   [Fernandez-Navarro, Francisco] Univ Loyola Andalucia, Dept Math & Engn, Andalucia, Spain.
+C3 UOC Universitat Oberta de Catalunya; Universidad Loyola Andalucia
+RP Gómez-Rey, P (corresponding author), Open Univ Catalunya, eLearn Ctr, Barcelona, Spain.
+EM pgomez_del_rey@uoc.edu
+FU Spanish Ministry of Economy and Competitiveness (MINECO) [TIN2014-54583-C2-1-R]; FEDER funds; project of the "Junta de Andalucia" (Spain) [P2011- TIC-7508]
+CR Akiri AA, 2009, STUD HOME COMM SCI, V3, P107, DOI 10.1080/09737189.2009.11885284
+   Atay L, 2010, TOURISMOS, V5, P73
+   Baker R, 2010, INT ENCY ED, V7, P112, DOI 10.4018/978-1-59140-557-3
+   Bangert Arthur, 2008, JOURNAL OF COMPUTING IN HIGHER EDUCATION, V20, P34, DOI 10.1007/BF03033431
+   Barbera E, 2011, QUARTERLY REVIEW OF DISTANCE EDUCATION, V12, P167
+   Bhardwaj BK, 2012, INT J COMPUT SCI INF, V0, P0, DOI DOI 10.48550/ARXIV.1201.3418
+   Bishop CM, 2007, PATTERN RECOGNITION, V0, P0
+   Cano A, 2013, IEEE T CYBERNETICS, V43, P1672, DOI 10.1109/TSMCB.2012.2227470
+   Chang C-C, 2001, LIBSVM LIB SUPPORT V, V0, P0
+   Chang SHH, 2008, J RES TECHNOL EDUC, V40, P407
+   Chu W, 2005, P 22 ANN INT C MACHI, V0, PP145, DOI 10.1145/1102351.1102370
+   Chu W, 2007, NEURAL COMPUT, V19, P792, DOI 10.1162/neco.2007.19.3.792
+   da Costa JFP, 2008, NEURAL NETWORKS, V21, P78, DOI 10.1016/j.neunet.2007.10.003
+   Demsar J, 2006, J MACH LEARN RES, V7, P1
+   Fernández-Navarro F, 2013, IEEE T NEUR NET LEAR, V24, P1836, DOI 10.1109/TNNLS.2013.2268279
+   Fernández-Navarro F, 2012, APPL SOFT COMPUT, V12, P1787, DOI 10.1016/j.asoc.2012.01.008
+   Garrison DR, 2011, E LEARNING 21 CENTUR, V0, P0
+   Gibbs G, 2004, ACT LEARN HIGH EDUC, V5, P87, DOI 10.1177/1469787404040463
+   Gunduz N, 2013, CQAS20132 ROCH I TEC, V0, P0
+   Gutiérrez PA, 2012, LECT NOTES COMPUT SC, V7209, P296
+   Hansen N, 2001, EVOL COMPUT, V9, P159, DOI 10.1162/106365601750190398
+   Landwehr N, 2005, MACH LEARN, V59, P161, DOI 10.1007/s10994-005-0466-3
+   Lin CF, 2013, COMPUT EDUC, V68, P199, DOI 10.1016/j.compedu.2013.05.009
+   Liu X, 2009, J MOD APPL STAT METH, V8, P632, DOI 10.22237/jmasm/1257035340
+   MCCULLAGH P, 1980, J ROY STAT SOC B MET, V42, P109
+   Minaei-Bidgoli B, 2003, LECT NOTES COMPUT SC, V2724, P2252
+   Mirchevska V, 2014, EXPERT SYST, V31, P163, DOI 10.1111/exsy.12019
+   Monjardet B, 1997, J CLASSIF, V14, P269, DOI 10.1007/s003579900013
+   Moreira C, 2015, EXPERT SYST, V32, P477, DOI 10.1111/exsy.12062
+   Nebot A, 2006, PROCEEDINGS OF THE FIFTH IASTED INTERNATIONAL CONFERENCE ON WEB-BASED EDUCATION, V0, P74
+   Oberreuter G, 2013, EXPERT SYST APPL, V40, P3756, DOI 10.1016/j.eswa.2012.12.082
+   Palmer SR, 2009, J COMPUT ASSIST LEAR, V25, P101, DOI 10.1111/j.1365-2729.2008.00294.x
+   Peña-Ayala A, 2014, EXPERT SYST APPL, V41, P1432, DOI 10.1016/j.eswa.2013.08.042
+   Peng LZ, 2009, INFORM SCIENCES, V179, P809, DOI 10.1016/j.ins.2008.11.007
+   Roberts J, 2010, RES HIGHER ED J, V6, P1
+   Romero C, 2007, EXPERT SYST APPL, V33, P135, DOI 10.1016/j.eswa.2006.04.005
+   Romero C, 2004, USER MODEL USER-ADAP, V14, P425, DOI 10.1007/s11257-004-7961-2
+   Romero C, 2008, PROCEEDINGS OF THE 1ST INTERNATIONAL CONFERENCE ON EDUCATIONAL DATA MINING, V0, P8
+   Romero C, 2013, EXPERT SYST, V30, P162, DOI 10.1111/j.1468-0394.2012.00627.x
+   Romero C, 2010, IEEE T SYST MAN CY C, V40, P601, DOI 10.1109/TSMCC.2010.2053532
+   Shea P, 2009, COMPUT EDUC, V52, P543, DOI 10.1016/j.compedu.2008.10.007
+   Siemens George, 2012, P 2 INT C LEARNING A, V0, PP252, DOI 10.1145/2330601.2330661
+   Sun PC, 2008, COMPUT EDUC, V50, P1183, DOI 10.1016/j.compedu.2006.11.007
+   Tang C, 2000, WEB INF SYST ENG 200, V2, P204
+   Tanner CK, 2009, J EDUC ADMIN, V47, P381, DOI 10.1108/09578230910955809
+   Torra V, 2006, INFORM SCIENCES, V176, P465, DOI 10.1016/j.ins.2005.07.007
+   Ueno M, 2003, P WORLD C ED MULT HY, V2003, P227
+   Vapnik VN, 1999, NATURE STAT LEARNING, V0, P0
+   Wang C, 2005, LECT NOTES COMPUT SC, V3612, P845
+   Witten IH, 2005, DATA MANAGEMENT SYST, V0, P0
+   Yay M, 2009, CYPRIOT JOURNAL OF EDUCATIONAL SCIENCES, V4, P58, DOI 10.1186/1475-2891-10-124
+   Yukselturk E, 2009, INTERNATIONAL JOURNAL ON E-LEARNING, V8, P263
+   Zafra A, 2011, EXPERT SYST APPL, V38, P15020, DOI 10.1016/j.eswa.2011.05.044
+   Zaiane OR, 1998, P IEEE INT FORUM RES, V0, PP19, DOI 10.1109/ADL.1998.670376
+   Zong-Chang Y, 2008, PATTERN ANAL APPL, V11, P169, DOI 10.1007/s10044-007-0091-9
+   Zorrilla ME, 2005, LECT NOTES COMPUT SC, V3643, P205, DOI 10.1007/11556985_26
+NR 56
+TC 12
+Z9 14
+U1 1
+U2 39
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0266-4720
+EI 1468-0394
+J9 EXPERT SYST
+JI Expert Syst.
+PD APR 15
+PY 2016
+VL 33
+IS 2
+BP 161
+EP 175
+DI 10.1111/exsy.12138
+PG 15
+WC Computer Science, Artificial Intelligence; Computer Science, Theory & Methods
+SC Computer Science
+GA DJ0YC
+UT WOS:000373929300003
+DA 2026-09-28
+ER
+
+PT J
+AU Poitras, EG
+   Lajoie, SP
+   Doleck, T
+   Jarrell, A
+AF Poitras, Eric G.
+   Lajoie, Susanne P.
+   Doleck, Tenzin
+   Jarrell, Amanda
+TI Subgroup Discovery with User Interaction Data: An Empirically Guided Approach to Improving Intelligent Tutoring Systems
+SO EDUCATIONAL TECHNOLOGY & SOCIETY
+LA English
+DT Article
+DE Subgroup discovery; Educational data mining; Intelligent tutoring systems; Medical education; Clinical reasoning; Lab tests; Misconceptions; Learner modeling
+ID technology
+AB Learner modeling, a challenging and complex endeavor, is an important and oft-studied research theme in computer-supported education. From this perspective, Educational Data Mining (EDM) research has focused on modeling and comprehending various dimensions of learning in computer based learning environments (CBLE). Researchers and designers are actively attempting to improve learning systems by incorporating adaptive mechanisms that respond to the varying needs of learners. Recent advances in data mining techniques provide new possibilities and exciting opportunities for developing adaptive systems to better support learners. This study is situated in the context of clinical reasoning in an Intelligent Tutoring System called BioWorld and it aims to examine the relationship between the lab-tests ordered and misconceptions held by learners. Toward this end, we employ an EDM technique called subgroup discovery to unpack the rules that embody the hypothesized link. Examining such links may have implications for identifying the points along learning trajectories where learners should be provided the requisite scaffolding. This study represents our efforts to evaluate and derive empirically based design prescriptions for improving Intelligent Tutoring Systems. Implications for practice and future research directions are also discussed.
+C1 [Poitras, Eric G.] Univ Utah, Salt Lake City, UT 84112 USA.
+   [Lajoie, Susanne P.; Doleck, Tenzin; Jarrell, Amanda] McGill Univ, Montreal, PQ H3A 2T5, Canada.
+C3 Utah System of Higher Education; University of Utah; McGill University
+RP Poitras, EG (corresponding author), Univ Utah, Salt Lake City, UT 84112 USA.
+EM eric.poitras@utah.edu; susanne.lajoie@mcgill.ca; tenzin.doleck@mail.mcgill.ca; amanda.jarrell@mail.mcgill.ca
+FU Social Sciences and Humanities Research Council of Canada
+CR Berman NB, 2011, MED TEACH, V33, P319, DOI 10.3109/0142159X.2011.540268
+   Herrera F, 2011, KNOWL INF SYST, V29, P495, DOI 10.1007/s10115-010-0356-2
+   Jonassen DH, 1996, HDB RES ED COMMUNICA, V0, P693
+   Klosgen W, 2002, HDB DATA MINING KNOW, V0, P47
+   Koedinger KR, 2006, CAMB HANDB PSYCHOL, V0, P61
+   Lajoie S P, 2013, INT HDB METACOGNITIO, V0, PP229, DOI 10.1007/978
+   Lajoie SP, 2009, RES PRACTICE TECHNOL, V4, P195, DOI 10.1142/S1793206809000738
+   Lajoie SP, 2014, DESIGN RECOMMENDATIO, V2, P151
+   Lajoie SP, 2003, EDUCATIONAL RESEARCHER, V32, P21, DOI 10.3102/0013189X032008021
+   Lajoie SP, 2005, EDUC PSYCHO, V0, P87
+   Lajoie SP, 2015, INTEL SYST REF LIBR, V76, P323, DOI 10.1007/978-3-319-11062-2_13
+   Lajoie SP, 2012, METACOGN LEARN, V7, P45, DOI 10.1007/s11409-011-9077-5
+   Lajoie SP, 2009, DEVELOPMENT OF PROFESSIONAL EXPERTISE: TOWARD MEASUREMENT OF EXPERT PERFORMANCE AND DESIGN OF OPTIMAL LEARNING ENVIRONMENTS, V0, PP61, DOI 10.1017/CBO9780511609817.004
+   Lu JY, 2008, CONTEMP EDUC PSYCHOL, V33, P425, DOI 10.1016/j.cedpsych.2008.05.005
+   Meijer J, 2006, EDUC RES EVAL, V12, P209, DOI 10.1080/13803610500479991
+   Midgley C, 2000, MANUAL FOR THE PATTERNS OF ADAPTIVE LEARNING SCALES, V0, P0
+   Mitrovic A, 2003, INT J ARTIFICIAL INT, V13, P173, DOI 10.3233/IRG-2003-13(2-4)03
+   Naismith L, 2013, THESIS MCGILL U CANA, V0, P0
+   Pea RD, 1985, EDUC PSYCHOL-US, V20, P167, DOI 10.1207/s15326985ep2004_2
+   Pekrun R, 2011, CONTEMP EDUC PSYCHOL, V36, P36, DOI 10.1016/j.cedpsych.2010.10.002
+   Poitras E, 2014, INT CONF COMP SCI ED, V0, PP6, DOI 10.1109/ICCSE.2014.6926421
+   Rowe J, 2011, INTERNATIONAL JOURNAL OF ARTIFICIAL INTELLIGENCE IN EDUCATION, V21, P115, DOI 10.3233/JAI-2011-019
+   Salomon G, 1991, EDUC. RES., V20, P2, DOI 10.3102/0013189X020003002
+   Shute VJ, 2012, ADAPTIVE TECHNOLOGIES FOR TRAINING AND EDUCATION, V0, PP7, DOI 10.1017/CBO9781139049580.004
+   VanLehn K, 2006, INTERNATIONAL JOURNAL OF ARTIFICIAL INTELLIGENCE IN EDUCATION, V16, P227, DOI 10.3233/IRG-2006-16(3)02
+   Wrobel S, 1997, LECT NOTES ARTIF INT, V1263, P78
+   Zimmerman BJ, 2003, THE PSYCHOLOGY OF PROBLEM SOLVING, V0, PP233, DOI 10.1017/CBO9780511615771.009
+   Zimmerman BJ, 2000, HDB SELF REGULATION, V0, PP13, DOI 10.1016/B978-012109890-2/50031-7
+NR 29
+TC 10
+Z9 12
+U1 0
+U2 13
+PU NATL TAIWAN NORMAL UNIV, TAIWAN
+PI TAIPEI
+PA 129, SEC 1, HEPING E RD, EDUCATION BUILDING, RM 611, TAIPEI, 10644, TAIWAN
+SN 1176-3647
+EI 1436-4522
+J9 EDUC TECHNOL SOC
+JI Educ. Technol. Soc.
+PD APR 15
+PY 2016
+VL 19
+IS 2
+BP 204
+EP 214
+DI 
+PG 11
+WC Education & Educational Research
+SC Education & Educational Research
+GA DL4VT
+UT WOS:000375636600015
+DA 2026-09-28
+ER
+
+PT J
+AU Chigne, HS
+   Gayo, JEL
+   Obeso, MEA
+   de Pablos, PO
+   Lovelle, JMC
+AF Sagastegui Chigne, Hernan
+   Labra Gayo, Jose Emilio
+   Alva Obeso, Maria Elena
+   Ordonez de Pablos, Patricia
+   Cueva Lovelle, Juan Manuel
+TI Towards the Implementation of the Learning Analytics in the Social Learning Environments for the TechnologyEnhanced Assessment in Computer Engineering Education
+SO INTERNATIONAL JOURNAL OF ENGINEERING EDUCATION
+LA English
+DT Article
+DE learning analytics; educational data mining; social learning environments; technology-enhanced assessment; informal learning; social network analysis
+ID architecture
+AB In this work we present a formal description of a learning environment framework that gives support to learning analytics. The framework is based on techniques that educational data mining and social network analysis provide. The purpose is to study or discover collaborative relationships that students generate during their learning process and make predictions or assessments about student learning. We also present a new model in the way the learning process is evaluated. This model is more personal and contributes to new possibilities that the digital technologies offer in technology-enhanced assessment.
+C1 [Sagastegui Chigne, Hernan] Antenor Orrego Univ, Trujillo, Peru.
+   [Labra Gayo, Jose Emilio; Alva Obeso, Maria Elena] Univ Oviedo, Asturias, Spain.
+   [Ordonez de Pablos, Patricia] Univ Oviedo, Fac Econ & Business, Dept Business Adm, Asturias, Spain.
+   [Cueva Lovelle, Juan Manuel] Univ Oviedo, Languages & Comp Syst Area, Oviedo, Spain.
+C3 Universidad Privada Antenor Orrego; University of Oviedo; University of Oviedo; University of Oviedo
+RP Chigne, HS (corresponding author), Antenor Orrego Univ, Trujillo, Peru.
+EM tsagasteguic@upao.edu.pe; labra@uniovi.es; alvamaria@uniovi.es; patriop@uniovi.es; cueva@uniovi.es
+CR Bicen H, 2013, J UNIVERS COMPUT SCI, V19, P658
+   Borgatti SP, 2005, SOC NETWORKS, V27, P55, DOI 10.1016/j.socnet.2004.11.008
+   Brandes U, 2001, J MATH SOCIOL, V25, P163, DOI 10.1080/0022250X.2001.9990249
+   Butts C, 2010, SOC NETWORKS, V23, P31
+   Butts CT, 2008, ASIAN J SOC PSYCHOL, V11, P13, DOI 10.1111/j.1467-839X.2007.00241.x
+   Chatti M, 2012, INT J TECHNOLOGY ENH, V4, P0
+   Chengzheng Sun, 2002, ACM TRANSACTIONS ON COMPUTER-HUMAN INTERACTION, V9, P1, DOI 10.1145/505151.505152
+   Dommel HP, 2000, J NETW COMPUT APPL, V23, P401, DOI 10.1016/S1084-8045(00)90014-6
+   Edwards D, 2014, MED TEACH, V36, P139, DOI 10.3109/0142159X.2013.849798
+   Fionda V, 2014, P 14 INT C PRINC KNO, V0, P0
+   Fonseca D, 2014, COMPUT HUM BEHAV, V31, P434, DOI 10.1016/j.chb.2013.03.006
+   FRUCHTERMAN TMJ, 1991, SOFTWARE PRACT EXPER, V21, P1129, DOI 10.1002/spe.4380211102
+   Gjoka M, 2011, IEEE J SELECTED AREA, V29, P0
+   Groebner D, 2011, BUSINESS STAT E, V8/E, P0
+   Hart J, 2009, BUILDING SOCIAL LEAR, V0, P19
+   Hong-Tran M, 2003, LECT NOTES COMPUTER, V0, P357
+   Katz RN, 2010, EDUCAUSE REV, V0, P44
+   Long P, 2011, P 1 INT C LEARN AN K, V0, P0
+   Manouselis N, 2011, RECOMMENDER SYSTEMS HANDBOOK, V0, PP387, DOI 10.1007/978-0-387-85820-3_12
+   Powell S, 2012, JISC CETIS CTR ED TE, V1, P0
+   Romero C, 2010, HDB ED DATA MINING, V0, P0
+   SANMARTIN M, 2009, THE SEMANTIC WEB RES, V0, P293
+   Siemens G, 2005, CONNECTIVISM LEARNIN, V0, P0
+   Siemens George, 2012, P 2 INT C LEARNING A, V0, PP252, DOI 10.1145/2330601.2330661
+   Singh L, 2007, IEEE INT CONF INF VI, V0, P672
+   Sun Ch, 1996, P CONC PAR PROGR NET, V0, P0
+   Sun D, 2009, IEEE T PARALL DISTR, V20, P1454, DOI 10.1109/TPDS.2008.240
+   Tang L, 2010, COMMUNITY DETECTIONN, V0, P0
+   Timmis S, 2012, CAA 2012 INT C UK, V0, P0
+NR 38
+TC 4
+Z9 5
+U1 0
+U2 28
+PU TEMPUS PUBLICATIONS
+PI DURRUS, BANTRY
+PA IJEE , ROSSMORE,, DURRUS, BANTRY, COUNTY CORK 00000, IRELAND
+SN 0949-149X
+EI 
+J9 INT J ENG EDUC
+JI Int. J. Eng. Educ
+PD JUN 15
+PY 2016
+VL 32
+IS 4
+BP 1637
+EP 1646
+DI 
+PG 10
+WC Education, Scientific Disciplines; Engineering, Multidisciplinary
+SC Education & Educational Research; Engineering
+GA ED8UU
+UT WOS:000389147200011
+DA 2026-09-28
+ER
+
+PT J
+AU Park, Y
+   Yu, JH
+   Jo, IH
+AF Park, Yeonjeong
+   Yu, Ji Hyun
+   Jo, Il-Hyun
+TI Clustering blended learning courses by online behavior data: A case study in a Korean higher education institute
+SO INTERNET AND HIGHER EDUCATION
+LA English
+DT Article
+DE Blended learning; Higher education; Academic analytics; Educational data mining; Latent class analysis
+ID students
+AB Blended learning (BL) is recognized as one of the major trends in higher education today. To identify how BL has been actually adopted, this study employed a data-driven approach instead of model-driven methods. Latent Class Analysis method as a clustering approach of educational data mining was employed to extract common activity features of 612 courses in a large private university located in South Korea by using online behavior data tracked from Learning Management System and institution's course database. Four unique subtypes were identified. Approximately 50% of the courses manifested inactive utilization of LMS or immature stage of blended learning implementation, which is labeled as Type I. Other subtypes included Type C - Communication or Collaboration (24.3%), Type D - Delivery or Discussion (18.0%), and Type S - Sharing or Submission (7.2%). We discussed the implications of BL based on data-driven decisions to provide strategic institutional initiatives. (C) 2015 Elsevier Inc. All rights reserved.
+C1 [Park, Yeonjeong] Ewha Womans Univ, Ewha Educ Res Inst, Seoul 03760, South Korea.
+   [Yu, Ji Hyun] Virginia Tech, Fac Learning Sci & Technol, Blacksburg, VA USA.
+   [Jo, Il-Hyun] Ewha Womans Univ, Dept Educ Technol, 52 Ewhayeodae Gil, Seoul 03760, South Korea.
+C3 Ewha Womans University; Virginia Polytechnic Institute & State University; Ewha Womans University
+RP Jo, IH (corresponding author), Ewha Womans Univ, Dept Educ Technol, 52 Ewhayeodae Gil, Seoul 03760, South Korea.
+EM ijo@ewha.ac.kr
+FU National Research Foundation of Korea grant - Ministry of Education, Science, and Technology (NRF) [2013S1A5A2A0304410]
+CR Unknown -, 2010, WEMC TEAC TOOL, V0, P0
+   Unknown -, 2011, EDUCAUSE REVIEW, V0, P0
+   Unknown -, 2011, THE ONLINE LEARNING IDEA BOOK: PROVEN WAYS TO ENHANCE TECHNOLOGY-BASED AND BLENDED LEARNING, V0, P0
+   Unknown -, 2010, DIFFUSION OF INNOVATIONS, V0, P0
+   Beisser SR, 2002, COMPUTERS IN THE SCHOOLS, V19, P191, DOI 10.1300/J025v19v03_15
+   Bishop JL, 2013, ASEE ANNU CONF EXPO, V0, P0
+   Blin F, 2008, COMPUT EDUC, V50, P475, DOI 10.1016/j.compedu.2007.09.017
+   Cameron B, 2003, TECHTRENDS, V47, P18, DOI 10.1007/BF02763200
+   Campbell J, 2007, EDUCAUSE REVIEW, V42, P42
+   Carvalho A, 2011, BRIT J EDUC TECHNOL, V42, P824, DOI 10.1111/j.1467-8535.2010.01097.x
+   Cooner TS, 2010, BRIT J EDUC TECHNOL, V41, P271, DOI 10.1111/j.1467-8535.2009.00933.x
+   Dahlstrom E, 2014, CURRENT ECOSYSTEM LE, V0, P0
+   Dahlstrom Eden, 2013, ECAR STUDY OF UNDERGRADUATE STUDENTS AND INFORMATION TECHNOLOGY, V0, P0
+   Donnelly R, 2010, COMPUT EDUC, V54, P350, DOI 10.1016/j.compedu.2009.08.012
+   Dziuban CD, 2004, EDUCAUSE CENTER FOR APPLIED RESEARCH BULLETIN, V7, P12
+   Francis R, 2005, BROOKES EJOURNAL OF LEARNING AND TEACHING, V1, P1
+   Garrison DR, 2004, INTERNET AND HIGHER EDUCATION, V7, P95, DOI 10.1016/j.iheduc.2004.02.001
+   Garrison DR, 2013, INTERNET HIGH EDUC, V18, P24, DOI 10.1016/j.iheduc.2012.09.001
+   Geiser C, 2012, DATA ANALYSIS WITH MPLUS, V0, P0
+   Goldstein PJ, 2005, ACADEMIC ANALYTICS: THE USES OF MANAGEMENT INFORMATION AND TECHNOLOGY IN HIGHER EDUCATION, V0, P0
+   Graham CR, 2006, CJ BONK CR GRAHAM HD, V0, P0
+   Graham CR, 2013, INTERNET HIGH EDUC, V18, P4, DOI 10.1016/j.iheduc.2012.09.003
+   Halverson LR, 2014, INTERNET HIGH EDUC, V20, P20, DOI 10.1016/j.iheduc.2013.09.004
+   Hofmann Jennifer, 2006, HDB BLENDED LEARNING, V0, P27
+   Margulieux LE, 2014, HYBRID BLENDED FLIPP, V0, P0
+   Mostow J, 2005, P WORKSH ED DAT MIN, V0, P0
+   Muthén B, 2000, ALCOHOL CLIN EXP RES, V24, P882, DOI 10.1097/00000374-200006000-00020
+   Nichols M, 2008, BRIT J EDUC TECHNOL, V39, P598, DOI 10.1111/j.1467-8535.2007.00761.x
+   Norberg A, 2011, HORIZON, V19, P207, DOI 10.1108/10748121111163913
+   Park Yeonjeong, 2014, JOURNAL OF EDUCATIONAL TECHNOLOGY 교육공학연구, V30, P221
+   Patton MQ, 1990, QUALITATIVE EVALUATI, V2nd, P0, DOI 10.1002/NUR.4770140111
+   Poon J, 2013, J ONLINE LEARNING TE, V9, P271
+   Porter WW, 2014, COMPUT EDUC, V75, P185, DOI 10.1016/j.compedu.2014.02.011
+   Ross B, 2006, HDB BLENDED LEARNING, V0, P155
+   Singh H, 2003, EDUCATIONAL TECHNOLOGY, V43, P51
+   Tuckman BW, 2002, COMPUT EDUC, V39, P261, DOI 10.1016/S0360-1315(02)00045-3
+   Vaughan ND, 2010, INTERNET HIGH EDUC, V13, P60, DOI 10.1016/j.iheduc.2009.10.007
+   Wallace L, 2010, ONLINE J DISTANCE LE, V13, P0
+   ZIMMERMAN DW, 1994, J GEN PSYCHOL, V121, P391, DOI 10.1080/00221309.1994.9921213
+NR 45
+TC 93
+Z9 119
+U1 0
+U2 113
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 1096-7516
+EI 1873-5525
+J9 INTERNET HIGH EDUC
+JI Internet High. Educ.
+PD APR 15
+PY 2016
+VL 29
+IS 
+BP 1
+EP 11
+DI 10.1016/j.iheduc.2015.11.001
+PG 11
+WC Education & Educational Research
+SC Education & Educational Research
+GA DK0MD
+UT WOS:000374606000001
+DA 2026-09-28
+ER
+
+PT J
+AU Ramos, JLC
+   Silva, RED
+   Rodrigues, RL
+   Silva, JCS
+   Gomes, AS
+AF Ramos, J. L. C.
+   Silva, R. E. D.
+   Rodrigues, R. L.
+   Silva, J. C. S.
+   Gomes, A. S.
+TI A Comparative Study between Clustering Methods in Educational Data Mining
+SO IEEE LATIN AMERICA TRANSACTIONS
+LA Portuguese
+DT Article
+DE Educational Data Mining; EDM; Clustering Hierarchical method; Clustering Non-hierarchical method
+AB This paper aims to describe the analysis of data from the Moodle's database of a beginner class in Distance Education of a Federal University using distinct educational data mining clustering methods. We carried out clustering using hierarchical and non-hierarchical methods in different groups of students, according to their interaction and performance characteristics. In the analysis, it was possible to perceive the groups obtained, a similarity between the results of each method used, confirming the acquired knowledge from the clustering and demonstrating that the choice of method in this study had little influence on the knowledge obtained from interactions and students performance on the course.
+C1 [Ramos, J. L. C.; Silva, R. E. D.; Silva, J. C. S.] Univ Fed Vale Sao Francisco UNIVASF, Juazeiro, BA, Brazil.
+   [Rodrigues, R. L.] Univ Fed Rural Pernambuco UFRPE, Dept Educ, Recife, PE, Brazil.
+   [Gomes, A. S.] Univ Fed Pernambuco UFPE, Ctr Informat, Recife, PE, Brazil.
+C3 Universidade Federal do Vale do Sao Francisco; Universidade Federal Rural de Pernambuco (UFRPE); Universidade Federal de Pernambuco
+RP Ramos, JLC (corresponding author), Univ Fed Vale Sao Francisco UNIVASF, Juazeiro, BA, Brazil.
+EM jorge.cavalcanti@univasf.edu.br; riceuller@gmail.com; rlr@cin.ufpe.br; joao.sedraz@univasf.edu.br; asg@cin.ufpe.br
+CR Anil KJain Richard C Dubes, 1988, ALGORITHMS FOR CLUSTERING DATA, V0, P0
+   Unknown -, 2012, P 5 INT C ED DAT MIN, V0, P0
+   Antonenko PD, 2012, ETR&D-EDUC TECH RES, V60, P383, DOI 10.1007/s11423-012-9235-8
+   de Baker RSJ, 2011, REV BRASILEIRA INFOR, V19, P0
+   Dominguez A, 2010, CONFERENCE ON EDUCATIONAL DATA MINING, V0, P91
+   Fayyad U, 1996, AI MAG, V17, P37
+   Franca RS, 2013, RENOTE, V11, P0
+   Gan G, 2007, ASA SIAM SER STAT AP, V20, P1, DOI 10.1137/1.9780898718348
+   Garcia E, 2011, INTERNET HIGHER ED, V14, P0
+   Hamalainen W, 2015, IGI GLOBAL BOOK SERI, V0, P0
+   Han J, 2012, MOR KAUF D, V0, P1
+   Heredia D, 2015, LATIN AM T IEEE REV, V13, P3127
+   Kruger A, 2010, P 3 INT C ED DAT MIN, V0, P131
+   Maimon O, 2010, DATA MINING AND KNOWLEDGE DISCOVERY HANDBOOK, V0, P1, DOI 10.1007/978-0-387-09823-4
+   opez MI, 2012, P 5 INT C ED DAT MIN, V0, P0
+   Rodrigues RL, 2014, AN WORKSH MIN DAD AM, V0, P621
+   Romero, 2010, HDB ED DATA MINING, V0, PP75, DOI 10.1201/B10274-8
+   Romero C, 2008, P ED DAT MIN C 2008, V0, P0
+   Romero C, 2013, WIRES DATA MIN KNOWL, V3, P12, DOI 10.1002/widm.1075
+   WARD JH, 1963, J AM STAT ASSOC, V58, P236, DOI 10.2307/2282967
+NR 20
+TC 12
+Z9 14
+U1 0
+U2 40
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 1548-0992
+EI 
+J9 IEEE LAT AM T
+JI IEEE Latin Am. Trans.
+PD AUG 15
+PY 2016
+VL 14
+IS 8
+BP 3755
+EP 3761
+DI 
+PG 7
+WC Computer Science, Information Systems; Engineering, Electrical & Electronic
+SC Computer Science; Engineering
+GA EH4GJ
+UT WOS:000391729400034
+DA 2026-09-28
+ER
+

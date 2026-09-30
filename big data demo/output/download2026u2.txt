@@ -1,0 +1,169 @@
+PT J
+AU Yue, ZM
+   Xu, XY
+AF Yue, Zongmin
+   Xu, Xiaoyu
+TI Student academic prediction and intervention in the context of big data: Comparison and optimization of machine learning models
+SO EDUCATIONAL TECHNOLOGY & SOCIETY
+LA English
+DT Article
+DE Machine learning; Student academic prediction; Educational data mining; Unbalanced dataset problem; Resampling techniques
+ID performance; education
+AB Student academic prediction aids educators in better understanding and supporting student learning. Educational Data Mining (EDM) and its algorithms are valuable tools for addressing this issue. While numerous models have been applied in EDM, most operate on small and medium-sized datasets. The baseline model Support Vector Machines with Sequential Minimum Optimization (SMO-SVM) excels with such datasets. However, few studies accurately and efficiently process large-scale datasets. In this study, we utilized the educational dataset from the Open University of the United Kingdom to construct prediction models for students' "final_result." Leveraging LASSO, XGboost, Deep Neural Networks (DNN), Random Forests, and the Baseline Model Support Vector Classifier, we conducted feature selection and classification phases. Additionally, the Synthetic Minority Over-sampling Technique (SMOTE) addressed data imbalance. Experimental results indicate that the proposed Least Absolute Shrinkage and Selection Operator-Random Forest (LASSO-RF) model is effective in predicting student performance on large-scale datasets. Furthermore, it effectively identifies students at risk of failure with an accuracy of nearly 80%, surpassing baseline models such as Support Vector Classifier and LASSO-Deep Neural Network (LASSO-DNN) in both balanced and unbalanced datasets. This demonstrates Random Forest's ability to handle such data, enabling educators to provide accurate guidance to students at risk of dropout or failing to graduate.
+C1 [Yue, Zongmin; Xu, Xiaoyu] Shaanxi Univ Sci & Technol, Xian, Peoples R China.
+C3 Shaanxi University of Science & Technology
+RP Xu, XY (corresponding author), Shaanxi Univ Sci & Technol, Xian, Peoples R China.
+EM Yuezongmin@sust.edu.cn; 17315381558@163.com
+FU Teaching Reform Project of Shaanxi University of Science and Technology [23Y076]
+CR Al-azazi FA, 2023, HELIYON, V9, P0, DOI 10.1016/j.heliyon.2023.e15382
+   Borhani K, 2023, DECISION ANALYTICS JOURNAL, V9, P100332, DOI 10.1016/j.dajour.2023.100332
+   Bujang SDA, 2023, IEEE ACCESS, V11, P1970, DOI 10.1109/ACCESS.2022.3225404
+   Cortez P, 2008, 15TH EUROPEAN CONCURRENT ENGINEERING CONFERENCE/5TH FUTURE BUSINESS TECHNOLOGY CONFERENCE, V0, P5
+   Grandini M, 2020, ARXIV, V0, P0
+   Hardman J, 2013, SYST RES BEHAV SCI, V30, P194, DOI 10.1002/sres.2130
+   Hashim Ali Salah, 2020, IOP CONFERENCE SERIES: MATERIALS SCIENCE AND ENGINEERING, V928, P0, DOI 10.1088/1757-899x/928/3/032019
+   Hussain S, 2023, ANNALS OF DATA SCIENCE, V10, P637, DOI 10.1007/s40745-021-00341-0
+   Mengash HA, 2020, IEEE ACCESS, V8, P55462, DOI 10.1109/ACCESS.2020.2981905
+   Mueen Ahmed, 2016, INTERNATIONAL JOURNAL OF MODERN EDUCATION AND COMPUTER SCIENCE, V8, P36, DOI 10.5815/ijmecs.2016.11.05
+   Nabil A, 2021, IEEE ACCESS, V9, P140731, DOI 10.1109/ACCESS.2021.3119596
+   Okoye K, 2024, COMPUT EDUC-ARTIF IN, V6, P0, DOI 10.1016/j.caeai.2024.100205
+   Ouatik F, 2022, INT J EMERG TECHNOL, V17, P236, DOI 10.3991/ijet.v17i12.30259
+   Parkavi R, 2024, J ENG RES-KUWAIT, V12, P397, DOI 10.1016/j.jer.2023.09.006
+   Rahimi A, 2008, ADV NEURAL INFORM PR, V20, P1177
+   Sahlaoui H, 2021, IEEE ACCESS, V9, P152688, DOI 10.1109/ACCESS.2021.3124270
+   Sun AN, 2016, J INF TECHNOL EDUC-R, V15, P157
+   Xu X, 2019, COMPUT HUM BEHAV, V98, P166, DOI 10.1016/j.chb.2019.04.015
+   Yassein NA, 2017, JOURNAL OF INFORMATION TECHNOLOGY & SOFTWARE ENGINEERING, V07, P0, DOI 10.4172/2165-7866.1000213
+   Zheng L, 2023, APPL SOFT COMPUT, V136, P0, DOI 10.1016/j.asoc.2023.110114
+NR 20
+TC 0
+Z9 0
+U1 7
+U2 9
+PU INT FORUM EDUCATIONAL TECHNOLOGY & SOC, NATL TAIWAN NORMAL UNIV
+PI Taipei City
+PA No.162, Sec. 1, Heping E. Rd., Da-an Dist, Taipei City, TAIWAN
+SN 1176-3647
+EI 1436-4522
+J9 EDUC TECHNOL SOC
+JI Educ. Technol. Soc.
+PD JAN 15
+PY 2026
+VL 29
+IS 1
+BP 79
+EP 93
+DI 10.30191/ETS.202601_29(1).RP05
+PG 15
+WC Education & Educational Research
+SC Education & Educational Research
+GA DX9FR
+UT WOS:001694697500005
+DA 2026-09-28
+ER
+
+PT J
+AU Zheng, Y
+   Li, DX
+AF Zheng, Ying
+   Li, Dexian
+TI Learning analytics-informed teaching strategies: enhancing interactive learning in STEM education
+SO INTERACTIVE LEARNING ENVIRONMENTS
+LA English
+DT Article
+DE Educational data mining; STEM education; adaptive learning; teaching strategies; student interaction pattern
+ID performance
+AB Educational Data Mining applies data-driven techniques to analyze learning patterns, optimize teaching strategies, and improve student outcomes in STEM education. This study investigates the role of educational data mining and adaptive learning technologies in enhancing instructional methodologies, predicting student disengagement, and personalizing learning experiences. Using a mixed-methods approach, data were collected from 1,483 students and 95 teachers through random and purposive sampling. The findings indicate adaptive learning technologies significantly improve student performance by tailoring instruction to individual needs. Real-time educational data analysis enables early identification of disengagement, facilitating timely interventions. Additionally, insights into student interaction patterns inform the development of evidence-based teaching strategies that foster critical thinking and problem-solving skills. The study highlights the transformative role of educational data mining in creating immersive learning environments that enhance conceptual understanding and practical application, reducing achievement gaps among diverse student populations. This research innovatively integrates adaptive learning technologies with real-time educational analytics to provide scalable, data-driven solutions for educators. The findings emphasize the potential of educational data mining-driven instructional strategies to enhance engagement, academic success, and equitable learning opportunities in STEM education.
+C1 [Zheng, Ying; Li, Dexian] Liaoning Normal Univ, Sch Educ, Dalian, Peoples R China.
+C3 Liaoning Normal University
+RP Zheng, Y (corresponding author), Liaoning Normal Univ, Sch Educ, Dalian, Peoples R China.
+EM yingzhengzheng.id@gmail.com
+FU Youth Project of Liaoning Provincial Social Science Planning Fund "Research on Education 'Double Reduction' Policy and Education Equity" [L22CSH003]
+CR Abina A, 2024, SUSTAINABILITY-BASEL, V16, P0, DOI 10.3390/su16031295
+   Alkabbany I, 2023, SENSORS-BASEL, V23, P0, DOI 10.3390/s23031614
+   Ang KLM, 2020, IEEE ACCESS, V8, P116392, DOI 10.1109/ACCESS.2020.2994561
+   Atif A, 2020, COMPUT EDUC, V156, P0, DOI 10.1016/j.compedu.2020.103954
+   Benita F, 2021, SMART LEARN ENVIRON, V8, P0, DOI 10.1186/s40561-021-00153-y
+   Benner J, 2019, BUILDINGS-BASEL, V9, P0, DOI 10.3390/buildings9050103
+   Bettahi A, 2025, INTERNATIONALIZATION, V0, PP243, DOI https://doi.org/10.1007/978-3-031-76444-8_13
+   Braun V, 2006, QUAL RES PSYCHOL, V3, P77, DOI 10.1191/1478088706qp063oa
+   Cerezo R, 2024, COMPUT HUM BEHAV, V154, P0, DOI 10.1016/j.chb.2024.108155
+   Chen L, 2024, SAGE OPEN, V14, P0, DOI 10.1177/21582440241251641
+   Chen MK, 2024, SUSTAINABILITY-BASEL, V16, P0, DOI 10.3390/su16219186
+   Chng E, 2023, JOURNAL FOR STEM EDUCATION RESEARCH, V6, P385, DOI 10.1007/s41979-023-00092-y
+   Christopoulos A, 2020, EDUC SCI, V10, P0, DOI 10.3390/educsci10110317
+   Di Mitri D, 2022, INT J ARTIF INTELL E, V32, P1093, DOI 10.1007/s40593-021-00281-z
+   Dol Sunita M, 2024, JOURNAL OF THE INSTITUTION OF ENGINEERS (INDIA): SERIES B (ELECTRICAL, V0, P0
+   Du X, 2020, INF DISCOV DELIV, V48, P225, DOI 10.1108/IDD-09-2019-0070
+   El-Sabagh HA, 2021, INT J EDUC TECHNOL H, V18, P0, DOI 10.1186/s41239-021-00289-4
+   Fadzli S, 2020, EDUC INF TECHNOL, V25, P775, DOI 10.1007/s10639-019-09996-y
+   Fischer C, 2020, REV RES EDUC, V44, P130, DOI 10.3102/0091732X20903304
+   Fortino A, 2019, INTEGR STEM EDU CONF, V0, PP354, DOI 10.1109/ISECon.2019.8882067
+   Gauthier A, 2022, FRONT ARTIF INTELL, V5, P0, DOI 10.3389/frai.2022.994967
+   Gomez CVG, 2024, THINK SKILLS CREAT, V52, P0, DOI 10.1016/j.tsc.2024.101502
+   Graduate School of Education American University in Cairo Cairo Egypt, 2015, INTERNATIONAL JOURNAL OF LEARNING AND TEACHING, V0, P0, DOI DOI 10.18178/ijlt.1.1.51-54
+   Guan C, 2020, INT J INNOV STUD, V4, P134, DOI 10.1016/j.ijis.2020.09.001
+   Hamad A, 2024, INT J SCI RES ARCHIV, V11, P244, DOI https://doi.org/10.30574/ijsra.2024.11.1.0026
+   Han FF, 2021, INT J EDUC TECHNOL H, V18, P0, DOI 10.1186/s41239-021-00303-9
+   Hsiao JC, 2022, COMPUT EDUC, V178, P0, DOI 10.1016/j.compedu.2021.104403
+   Jacob J, 2015, 2015 INTERNATIONAL CONFERENCE ON GREEN COMPUTING AND INTERNET OF THINGS (ICGCIOT), V0, PP1344, DOI 10.1109/ICGCIoT.2015.7380675
+   Johnson C C, 2023, HANDBOOK OF RESEARCH ON SCIENCE EDUCATION VOLUME, VIII, P559, DOI 10.4324/9780367855758
+   K G S, 2021, A BEGINNERS GUIDE TO LEARNING ANALYTICS, V0, P29
+   Kavak Ş, 2023, THE JOURNAL OF INTERNATIONAL SCIENTIFIC RESEARCHES, V8, P410, DOI 10.23834/isrjournal.1342255
+   Kelley TR, 2016, INT J STEM EDUC, V3, P0, DOI 10.1186/s40594-016-0046-z
+   Kurilovas E, 2020, COMPUT HUM BEHAV, V107, P0, DOI 10.1016/j.chb.2018.11.003
+   Li L, 2024, AUSTRALAS J EDUC TEC, V40, P1, DOI 10.14742/ajet.8821
+   Lopez C, 2017, COMMUNITY COLL J RES, V41, P168, DOI 10.1080/10668926.2016.1168328
+   López-Zambrano J, 2021, PSICOTHEMA, V33, P456, DOI 10.7334/psicothema2021.62
+   Marticorena-Sánchez R, 2025, EXPERT SYST, V42, P0, DOI 10.1111/exsy.13837
+   Martinez M, 2013, RESHAPING LEARNING: FRONTIERS OF LEARNING TECHNOLOGY IN A GLOBAL CONTEXT, V0, PP139, DOI 10.1007/978-3-642-32301-0_6
+   Miller J, 2019, ZDM-MATH EDUC, V51, P915, DOI 10.1007/s11858-019-01096-y
+   Osorio-Acosta E, 2020, ENCY ED INFORM TECHN, V0, PP487, DOI https://doi.org/10.1007/978-3-030-10576-1_124
+   Parkavi R, 2024, APPL SOFT COMPUT, V156, P0, DOI 10.1016/j.asoc.2024.111451
+   Pellas N, 2020, IEEE T LEARN TECHNOL, V13, P748, DOI 10.1109/TLT.2020.3019405
+   Petersen GB, 2020, BRIT J EDUC TECHNOL, V51, P2098, DOI 10.1111/bjet.12991
+   Raffaghelli JE, 2022, COMPUT EDUC, V182, P0, DOI 10.1016/j.compedu.2022.104468
+   Rao W, 2024, HELIYON, V10, P0, DOI 10.1016/j.heliyon.2024.e36393
+   Sarker S, 2024, COMPUT EDUC-ARTIF IN, V7, P0, DOI 10.1016/j.caeai.2024.100263
+   Schreiter S, 2024, ZDM-MATH EDUC, V56, P31, DOI 10.1007/s11858-023-01531-1
+   Sharma S, 2021, SENSORS-BASEL, V21, P0, DOI 10.3390/s21124239
+   Silvola A, 2021, COMPUT EDUC, V168, P0, DOI 10.1016/j.compedu.2021.104192
+   Talafian H, 2019, JOURNAL FOR STEM EDUCATION RESEARCH, V2, P105, DOI 10.1007/s41979-019-00018-7
+   Termedi MI, 2023, INTERNATIONAL JOURNAL OF ACADEMIC RESEARCH IN BUSINESS AND SOCIAL SCIENCES, V13, P0, DOI 10.6007/ijarbss/v13-i11/19563
+   Tytler R, 2020, TINKERCAD, V0, PP21, DOI 10.1007/978-3-030-52229-2_3
+   Urban S, 2017, J CHEM EDUC, V94, P1051, DOI 10.1021/acs.jchemed.7b00127
+   Wiedbusch MD, 2021, FRONT EDUC, V6, P0, DOI 10.3389/feduc.2021.570229
+   Woo PS, 2018, RELATIONSHIP TEACHER, V0, P0
+   Wu S, 2024, ARXIV, V0, P0, DOI DOI 10.48550/ARXIV.2402.01666
+   Wu TT, 2023, INT J EDUC TECHNOL H, V20, P0, DOI 10.1186/s41239-023-00422-5
+   Xiao W, 2022, ENG REP, V4, P0, DOI 10.1002/eng2.12482
+   Xie K, 2024, ETR&D-EDUC TECH RES, V72, P2585, DOI 10.1007/s11423-023-10259-4
+   Zhu Y, 2023, P 2023 8 INT C INF E, V0, PP1, DOI https://doi.org/10.1145/3594441.3594442
+NR 60
+TC 0
+Z9 0
+U1 6
+U2 18
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1049-4820
+EI 1744-5191
+J9 INTERACT LEARN ENVIR
+JI Interact. Learn. Environ.
+PD APR 21
+PY 2026
+VL 34
+IS 4
+BP 2676
+EP 2705
+DI 10.1080/10494820.2025.2553113
+EA SEP 2025
+PG 30
+WC Education & Educational Research
+SC Education & Educational Research
+GA IZ0RV
+UT WOS:001573967100001
+DA 2026-09-28
+ER
+
