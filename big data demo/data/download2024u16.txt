@@ -1,0 +1,1676 @@
+PT J
+AU Al-éRuiz, R
+   Martníez-Abad, F
+   del Moral-Marcos, MT
+AF Ale-Ruiz, Rafael
+   Martinez-Abad, Fernando
+   del Moral-Marcos, Maria Teresa
+TI Academic engagement and management of personalised active learning in higher education digital ecosystems
+SO EDUCATION AND INFORMATION TECHNOLOGIES
+LA English
+DT Article
+DE Active learning; University education; Digital society; Educational innovation; Academic engagement; Educational data mining
+ID student engagement; achievement; science; trends; school
+AB The flexible, changing, and uncertain nature of present-day society requires its citizens have new personal, professional, and social competences which exceed the traditional knowledge-based, academic skills imparted in higher education. This study aims to identify those factors associated with active methodologies that predict university students' learning achievements in a digital ecosystem and thus, optimize the learning-teaching process. The teaching management tool Learning Analytics in Higher Education (LAHE) has been applied to a 200-student non-probabilistic incidental sample spread over 5 different university courses, enabling a personalized learning-teaching process tailored to the needs of each group and /or student. Based on a pre-experimental design without a control group, an analysis through decision trees based on educational data mining has been undertaken on the predictive potential of the active methodologies employed, and their effects on students' learning achievements. The criterion variable of the study was the final exam grade, and the explanatory variables included student characteristics, indicators of the teaching-learning process and non-cognitive factors. Results show that factors associated with active methodologies correctly predict a significant portion of the learning achieved by students. More specifically, the factors that have the greatest impact on learning are those related to academic engagement and to a student continuous learning process.
+C1 [Ale-Ruiz, Rafael] Francisco De Vitoria Univ, Dept Business Management, Madrid, Spain.
+   [Martinez-Abad, Fernando] Francisco De Vitoria Univ, Fac Law Business & Governance, Ctra Pozuelo Majadahonda, Km 1,800, Pozuelo De Alarcon 28223, Madrid, Spain.
+   [del Moral-Marcos, Maria Teresa] Univ Salamanca, Dept Didact Org & Res Methods, Salamanca, Spain.
+   [del Moral-Marcos, Maria Teresa] Pontif Univ Salamanca, Dept Res Methods & Diag Educ, Salamanca, Spain.
+C3 Universidad Francisco de Vitoria; Universidad Francisco de Vitoria; University of Salamanca; Pontifical University of Salamanca
+RP Al-éRuiz, R (corresponding author), Francisco De Vitoria Univ, Dept Business Management, Madrid, Spain.
+EM r.ale.prof@ufv.es
+CR Alé-Ruiz R, 2020, REV INTERUNIV FORM P, V34, P0, DOI 10.47553/rifop.v34i2.77913
+   Arturo AA, 2021, RED-REV EDUC DISTANC, V21, P0, DOI 10.6018/red.426371
+   Baumann T, 2016, PROCD SOC BEHV, V226, P243, DOI 10.1016/j.sbspro.2016.06.185
+   Bonami B, 2020, COMUNICAR, V28, P43, DOI 10.3916/C65-2020-04
+   Brandenburg J, 2020, IEEE INT WORKSH MULT, V0, P0
+   Campbell DT, 1963, EXPT QUASIEXPERIMENT, V0, P0
+   Carlos V, 2024, INTERACT LEARN ENVIR, V32, P2925, DOI 10.1080/10494820.2022.2163263
+   Cheung SKS, 2021, INTERACT LEARN ENVIR, V29, P179, DOI 10.1080/10494820.2021.1894830
+   Chipchase L, 2017, INTERNATIONAL JOURNAL OF HIGHER EDUCATION, V6, P31, DOI 10.5430/ijhe.v6n2p31
+   Christenson SL, 2012, HANDBOOK OF RESEARCH ON STUDENT ENGAGEMENT, V0, PP1, DOI 10.1007/978-1-4614-2018-7
+   Collie RJ, 2017, EDUC PSYCHOL-UK, V37, P550, DOI 10.1080/01443410.2015.1127330
+   Crisol-Moya E, 2020, FRONT PSYCHOL, V11, P0, DOI 10.3389/fpsyg.2020.01703
+   Dascalu MI, 2016, LECT N EDUC TECHNOL, V0, PP309, DOI 10.1007/978-981-287-868-7_38
+   FADEL Charles, 2019, SUSTAINABILITY HUMAN, V0, PP269, DOI 10.1007/978-3-319-78580-6_8
+   Farrell O, 2020, INT J EDUC TECHNOL H, V17, P0, DOI 10.1186/s41239-020-00199-x
+   Fernandez Gavira J, 2018, ESPIRAL, V0, P0
+   Flavin M, 2021, INT REV RES OPEN DIS, V22, P164
+   Gavesic D, 2020, COVID 19 STEEP LEARN, V0, P0
+   Gil-Fernández R, 2023, RED-REV EDUC DISTANC, V23, P0, DOI 10.6018/red.526311
+   Goh CF, 2020, INT REV RES OPEN DIS, V21, P136
+   Groff JS, 2017, STATE FIELD FUTURE D, V0, P0
+   Gros Begona, 2016, SMART LEARNING ENVIRONMENTS, V3, P0, DOI 10.1186/s40561-016-0039-x
+   Guàrdia L, 2021, INT REV RES OPEN DIS, V22, P166
+   Hamzah H, 2022, SUSTAINABILITY-BASEL, V14, P0, DOI 10.3390/su14020813
+   Rivero VMH, 2021, RIE-REV INVESTIG EDU, V39, P227, DOI 10.6018/rie.423341
+   HWANG GJ, 2014, SMART LEARNING ENVIRONMENTS, V1, P0, DOI 10.1186/S40561-014-0004-5
+   Hwang GJ, 2022, COMPUT EDUC-ARTIF IN, V3, P100082, DOI 10.1016/j.caeai.2022.100082
+   Hwang JH, 2016, INDIAN J SCI TECHNOL, V9, P0, DOI 10.17485/ijst/2016/v9i44/105171
+   Johnson N, 2020, ONLINE LEARN, V24, P6, DOI 10.24059/olj.v24i2.2285
+   Kahu ER, 2018, HIGH EDUC RES DEV, V37, P58, DOI 10.1080/07294360.2017.1344197
+   Kahu ER, 2013, STUD HIGH EDUC, V38, P758, DOI 10.1080/03075079.2011.598505
+   Lam SF, 2016, BRIT J EDUC PSYCHOL, V86, P137, DOI 10.1111/bjep.12079
+   Li KC, 2021, AUSTRALAS J EDUC TEC, V37, P189, DOI 10.14742/ajet.6617
+   Li KC, 2021, INTERACT LEARN ENVIR, V29, P182, DOI 10.1080/10494820.2020.1811735
+   Li KC, 2020, INT J MOB LEARN ORG, V14, P63, DOI 10.1504/IJMLO.2020.103901
+   Lucieer SM, 2016, ADV HEALTH SCI EDUC, V21, P93, DOI 10.1007/s10459-015-9613-1
+   Martínez-Abad F, 2020, STUD EDUC EVAL, V66, P0, DOI 10.1016/j.stueduc.2020.100875
+   Massaro VR, 2022, J GLOB EDUC RES=JGER, V6, P98, DOI 10.5038/2577-509x.6.1.1124
+   Moscardini AO, 2022, STUD HIGH EDUC, V47, P812, DOI 10.1080/03075079.2020.1807493
+   Mundet HB, 2021, EDUC XX1, V24, P65, DOI 10.5944/educXX1.28561
+   Palomino MDP, 2021, RIE-REV INVESTIG EDU, V39, P169, DOI 10.6018/rie.419481
+   Picton C, 2018, HIGH EDUC RES DEV, V37, P1260, DOI 10.1080/07294360.2018.1478803
+   Quinlan JohnRoss, 1993, C4 5 PROGRAMS MACHIN, V1, P0
+   Ramirez S, 2020, OCTAEDRO, V0, P0
+   Rodríguez-Izquierdo RM, 2020, REV PSICODIDACT, V25, P45, DOI 10.1016/j.psicod.2019.09.001
+   Sánchez-Martín J, 2017, THINK SKILLS CREAT, V26, P51, DOI 10.1016/j.tsc.2017.05.003
+   Schnitzler K, 2020, FRONT EDUC, V5, P0, DOI 10.3389/feduc.2020.602470
+   Singh H, 2020, EDUC INF TECHNOL, V25, P3299, DOI 10.1007/s10639-020-10116-4
+   Tenuto PL, 2021, J GLOB EDUC RES=JGER, V5, P96, DOI 10.5038/2577-509x.5.1.1027
+   Tharwat A, 2023, MATHEMATICS-BASEL, V11, P0, DOI 10.3390/math11040820
+   Theobald EJ, 2020, P NATL ACAD SCI USA, V117, P6476, DOI 10.1073/pnas.1916903117
+   Tsai YS, 2021, INTERNET HIGH EDUC, V50, P0, DOI 10.1016/j.iheduc.2021.100794
+   Walkington C, 2020, J RES TECHNOL EDUC, V52, P235, DOI 10.1080/15391523.2020.1747757
+   Witten IH, 2011, MOR KAUF D, V0, P1
+   Yoo Y, 2015, LECT N EDUC TECHNOL, V0, PP145, DOI 10.1007/978-3-662-44188-6_21
+   Zamora-Polo F, 2019, SUSTAINABILITY-BASEL, V11, P0, DOI 10.3390/su11154224
+NR 56
+TC 9
+Z9 11
+U1 3
+U2 57
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 1360-2357
+EI 1573-7608
+J9 EDUC INF TECHNOL
+JI Educ. Inf. Technol.
+PD JUL 15
+PY 2024
+VL 29
+IS 10
+BP 12289
+EP 12304
+DI 10.1007/s10639-023-12358-4
+EA DEC 2023
+PG 16
+WC Education & Educational Research
+SC Education & Educational Research
+GA A2L4T
+UT WOS:001115580400011
+DA 2026-09-28
+ER
+
+PT J
+AU Lin, L
+   Zhou, DH
+   Wang, JY
+   Wang, Y
+AF Lin, Lin
+   Zhou, Danhua
+   Wang, Jingying
+   Wang, Yu
+TI A Systematic Review of Big Data Driven Education Evaluation
+SO SAGE OPEN
+LA English
+DT Review
+DE artificial intelligence; big data; educational evaluation; systematic review
+AB The rapid development of artificial intelligence has driven the transformation of educational evaluation into big data-driven. This study used a systematic literature review method to analyzed 44 empirical research articles on the evaluation of big data education. Firstly, it has shown an increasing trend year by year, and is mainly published in thematic journals such as educational technology, science education, and language teaching. Chinese and American researchers have made the greatest contributions in this field. Secondly, the algorithmic models for big data education evaluation research are diverse, the text modality is the most popular, the evaluation subjects are mainly college students, with fewer primary and secondary school students, and science is the discipline that most commonly applies big data education evaluation. The evaluation objectives of big data education evaluation mainly focus on five aspects: high-order thinking analysis, learning performance prediction, learning emotion recognition, teaching management decision-making, and evaluation mode optimization, and the text modality is widely used for data collection in high-order thinking analysis; regardless of the evaluation objectives, higher education students are the most widely evaluated objects; the science discipline is the main field of using big data technology to empower teaching evaluation. Thirdly, the current research topics of big data education evaluation mainly focus on online learning behavior and environmental participation evaluation, process assessment of learning motivation and emotional analysis, development and optimization of subject domain big data models, cognitive diagnosis and high-order thinking skills evaluation, and design of learning analysis frameworks based on data mining.
+C1 [Lin, Lin] Harbin Normal Univ, Harbin, Peoples R China.
+   [Zhou, Danhua; Wang, Jingying; Wang, Yu] Beijing Normal Univ, Beijing, Peoples R China.
+   [Zhou, Danhua; Wang, Jingying] Beijing Normal Univ, Fac Educ, 19 Xinjiekouwai St, Beijing 100875, Peoples R China.
+C3 Harbin Normal University; Beijing Normal University; Beijing Normal University
+RP Wang, JY (corresponding author), Beijing Normal Univ, Fac Educ, 19 Xinjiekouwai St, Beijing 100875, Peoples R China.
+EM wangjingying8018@126.com
+FU Collaborative Evaluation Mechanism of Labor Education in Heilongjiang Universities under the Background of Artificial Intelligence in the Philosophy and Social Sciences Research Project of Heilongjiang Province of P.R. China [21EDC193]; Research and Practice on the Continuous Improvement Mechanism of Teacher Training Quality in Higher Education Institutions in Heilongjiang Province of P.R. China [SJGY20220361]; Design and Implementation of Embodied Teaching Mode for Class Management from the Perspective of Course Ideology and Politics of P.R. China [SJGY20210461]
+CR Alsariera YA, 2022, COMPUTATIONAL INTELLIGENCE AND NEUROSCIENCE, V5, P1
+   Anderson D, 2020, EDUC MEAS-ISSUES PRA, V39, P53, DOI 10.1111/emip.12314
+   Angeli C, 2013, ETR&D-EDUC TECH RES, V61, P521, DOI 10.1007/s11423-013-9298-1
+   Baradaran V, 2020, INT J FUZZY SYST, V22, P1772, DOI 10.1007/s40815-020-00901-1
+   Basu K, 2019, DATA, V4, P0, DOI 10.3390/data4020065
+   Chui KT, 2020, COMPUT HUM BEHAV, V107, P0, DOI 10.1016/j.chb.2018.06.032
+   Çinar A, 2020, EDUC INF TECHNOL, V25, P3821, DOI 10.1007/s10639-020-10128-0
+   COHEN J, 1992, PSYCHOL BULL, V112, P155, DOI 10.1037/0033-2909.112.1.155
+   Diekemper RL, 2015, WORLD J META-ANAL, V3, P142, DOI 10.13105/wjma.v3.i3.142
+   Duchatelet D, 2022, STUD EDUC EVAL, V72, P0, DOI 10.1016/j.stueduc.2022.101129
+   Duzhin F, 2018, EDUC SCI, V8, P0, DOI 10.3390/educsci8010007
+   El-Alfy ESM, 2008, COMPUT EDUC, V51, P1, DOI 10.1016/j.compedu.2007.03.003
+   Elia G, 2019, COMPUT HUM BEHAV, V92, P589, DOI 10.1016/j.chb.2018.04.033
+   Guleria P, 2023, EDUC INF TECHNOL, V28, P1081, DOI 10.1007/s10639-022-11221-2
+   Guo J, 2022, J INTELL SYST, V31, P113, DOI 10.1515/jisys-2022-0001
+   Ha M, 2017, CBE LIFE SCIENCES EDUCATION, V10, P329
+   Ha M, 2011, CBELIFE SCIENCES EDUCATION, V10, P79
+   Han C, 2023, COMPUT ASSIST LANG L, V36, P1064, DOI 10.1080/09588221.2021.1968915
+   How ML, 2019, EDUC SCI, V9, P0, DOI 10.3390/educsci9030184
+   Hu X, 2022, MODERN EDUCATIONAL TECHNOLOGY, V32, P5
+   Huang AYQ, 2020, INTERACT LEARN ENVIR, V28, P206, DOI 10.1080/10494820.2019.1636086
+   Jescovitch LN, 2021, J SCI EDUC TECHNOL, V30, P150, DOI 10.1007/s10956-020-09858-0
+   Jia XJ, 2022, INT J EMERG TECHNOL, V17, P110, DOI 10.3991/ijet.v17i09.31375
+   Jiang SY, 2023, RES SCI EDUC, V53, P425, DOI 10.1007/s11165-022-10061-x
+   Kitchenham B, 2009, INFORM SOFTWARE TECH, V51, P7, DOI 10.1016/j.infsof.2008.09.009
+   Kong SC, 2021, RES PRACT TECH ENHAN, V16, P0, DOI 10.1186/s41039-021-00172-w
+   Li Z, 2020, INFRARED PHYSICS TECHNOLOGY, V109, P1
+   Lin YC, 2024, INTERACT LEARN ENVIR, V32, P502, DOI 10.1080/10494820.2022.2091606
+   Lino A, 2019, CLUSTER COMPUT, V22, PS7217, DOI 10.1007/s10586-017-1122-y
+   Liu BQ, 2021, CHINA EDUCATIONAL TECHNOLOGY, V2021, P19
+   Liu XY, 2022, EDUC INF TECHNOL, V27, P9913, DOI 10.1007/s10639-022-11010-x
+   Luo F, 2021, MODERN DISTANCE EDUCATION RESEARCH, V33, P42, DOI 10.3969/j.issn.1009-5195.2021.05.005
+   Ma ZH, 2020, J COMPUT EDUC, V7, P435, DOI 10.1007/s40692-020-00162-9
+   Maestrales S, 2021, J SCI EDUC TECHNOL, V30, P239, DOI 10.1007/s10956-020-09895-9
+   Nehm RH, 2012, J SCI EDUC TECHNOL, V21, P183, DOI 10.1007/s10956-011-9300-9
+   Newman M, 2020, SYSTEMATIC REVIEWS IN EDUCATIONAL RESEARCH: METHODOLOGY, V0, P3, DOI 10.1007/978-3-658-27602-7_1
+   Ninaus M, 2019, COMPUT EDUC, V142, P0, DOI 10.1016/j.compedu.2019.103641
+   Okoye K, 2022, EDUC INF TECHNOL, V27, P3891, DOI 10.1007/s10639-021-10751-5
+   Onan A, 2021, COMPUT APPL ENG EDUC, V29, P572, DOI 10.1002/cae.22253
+   Oztekin A, 2013, DECIS SUPPORT SYST, V56, P63, DOI 10.1016/j.dss.2013.05.003
+   Page MJ, 2021, BMJ-BRIT MED J, V372, P0, DOI 10.1136/bmj.n71
+   Rico-Juan JR, 2019, COMPUT EDUC, V140, P0, DOI 10.1016/j.compedu.2019.103609
+   Rosenberg JM, 2021, J SCI EDUC TECHNOL, V30, P255, DOI 10.1007/s10956-020-09862-4
+   Rudnicka AR, 2012, OPHTHAL PHYSL OPT, V32, P174, DOI 10.1111/j.1475-1313.2012.00901.x
+   Rybinski K, 2021, ASSESS EVAL HIGH EDU, V46, P1127, DOI 10.1080/02602938.2020.1844866
+   Shin JN, 2022, J COMPUT EDUC, V9, P71, DOI 10.1007/s40692-021-00196-7
+   Shuo W, 2022, NEURAL COMPUT APPL, V34, P2583, DOI 10.1007/s00521-021-05846-6
+   Tsimaras DO, 2022, EDUC SCI, V12, P0, DOI 10.3390/educsci12090633
+   Vij S, 2020, WIRELESS PERS COMMUN, V111, P1271, DOI 10.1007/s11277-019-06913-x
+   Wang HC, 2008, COMPUT EDUC, V51, P1450, DOI 10.1016/j.compedu.2008.01.006
+   Wu XJ, 2020, J AMB INTEL HUM COMP, V11, P3521, DOI 10.1007/s12652-019-01490-0
+   Wulff P, 2022, J SCI EDUC TECHNOL, V31, P490, DOI 10.1007/s10956-022-09969-w
+   Yagci M, 2022, SMART LEARN ENVIRON, V9, P0, DOI 10.1186/s40561-022-00192-z
+   Zhai XM, 2023, RES SCI EDUC, V53, P405, DOI 10.1007/s11165-022-10062-w
+   Zhai XM, 2022, J RES SCI TEACH, V59, P1765, DOI 10.1002/tea.21773
+   Zhai XM, 2021, J SCI EDUC TECHNOL, V30, P139, DOI 10.1007/s10956-021-09901-8
+   Zhai XM, 2021, J SCI EDUC TECHNOL, V30, P298, DOI 10.1007/s10956-020-09879-9
+   Zhai XM, 2021, J SCI EDUC TECHNOL, V30, P361, DOI 10.1007/s10956-020-09875-z
+   Zhai XM, 2020, J RES SCI TEACH, V57, P1430, DOI 10.1002/tea.21658
+   Zhang LL, 2022, OPEN EDUCATION RESEARCH, V28, P101, DOI https://doi.org/10.13966/j.cnki.kfjyyj.2022.06.011
+   Zhang L, 2021, INT J EMERG TECHNOL, V16, P142, DOI 10.3991/ijet.v16i12.23323
+   Zhang M, 2022, BCI-BASED MOBILE COMPUTING IN THE INTERNET OF MEDICAL THINGS, V29, P1
+   Zhang YH, 2020, OPEN ED RES, V0, P59
+   Zhong Q, 2022, COMPUTATIONAL INTELLIGENCE AND NEUROSCIENCE, V2022, P1
+NR 64
+TC 24
+Z9 32
+U1 19
+U2 231
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 2158-2440
+EI 
+J9 SAGE OPEN
+JI SAGE Open
+PD APR 15
+PY 2024
+VL 14
+IS 2
+BP 
+EP 
+DI 10.1177/21582440241242180
+PG 18
+WC Social Sciences, Interdisciplinary
+SC Social Sciences - Other Topics
+GA OQ4C2
+UT WOS:001208716800001
+DA 2026-09-28
+ER
+
+PT J
+AU Pecuchova, J
+   Drlik, M
+AF Pecuchova, Janka
+   Drlik, Martin
+TI Enhancing the Early Student Dropout Prediction Model Through Clustering Analysis of Students' Digital Traces
+SO IEEE ACCESS
+LA English
+DT Article
+DE Clustering algorithms; Prediction algorithms; Machine learning; Education; Predictive models; Data mining; Machine learning algorithms; Data models; Analytical models; Standards; Educational data mining; learning analytics; clustering analysis; dropout prediction
+ID algorithms; analytics
+AB Educational Data Mining and learning analytics have gained significant prominence in recent years, garnering attention from researchers worldwide. This is primarily due to their potential to improve decision-making processes within higher education. This study utilizes Educational Data Mining to suggest a clustering-based approach for classifying students based on their academic performance, specifically focusing on their interactions within Learning Management Systems in blended learning settings. Log data from the Learning Management System Moodle platform was analyzed to determine if valuable insights could be derived from student activities without the need for personal or invasive data. Given the large dataset, Principal Component Analysis and Uniform Manifold Approximation and Projection were employed for dimensionality reduction. Three unsupervised learning models-BIRCH, DBSCAN, and GMM-were then applied to identify distinct student clusters. The results from the comparison revealed that the BIRCH algorithm was the most effective in accurately categorizing students based on their activities. Further analysis of identified clusters revealed a strong correlation between student engagement and academic outcomes, with two high-risk clusters demonstrating the highest dropout rates. To better understand the reasons behind the found clusters, the course duration was subsequently divided into intervals, and standard machine learning methods were applied to predict at-risk students over time, confirming that early identification of at-risk students using clustering is feasible. This study demonstrates the efficacy of non-invasive data collection and unsupervised learning models in predicting student success, emphasizing the importance of temporal and content-specific analysis. The proposed approach leverages clustering algorithms to enhance the understanding of student behavior by identifying patterns and grouping students with similar learning and engagement profiles. This supports the development of targeted interventions that are tailored to specific student needs, ultimately improving retention and success.
+C1 [Pecuchova, Janka; Drlik, Martin] Constantine Philosopher Univ Nitra, Fac Nat Sci & Informat, Dept Informat, Nitra 94901, Slovakia.
+C3 Constantine the Philosopher University in Nitra
+RP Pecuchova, J (corresponding author), Constantine Philosopher Univ Nitra, Fac Nat Sci & Informat, Dept Informat, Nitra 94901, Slovakia.
+EM jpecuchova@ukf.sk
+FU Scientific Grant Agency of the Ministry of Education of Slovak Republic; Slovak Academy of Sciences [VEGA-1/0490/22]; European Commission ERASMUS+ Program 2021 [2021-1-SK01-KA220-HED-000032095]; European Union (EU) NextGenerationEU through the Recovery and Resilience Plan for Slovakia [09I03-03-V04-000596]
+CR Rahman MA, 2021, PLOS ONE, V16, P0, DOI 10.1371/journal.pone.0255312
+   Ahmad M, 2022, LECT NOTE DATA ENG, V127, P309, DOI 10.1007/978-3-030-98741-1_26
+   Ahuja R, 2019, ADV INTELL SYST, V741, P897, DOI 10.1007/978-981-13-0761-4_85
+   Alshareef F, 2020, INT J ADV COMPUT SC, V11, P729
+   Andre, 2023, IEEE ACCESS, V11, P130072, DOI 10.1109/ACCESS.2023.3332818
+   Bardach L, 2020, EUR J PSYCHOL EDUC, V35, P477, DOI 10.1007/s10212-019-00433-9
+   DeFreitas K, 2015, IADIS-INT J COMPUT S, V10, P65
+   Dol SM, 2023, ENG APPL ARTIF INTEL, V122, P0, DOI 10.1016/j.engappai.2023.106071
+   Feng GY, 2022, IEEE ACCESS, V10, P19558, DOI 10.1109/ACCESS.2022.3151652
+   Govindasamy K, 2018, INT. J. PURE APPL. MATH., V119, P309
+   Hooshyar D, 2020, ENTROPY-SWITZ, V22, P0, DOI 10.3390/e22010012
+   Krizanic S, 2020, INT J ENG BUS MANAG, V12, P0, DOI 10.1177/1847979020908675
+   Li XY, 2021, IEEE ACCESS, V9, P7076, DOI 10.1109/ACCESS.2021.3049157
+   Navarro AM, 2018, INT J INTERACT MULTI, V5, P9, DOI 10.9781/ijimai.2018.02.003
+   Mi F, 2015, 2015 IEEE INTERNATIONAL CONFERENCE ON DATA MINING WORKSHOP (ICDMW), V0, PP256, DOI 10.1109/ICDMW.2015.174
+   Mubarak AA, 2021, COMPUT ELECTR ENG, V93, P0, DOI 10.1016/j.compeleceng.2021.107271
+   Muhammed LA, 2021, 2021 4TH INTERNATIONAL CONFERENCE ON COMPUTER AND INFORMATICS ENGINEERING (IC2IE 2021), V0, PP181, DOI 10.1109/IC2IE53219.2021.9649366
+   Nkomo LM, 2021, TECHTRENDS, V65, P808, DOI 10.1007/s11528-021-00638-0
+   Oladipupo OO, 2019, INTELL DATA ANAL, V23, P1055, DOI 10.3233/IDA-184254
+   Perez B, 2018, 2018 IEEE 1ST COLOMBIAN CONFERENCE ON APPLICATIONS IN COMPUTATIONAL INTELLIGENCE (COLCACI), V0, P0
+   Schröer C, 2021, PROCEDIA COMPUT SCI, V181, P526, DOI 10.1016/j.procs.2021.01.199
+   Shoaib M, 2022, EDUC INF TECHNOL, V27, P9099, DOI 10.1007/s10639-022-10970-4
+   Vital TP, 2019, ADV INTELL SYST COMP, V758, P743, DOI 10.1007/978-981-13-0514-6_71
+   Xing WL, 2019, J EDUC COMPUT RES, V57, P547, DOI 10.1177/0735633118757015
+   Yaacob NNHM, 2019, MATEC WEB CONF, V255, P0, DOI 10.1051/matecconf/201925503002
+NR 25
+TC 17
+Z9 24
+U1 14
+U2 39
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+EI 
+J9 IEEE ACCESS
+JI IEEE Access
+PD JUN 15
+PY 2024
+VL 12
+IS 
+BP 159336
+EP 159367
+DI 10.1109/ACCESS.2024.3486762
+PG 32
+WC Computer Science, Information Systems; Engineering, Electrical & Electronic; Telecommunications
+SC Computer Science; Engineering; Telecommunications
+GA L3L1L
+UT WOS:001349759500001
+DA 2026-09-28
+ER
+
+PT J
+AU Ahmad, K
+   Iqbal, W
+   El-Hassan, A
+   Qadir, J
+   Benhaddou, D
+   Ayyash, M
+   Al-Fuqaha, A
+AF Ahmad, Kashif
+   Iqbal, Waleed
+   El-Hassan, Ammar
+   Qadir, Junaid
+   Benhaddou, Driss
+   Ayyash, Moussa
+   Al-Fuqaha, Ala
+TI Data-Driven Artificial Intelligence in Education: A Comprehensive Review
+SO IEEE TRANSACTIONS ON LEARNING TECHNOLOGIES
+LA English
+DT Article
+DE Artificial intelligence; Education; Surveys; Data mining; Market research; Systematics; Recommender systems; Artificial intelligence (AI) in education; e-learning; educational data mining (EDM); generative AI for education; intelligent tutoring systems (ITS); machine learning (ML) in education; personalized learning
+ID learning analytics; sentiment analysis; big data; systems; prediction; framework
+AB As education constitutes an essential development standard for individuals and societies, researchers have been exploring the use of artificial intelligence (AI) in this domain and have embedded the technology within it through a myriad of applications. In order to provide a detailed overview of the efforts, this article pays particular attention to these developments by highlighting key application areas of data-driven AI in education; it also analyzes existing tools, research trends, as well as limitations of the role data-driven AI can play in education. In particular, this article reviews various applications of AI in education including student grading and assessments, student retention and drop-out predictions, sentiment analysis, intelligent tutoring, classroom monitoring, and recommender systems. This article also provides a detailed bibliometric analysis to highlight the salient research trends in AI in education over nine years (2014-2022) and further provides a detailed description of the tools and platforms developed as the outcome of research and development efforts in AI in education. For the bibliometric analysis, articles from several top venues are analyzed to explore research trends in the domain. The analysis shows sufficient contribution in the domain from different parts of the world with a clear lead for the United States. Moreover, students' grading and evaluation have been observed as the most widely explored application. Despite the significant success, we observed several aspects of education where AI alone has not contributed much. We believe such detailed analysis is expected to provide a baseline for future research in the domain.
+C1 [Ahmad, Kashif] Munster Technol Univ, Dept Comp Sci, Cork T12 P928, Ireland.
+   [Iqbal, Waleed] Queen Mary Univ London, Sch Elect Engn & Comp Sci, London E1 4NS, England.
+   [El-Hassan, Ammar] Princess Sumaya Univ Technol Amman, Dept Comp Sci, Amman 11941, Jordan.
+   [Qadir, Junaid] Qatar Univ, Coll Engn, Dept Comp Sci & Engn, Doha, Qatar.
+   [Benhaddou, Driss] Univ Houston, Coll Engn, Dept Sci Engn Technol, Houston, TX 77004 USA.
+   [Benhaddou, Driss] Alfaisal Univ, Coll Engn, Dept Elect Engn, Riyadh 11533, Saudi Arabia.
+   [Ayyash, Moussa] Chicago State Univ, Comp Informat Math Sci & Technol, Chicago, IL 60628 USA.
+   [Al-Fuqaha, Ala] Hamad Bin Khalifa Univ, Coll Sci & Engn CSE, Informat & Comp Technol ICT Div, Doha 5825, Qatar.
+C3 Munster Technological University (MTU); University of London; Queen Mary University London; Princess Sumaya University for Technology; Qatar University; University of Houston System; University of Houston; Chicago State University; Qatar Foundation (QF); Hamad Bin Khalifa University-Qatar
+RP Al-Fuqaha, A (corresponding author), Hamad Bin Khalifa Univ, Coll Sci & Engn CSE, Informat & Comp Technol ICT Div, Doha 5825, Qatar.
+EM kashif.ahmad@mtu.ie; w.iqbal@qmul.ac.uk; a.elhassan@psut.edu.jo; jqadir@qu.edu.qa; dbenhadd@central.uh.edu; mayyash@csu.edu; aalfuqaha@hbku.edu.qa
+CR Adejo OW, 2018, J APPL RES HIGH EDUC, V10, P61, DOI 10.1108/JARHE-09-2017-0113
+   Ahmad K, 2020, ARXIV, V0, P0
+   Ahmad K, 2022, COMPUT SCI REV, V43, P0, DOI 10.1016/j.cosrev.2021.100452
+   Ahmad S, 2023, ARXIV, V0, P0
+   Akcapinar G, 2014, IEEE INT CONF ADV LE, V0, PP109, DOI 10.1109/ICALT.2014.40
+   Akgun S, 2022, AI AND ETHICS, V2, P431, DOI 10.1007/s43681-021-00096-7
+   Al-Emran M, 2020, TOWARD SOCIAL INTERNET OF THINGS (SIOT): ENABLING TECHNOLOGIES, V0, P197, DOI 10.1007/978-3-030-24513-912
+   Alalawi K, 2023, ENG REP, V5, P0, DOI 10.1002/eng2.12699
+   Alam A, 2021, PROC INT C ADV COMPU, V0, P1
+   Aldowah H, 2019, TELEMAT INFORM, V37, P13, DOI 10.1016/j.tele.2019.01.007
+   Almasri A, 2019, INT. J. ACAD. ENG. RES. (IJAER), V3, P21
+   Unknown -, 2023, INTERNATIONAL ARTIFICIAL INTELLIGENCE IN EDUCATION SOCIETY, V0, P0
+   Unknown -, 2023, MOBYMAX: FIX LEARNING GAPS, V0, P0
+   Unknown -, 2023, PROCTORIO, V0, P0
+   Unknown -, 2023, DZONE: WILL AI REPLACE TEACHERS?, V0, P0
+   Unknown -, 2023, ONLINE LEARNING IS OUR BUSINESS-LET US DO IT FOR YOU, V0, P0
+   Unknown -, 2023, THIRD SPACE LEARNING, V0, P0
+   Unknown -, 2023, QBOT: HELP STUDENTS TO REACH THEIR FUL POTENTIAL, V0, P0
+   Unknown -, 2023, LOOPLEARN: AUTOMATED ATTENDANCE KEEPING, V0, P0
+   Unknown -, 2023, NAO IN EDUCATION, V0, P0
+   Unknown -, 2023, SQUIRREL AI LEARNING, V0, P0
+   Unknown -, 2023, CAMPUSNEXUS SUCCEED: RETENTION ANALYTICS, V0, P0
+   Unknown -, 2023, CAMPUSLABS: DATA DRIVEN INNOVATIONS, V0, P0
+   Unknown -, 2023, AZURE FOR EDUCATION, V0, P0
+   Unknown -, 2023, QUERIUM: THE HOME MASTER, V0, P0
+   Unknown -, 2023, PREDICTING EMPLOYMENT THROUGH MACHINE LEARNING, V0, P0
+   Unknown -, 2023, JOURNAL OF LEARNING ANALYTICS, V0, P0
+   Unknown -, 2019, HEARTBEAT, V0, P0
+   Unknown -, 2023, CAPTEMO: AN EMOTION RECOGNITION PLATFORM, V0, P0
+   Unknown -, 2023, NURO RETENTION, V0, P0
+   Unknown -, 2023, SCOPUS, V0, P0
+   Unknown -, 2023, LIGHTSIDE LABS, V0, P0
+   Unknown -, 2023, AI HAS ALREADY STARTED RESHAPING SPECIAL EDUCATION, V0, P0
+   Unknown -, 2023, MYEDMATCH, V0, P0
+   Unknown -, 2023, QUANTUM ADAPTIVE LEARNING, V0, P0
+   Unknown -, 2023, SAFR FOR SECURITY PROVIDES ACCURATE REAL-TIME FACE RECOGNITION, V0, P0
+   Unknown -, 2020, SOFTBANKS NAO, V0, P0
+   Unknown -, 2023, INTERNATIONAL JOURNAL ON ARTIFICIAL INTELLIGENCE IN EDUCATION, V0, P0
+   Unknown -, 2023, TALKWALKER: UNDERSTAND TRENDS AND REACT TO CUSTOMER OPINIONS INSTANTLY, V0, P0
+   Unknown -, 2023, BRITISH JOURNAL OF EDUCATIONAL TECHNOLOGY, V0, P0
+   Unknown -, 2023, GRADESCOPE: A GRADING TOOL, V0, P0
+   Unknown -, 2023, TEACHERMATCH, V0, P0
+   Unknown -, 2023, INT LEARN AN KNOWL C, V0, P0
+   Unknown -, 2023, 9 AMAZING BENEFITS OF TECHNOLOGY IN THE CLASSROOM (18 BEST WAYS TO INCORPORATE TECHNOLOGY), V0, P0
+   Unknown -, 2023, INT C ART INT ED, V0, P0
+   Unknown -, 2020, BLIPPAR: TRANSFORM THE CLASSROOM EXPERIENCE, V0, P0
+   Unknown -, 2023, AIRCLASS, V0, P0
+   Unknown -, 2023, TECHNOLOGY CAN HURT STUDENTS LEARNING, V0, P0
+   Unknown -, 2020, GTHE USE OF ARTIFICIAL INTELLIGENCE (AI) IN EDUCATION, V0, P0
+   Unknown -, 2023, JEDM: JOURNAL OF EDUCATIONAL DATA MINING, V0, P0
+   Unknown -, 2023, JIBBLE: AN ERROR-FREE ATTENDANCE APP WITH BIOMETRIC VERIFICATION, V0, P0
+   Unknown -, 2023, INT C INT TUT SYST, V0, P0
+   Unknown -, 2023, ACM DIGITAL LIBRARY, V0, P0
+   Unknown -, 2023, HARZINGS PUBLISH OR PERISH UTILITY, V0, P0
+   Unknown -, 2023, RNL STUDENT RETENTION PREDICTOR, V0, P0
+   Unknown -, 2023, PEARSONS WRITETOLEARN, V0, P0
+   Unknown -, 2020, ARTIFICIAL INTELLIGENCE IN HEALTH CARE: BENEFITS AND CHALLENGES OF MACHINE LEARNING IN DRUG DEVELOPMENT, V0, P0
+   Unknown -, 2023, ENLEARN, V0, P0
+   Unknown -, 2023, OTHOT: RETENTION ANALYTICS, V0, P0
+   Unknown -, 2023, SOFTBANK ROBOTICS, V0, P0
+   Unknown -, 2023, CROSSREF, V0, P0
+   Unknown -, 2020, STEAM UNIVERSE: EMERGING TECHNOLOGY DRIVING EDUCATION IT, V0, P0
+   Unknown -, 2023, IRONSIDE: PREDICT HIGHER EDUCATION STUDENT RETENTION RISK, V0, P0
+   Unknown -, 2023, LEARNING AT SCALE, V0, P0
+   Unknown -, 2023, SCHEDULING FOR LEARNING, V0, P0
+   Unknown -, 2023, WATSON INCORPORATION, V0, P0
+   Unknown -, 2023, EDUCATIONL DATA MINING, V0, P0
+   Unknown -, 2023, TAXONOMY OF MACHINE LEARNING ALGORITHMS, V0, P0
+   Aulck L, 2017, ARXIV, V0, P0
+   Avella JT, 2016, ONLINE LEARN, V20, P13, DOI 10.24059/olj.v20i2.790
+   Baker RS, 2016, J COMPUT ASSIST LEAR, V32, P267, DOI 10.1111/jcal.12128
+   BAKER RSJD, 2009, J ED DATA MINING, V1, P3, DOI 10.5281/zenodo.3554657
+   Bao YX, 2018, IEEE INFOCOM SER, V0, PP495, DOI 10.1109/INFOCOM.2018.8486422
+   Baral S, 2023, COMM COM INF SC, V1831, P341, DOI 10.1007/978-3-031-36336-8_53
+   Arrieta AB, 2020, INFORM FUSION, V58, P82, DOI 10.1016/j.inffus.2019.12.012
+   Bienkowski M, 2012, ENHANCING TEACHING AND LEARNING THROUGH EDUCATIONAL DATA MINING AND LEARNING ANALYTICS: AN ISSUE BRIEF, V0, P0
+   Bommasani Rishi, 2021, ARXIV, V0, P0, DOI DOI 10.48550/ARXIV.2108.07258
+   Borges VRP, 2018, P BRAZ S COMP ED, VVol. 29, P0, DOI 10.5753/CBIE.SBIE.2018.1383
+   Bosch N, 2016, P IJCAI JUL, V0, P4125
+   Botelho A, 2023, J COMPUT ASSIST LEAR, V39, P823, DOI 10.1111/jcal.12793
+   Charitopoulos A, 2020, INT J ARTIF INTELL E, V30, P371, DOI 10.1007/s40593-020-00200-8
+   Chauhan GS, 2019, SMART INNOV SYST TEC, V107, P259, DOI 10.1007/978-981-13-1747-7_25
+   Chua YHV, 2019, PROCEEDINGS OF THE 9TH INTERNATIONAL CONFERENCE ON LEARNING ANALYTICS & KNOWLEDGE (LAK19), V0, PP11, DOI 10.1145/3303772.3303811
+   Cordova PR, 2023, PROC TECHNOL INNOV L, V0, P437
+   da Silva FL, 2023, EDUC INF TECHNOL, V28, P3289, DOI 10.1007/s10639-022-11341-9
+   Daniel B, 2019, BRIT J EDUC TECHNOL, V50, P101, DOI 10.1111/bjet.12595
+   Daries JP, 2014, COMMUN ACM, V57, P56, DOI 10.1145/2643132
+   Deschênes M, 2020, INT J EDUC TECHNOL H, V17, P0, DOI 10.1186/s41239-020-00219-w
+   DeVos B, 2018, FINAL REPORT OF THE FEDERAL COMMISSION ON SCHOOL SAFETY, V0, P0
+   Domingos Pedro, 2015, THE MASTER ALGORITHM: HOW THE QUEST FOR THE ULTIMATE LEARNING MACHINE WILL REMAKE OUR WORLD, V0, P0
+   Dorça FA, 2013, EXPERT SYST APPL, V40, P2092, DOI 10.1016/j.eswa.2012.10.014
+   Drigas AS, 2012, INT J ENG EDUC, V28, P1366
+   Durairaj M, 2014, INTERNATIONAL JOURNAL OF COMPUTER SCIENCE AND INFORMATION TECHNOLOGIES, V5, P5987, DOI 10.1016/J.MATPR.2021.05.646
+   Dutti A, 2017, IEEE ACCESS, V5, P15991, DOI 10.1109/ACCESS.2017.2654247
+   Dwivedi S, 2017, 2017 5TH NATIONAL CONFERENCE ON E-LEARNING & E-LEARNING TECHNOLOGIES (ELELTECH), V0, P0
+   Dwivedi YK, 2023, INT J INFORM MANAGE, V71, P0, DOI 10.1016/j.ijinfomgt.2023.102642
+   Elhassan Ammar, 2018, INTERNATIONAL JOURNAL OF MACHINE LEARNING AND COMPUTING, V8, P583, DOI 10.18178/ijmlc.2018.8.6.749
+   Ellegaard O, 2015, SCIENTOMETRICS, V105, P1809, DOI 10.1007/s11192-015-1645-z
+   Fenza G, 2017, IEEE INT CONF ADV LE, V0, PP460, DOI 10.1109/ICALT.2017.124
+   Fiacco J, 2019, PROCEEDINGS OF THE 9TH INTERNATIONAL CONFERENCE ON LEARNING ANALYTICS & KNOWLEDGE (LAK19), V0, PP310, DOI 10.1145/3303772.3303808
+   Fischer C, 2020, REV RES EDUC, V44, P130, DOI 10.3102/0091732X20903304
+   Flanagan B, 2018, KNOWL MANAG E-LEARN, V10, P469
+   Fratamico L, 2017, INT J ARTIF INTELL E, V27, P320, DOI 10.1007/s40593-016-0131-y
+   Garrett N, 2020, PROCEEDINGS OF THE 3RD AAAI/ACM CONFERENCE ON AI, V0, P0
+   Georgescu MR, 2019, DIEM : DUBROVNIK INTERNATIONAL ECONOMIC MEETING, V4, P83
+   Qaysar Salih Mahdi IHSL, 2021, INF TECHNOL IND, V9, P1182, DOI 10.17762/itii.v9i1.255
+   Gkatzia D, 2013, PROCEEDINGS OF THE 14TH EUROPEAN WORKSHOP ON NATURAL LANGUAGE GENERATION, V0, P115
+   Goel AK, 2016, A LOW-POWER AUDIO AMPLIFIER, V0, P0
+   Goel AK, 2016, AAAI CONF ARTIF INTE, V0, P4089
+   Guan C, 2020, INT J INNOV STUD, V4, P134, DOI 10.1016/j.ijis.2020.09.001
+   Hasib KM, 2022, 2022 IEEE 12TH ANNUAL COMPUTING AND COMMUNICATION WORKSHOP AND CONFERENCE (CCWC), V0, PP399, DOI 10.1109/CCWC54503.2022.9720806
+   Hassan SZ, 2022, SENSORS-BASEL, V22, P0, DOI 10.3390/s22103628
+   Hiriyannaiah S, 2018, INT J INF TECHNOL WE, V13, P99, DOI 10.4018/IJITWE.2018070107
+   Hogo MA, 2010, INT. J. COMPUT. SCI. INF. SECURITY, V7, P0
+   Holmes W, 2019, PROC 6 ACM C LEARN, V0, P1
+   Holmes W, 2022, INT J ARTIF INTELL E, V32, P504, DOI 10.1007/s40593-021-00239-1
+   Holstein K, 2018, COMP P 8 INT C LEARN, V0, P0
+   Hooshyar D, 2020, COMPUT EDUC, V154, P0, DOI 10.1016/j.compedu.2020.103878
+   Howard SK, 2018, PR IEEE INT CONF TEA, V0, PP788, DOI 10.1109/TALE.2018.8615443
+   Hwang GJ, 2021, MATHEMATICS-BASEL, V9, P0, DOI 10.3390/math9060584
+   Iqbal Z, 2019, PROC 2 INT C ADVANCE, V0, P1
+   Jibin Zheng, 2020, JOURNAL OF PHYSICS: CONFERENCE SERIES, V1631, P0, DOI 10.1088/1742-6596/1631/1/012034
+   Johri A, 2023, J ENG EDUC, V112, P572, DOI 10.1002/jee.20537
+   Kastrati Z, 2020, IEEE ACCESS, V8, P106799, DOI 10.1109/ACCESS.2020.3000739
+   Katz S, 2021, INT J ARTIF INTELL E, V31, P397, DOI 10.1007/s40593-020-00226-y
+   Kechaou Z, 2011, 2011 IEEE GLOBAL ENGINEERING EDUCATION CONFERENCE (EDUCON), V0, PP1032, DOI 10.1109/EDUCON.2011.5773275
+   Khanal SS, 2020, EDUC INF TECHNOL, V25, P2635, DOI 10.1007/s10639-019-10063-9
+   Kim BH, 2018, ARXIV, V0, P0
+   Kim Y, 2016, INT J ARTIF INTELL E, V26, P160, DOI 10.1007/s40593-015-0055-y
+   Kinshuk, 2016, INT J ARTIF INTELL E, V26, P561, DOI 10.1007/s40593-016-0108-x
+   Kostakos V, 2017, INTERACTIONS, V24, P34, DOI 10.1145/3085556
+   Kulik JA, 2016, REV EDUC RES, V86, P42, DOI 10.3102/0034654315581420
+   Lameras P, 2022, INFORMATION, V13, P0, DOI 10.3390/info13010014
+   Lee M, 2023, PROC 16 INT C ED DAT, V0, P1
+   Liang JC, 2023, INTERACT LEARN ENVIR, V31, P4270, DOI 10.1080/10494820.2021.1958348
+   Lim JH, 2017, ASIAPAC SIGN INFO PR, V0, PP386, DOI 10.1109/APSIPA.2017.8282063
+   Liu J, 2021, EDUC EVAL POLICY AN, V43, P587, DOI 10.3102/01623737211009267
+   Liu SX, 2014, VISUAL COMPUT, V30, P1373, DOI 10.1007/s00371-013-0892-3
+   Liu Z, 2019, INTERACT LEARN ENVIR, V27, P598, DOI 10.1080/10494820.2019.1610449
+   Livieris IE, 2019, J EDUC COMPUT RES, V57, P448, DOI 10.1177/0735633117752614
+   Loderer K, 2020, LEARN INSTR, V70, P0, DOI 10.1016/j.learninstruc.2018.08.002
+   Lu J, 2015, DECIS SUPPORT SYST, V74, P12, DOI 10.1016/j.dss.2015.03.008
+   Majeed EA, 2016, P 4 GLOB SUMM ED, V0, P222
+   Malekzadeh M, 2015, EDUC TECHNOL SOC, V18, P435
+   Markel JM, 2023, PROCEEDINGS OF THE TENTH ACM CONFERENCE ON LEARNING @ SCALE, V0, P226, DOI 10.1145/3573051.3593393
+   Martinez Maldonado Roberto, 2012, INTELLIGENT TUTORING SYSTEMS. PROCEEDINGS 11TH INTERNATIONAL CONFERENCE (ITS 2012), V0, PP482, DOI 10.1007/978-3-642-30950-2_62
+   Martinez-Maldonado R, 2022, INT J ARTIF INTELL E, V32, P1025, DOI 10.1007/s40593-021-00276-w
+   Matcha W, 2020, IEEE T LEARN TECHNOL, V13, P226, DOI 10.1109/TLT.2019.2916802
+   Mavrikis M, 2010, INT J ARTIF INTELL T, V19, P733, DOI 10.1142/S0218213010000406
+   Mduma N, 2019, DATA SCI J, V18, P0, DOI 10.5334/dsj-2019-014
+   Mhlanga D, 2023, FINTECH AND ARTIFICIAL INTELLIGENCE FOR SUSTAINABLE DEVELOPMENT: THE ROLE OF SMART TECHNOLOGIES IN ACHIEVING DEVELOPMENT GOALS, V0, P0
+   Mitchell Melanie, 2019, ARTIF INTELL, V0, P0
+   Mohajer Ola, 2023, A WORLD IN PERMACRISIS: HOW THE UN EMPOWERS FUTURE LEADERS, V0, P0
+   Mostafa L, 2020, ADV INTELL SYST, V1058, P329, DOI 10.1007/978-3-030-31129-2_30
+   Mousavinasab E, 2021, INTERACT LEARN ENVIR, V29, P142, DOI 10.1080/10494820.2018.1558257
+   Munezero M, 2013, INT C COMP ED RES, V0, PP145, DOI 10.1145/2526968.2526984
+   Nagy M, 2018, IEEE INT CONF INTELL, V0, PP389, DOI 10.1109/INES.2018.8523888
+   Nath JN, 2020, CLASSROOM BEHAVIOUR MONITORING USING AI, V0, P0
+   Ouyang F, 2022, EDUC INF TECHNOL, V27, P7893, DOI 10.1007/s10639-022-10925-9
+   Paci F, 2014, PROCEEDINGS OF THE 2014 CONFERENCE ON DESIGN AND ARCHITECTURES FOR SIGNAL AND IMAGE PROCESSING, V0, P1
+   Pilkington A, 2018, V2, V0, P19
+   Pozdniakov S, 2023, ELGAR HANDB EDUC, V5, P322
+   Qadir J, 2022, ENGINEERING EDUCATION IN THE ERA OF CHATGPT: PROMISE AND PITFALLS OF GENERATIVE AI FOR EDUCATION, V0, P0, DOI DOI 10.36227/techrxiv.21789434.v1
+   Rahayu NW, 2023, EDUC INF TECHNOL, V28, P7437, DOI 10.1007/s10639-022-11460-3
+   Raj NS, 2022, J COMPUT EDUC, V9, P113, DOI 10.1007/s40692-021-00199-4
+   Raykov YP, 2016, UBICOMP16: PROCEEDINGS OF THE 2016 ACM INTERNATIONAL JOINT CONFERENCE ON PERVASIVE AND UBIQUITOUS COMPUTING, V0, PP1016, DOI 10.1145/2971648.2971746
+   Romero C, 2007, EXPERT SYST APPL, V33, P135, DOI 10.1016/j.eswa.2006.04.005
+   Romero C, 2008, COMPUT EDUC, V51, P368, DOI 10.1016/j.compedu.2007.05.016
+   Romero C, 2020, WIRES DATA MIN KNOWL, V10, P0, DOI 10.1002/widm.1355
+   Romero C, 2010, IEEE T SYST MAN CY C, V40, P601, DOI 10.1109/TSMCC.2010.2053532
+   Rosé CP, 2019, BRIT J EDUC TECHNOL, V50, P2943, DOI 10.1111/bjet.12858
+   Rowe JP, 2015, LECT NOTES ARTIF INT, V9112, P419, DOI 10.1007/978-3-319-19773-9_42
+   SCHWARTZ S, 1987, ACADEME, V73, P46, DOI 10.2307/40250027
+   Shawky D, 2019, MACHINE LEARNING PARADIGMS: THEORY AND APPLICATION, V0, PP169, DOI 10.
+   Shen LP, 2009, EDUC TECHNOL SOC, V12, P176
+   Sheng Liu, 2020, RSVT 2020: 2020 2ND INTERNATIONAL CONFERENCE ON ROBOTICS SYSTEMS AND VEHICLE TECHNOLOGY, V0, PP1, DOI 10.1145/3450292.3450293
+   Siraj F, 2009, 2009 THIRD ASIA INTERNATIONAL CONFERENCE ON MODELLING & SIMULATION, VOLS 1 AND 2, P413, DOI 10.1109/AMS.2009.117
+   Soh PCH, 2018, TELEMAT INFORM, V35, P225, DOI 10.1016/j.tele.2017.11.003
+   Solis M, 2018, P IEEE INT WORK C BI, V0, P1
+   Soloviev V, 2018, SCIENTIFIC PUBLICATIONS OF THE STATE UNIVERSITY OF NOVI PAZAR SERIES A APPLIED MATHEMATICS INFORMATICS AND MECHANICS, V10, P79, DOI 10.5937/spsunp1802079s
+   Spence PR, 2018, ACMIEEE INT CONF HUM, V0, PP243, DOI 10.1145/3173386.3177071
+   Sruthi P, 2020, INTERNATIONAL JOURNAL OF SCIENTIFIC AND TECHNOLOGY RESEARCH, V9, P5054
+   Steinke P, 2017, RESEARCH PRACTICE IN ASSESSMENT, V12, P87
+   Sutjarittham T, 2018, 2018 17TH ACM/IEEE INTERNATIONAL CONFERENCE ON INFORMATION PROCESSING IN SENSOR NETWORKS (IPSN), V0, PP224, DOI 10.1109/IPSN.2018.00050
+   Tahiru F, 2021, J CASES INF TECHNOL, V23, P1, DOI 10.4018/JCIT.2021010101
+   Taylor C, 2014, ARXIV, V0, P0
+   Trabelsi Z, 2023, BIG DATA COGN COMPUT, V7, P0, DOI 10.3390/bdcc7010048
+   Vaswani A, 2017, ADV NEUR IN, V30, P0, DOI 10.1007/s11356-023-31437-0
+   Voskoglou MG, 2020, MATHEMATICS-BASEL, V8, P0, DOI 10.3390/math8040611
+   Wang PC, 2017, PROCEEDINGS OF THE TWENTY-SIXTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, V0, P3852
+   Wang Y, 2021, PROC 7 INT C HUMANIT, V0, P772
+   Wilson C, 2017, INT J INF LEARN TECH, V34, P2, DOI 10.1108/IJILT-09-2016-0040
+   Xiao Y, 2019, INT J ENGL LINGUIST, V9, P1, DOI 10.5539/ijel.v9n4p1
+   Yang F, 2018, COMPUT EDUC, V123, P97, DOI 10.1016/j.compedu.2018.04.006
+   Yu LC, 2018, J COMPUT ASSIST LEAR, V34, P358, DOI 10.1111/jcal.12247
+   Yujian Zhou, 1999, PROCEEDINGS 11TH INTERNATIONAL CONFERENCE ON TOOLS WITH ARTIFICIAL INTELLIGENCE, V0, PP13, DOI 10.1109/TAI.1999.809759
+   Zaidi A, 2019, REP. DFE-00112-2019, V0, P0
+   Zawacki-Richter O, 2019, INT J EDUC TECHNOL H, V16, P0, DOI 10.1186/s41239-019-0171-0
+   Zhou J, 2023, INTERACT LEARN ENVIR, V31, P1252, DOI 10.1080/10494820.2020.1826985
+NR 199
+TC 131
+Z9 169
+U1 126
+U2 719
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1939-1382
+EI 
+J9 IEEE T LEARN TECHNOL
+JI IEEE Trans. Learn. Technol.
+PD JUN 15
+PY 2024
+VL 17
+IS 
+BP 12
+EP 31
+DI 10.1109/TLT.2023.3314610
+PG 20
+WC Computer Science, Interdisciplinary Applications; Education & Educational Research
+SC Computer Science; Education & Educational Research
+GA EU8T8
+UT WOS:001141545900045
+DA 2026-09-28
+ER
+
+PT J
+AU Roy, K
+   Farid, DM
+AF Roy, Koushik
+   Farid, Dewan Md.
+TI An Adaptive Feature Selection Algorithm for Student Performance Prediction
+SO IEEE ACCESS
+LA English
+DT Article
+DE Feature extraction; Prediction algorithms; Data mining; Predictive models; Data analysis; Machine learning; Measurement; Classification algorithms; Education; Classification; educational data mining; feature selection; machine learning
+ID framework
+AB Educational Data Mining (EDM) is used to ameliorate the teaching and learning process by analyzing and classifying data that can be applied to predict the students' academic performance, and students' dropout rate, as well as instructors' performance. The prediction of student performance is complicated by the vast and diverse range of variables from academic records to behavioral and health metrics. In this paper, we have introduced a new Adaptive Feature Selection Algorithm (AFSA) by amalgamating an ensemble approach for initial feature ranking with normalized mean ranking from five distinct methods to enhance robustness. The proposed method iteratively selects the best features by adjusting its threshold based on each feature's rank to ensure significant contributions to model accuracy and also effectively reduces dataset complexity. We have tested the performance of the proposed feature selection algorithm using five machine learning classifiers: Logistic Regression (LR), K-Nearest Neighbour (KNN), Support Vector Machine (SVM), Na & iuml;ve Bayes (NB) classifier, and Decision Tree (DT) classifier on four student performance datasets. The experimental results highlight the proposed method significantly decreases feature count by an average feature reduction factor of 5.7, significantly streamlining datasets while maintaining competitive cross-validation accuracy, marking it as a valuable tool in the field of educational data analytics.
+C1 [Roy, Koushik; Farid, Dewan Md.] United Int Univ, Dept Comp Sci & Engn, Dhaka 1212, Bangladesh.
+C3 United International University (UIU)
+RP Farid, DM (corresponding author), United Int Univ, Dept Comp Sci & Engn, Dhaka 1212, Bangladesh.
+EM dewanfarid@cse.uiu.ac.bd
+FU Institute for Advanced Research Publication Grant of United International University
+CR Al Duhayyim M, 2022, CMC-COMPUT MATER CON, V71, P1233, DOI 10.32604/cmc.2022.021652
+   Alhassan A, 2020, INT J ADV COMPUT SC, V11, P185
+   Altaf S, 2019, PROCEEDINGS OF 3RD INTERNATIONAL CONFERENCE ON INFORMATION SYSTEM AND DATA MINING (ICISDM 2019), V0, PP59, DOI 10.1145/3325917.3325919
+   Alzubi R, 2018, IEEE ACCESS, V6, P0, DOI 10.1109/ACCESS.2017.2778268
+   Amrieh EA, 2016, INTERNATIONAL JOURNAL OF DATABASE THEORY AND APPLICATION, V9, P119, DOI 10.14257/ijdta.2016.9.8.13
+   Angeli C, 2017, COMPUT EDUC, V113, P226, DOI 10.1016/j.compedu.2017.05.021
+   Batool S, 2023, EDUC INF TECHNOL, V28, P905, DOI 10.1007/s10639-022-11152-y
+   Bravo-Agapito J, 2020, WIRES DATA MIN KNOWL, V10, P0, DOI 10.1002/widm.1287
+   Crivei LM, 2020, 2020 IEEE 14TH INTERNATIONAL SYMPOSIUM ON APPLIED COMPUTATIONAL INTELLIGENCE AND INFORMATICS (SACI 2020), V0, PP11, DOI 10.1109/SACI49304.2020.9118835
+   DAngelo G, 2009, BMC PROCEEDINGS, V3, PS62, DOI 10.1186/1753-6561-3-S7-S62
+   García-González JD, 2019, PSYCHOL SOC EDUC, V11, P299, DOI 10.25115/psye.v11i3.2056
+   Dhar J, 2020, INGÉNIERIE DES SYSTÈMES D INFORMATION, V25, P559, DOI 10.18280/isi.250502
+   Estrera PJM, 2017, INT. J. ENG. TECHNOL., V3, P147
+   Farissi A, 2020, J PHYS CONF SER, V1500, P0, DOI 10.1088/1742-6596/1500/1/012110
+   Febro JD, 2019, INT J ADV COMPUT SC, V10, P269
+   Feng GY, 2022, IEEE ACCESS, V10, P19558, DOI 10.1109/ACCESS.2022.3151652
+   Gao LN, 2022, FUTURE GENER COMP SY, V126, P252, DOI 10.1016/j.future.2021.08.019
+   Greene CS, 2010, LECT NOTES COMPUT SC, V6023, P182, DOI 10.1007/978-3-642-12211-8_16
+   Guyon S, 2008, FEATURE EXTRACTION:FOUNDATIONS AND APPLICATIONS, V207, P0
+   Hasan MR, 2019, 2019 6TH INTERNATIONAL CONFERENCE ON COMPUTATIONAL SCIENCE AND COMPUTATIONAL INTELLIGENCE (CSCI 2019), V0, PP826, DOI 10.1109/CSCI49370.2019.00157
+   He HB, 2008, IEEE IJCNN, V0, PP1322, DOI 10.1109/IJCNN.2008.4633969
+   Helal S, 2018, KNOWL-BASED SYST, V161, P134, DOI 10.1016/j.knosys.2018.07.042
+   Injadat M, 2020, APPL INTELL, V50, P4506, DOI 10.1007/s10489-020-01776-3
+   Inza I, 2004, ARTIF INTELL MED, V31, P91, DOI 10.1016/j.artmed.2004.01.007
+   Karthikeyan VG, 2020, SOFT COMPUT, V24, P18477, DOI 10.1007/s00500-020-05075-4
+   Kohavi R, 1997, ARTIF INTELL-AMST, V97, P273, DOI 10.1016/S0004-3702(97)00043-X
+   Lehr S, 2016, IEEE INT CONF ADV LE, V0, PP428, DOI 10.1109/ICALT.2016.138
+   Ma L, 2015, METHODS MOL BIOL, V1253, P35, DOI 10.1007/978-1-4939-2155-3_3
+   Mengash HA, 2020, IEEE ACCESS, V8, P55462, DOI 10.1109/ACCESS.2020.2981905
+   Moon NN, 2020, 3 INT C INN COMP COM, V0, PP757, DOI 10.1007/978-981-15-5148-266
+   Nabil A, 2021, IEEE ACCESS, V9, P140731, DOI 10.1109/ACCESS.2021.3119596
+   Nahar K, 2021, EDUC INF TECHNOL, V26, P6051, DOI 10.1007/s10639-021-10575-3
+   Nascimento R, 2018, INT C MACHINE LEARNI, V10935, P246, DOI 10.1007/978-3-319-96133-0_19
+   Okoye A, 2022, EDUC. INF. TECHNOL., V27, P1
+   Okser S, 2014, PLOS GENET, V10, P0, DOI 10.1371/journal.pgen.1004754
+   Pudjihartono N, 2022, FRONT BIOINFORM, V2, P0, DOI 10.3389/fbinf.2022.927312
+   Qazdar A, 2019, EDUC INF TECHNOL, V24, P3577, DOI 10.1007/s10639-019-09946-8
+   Ramaswami M, 2009, ARXIV, V0, P0
+   Rastrollo-Guerrero JL, 2020, APPL SCI-BASEL, V10, P0, DOI 10.3390/app10031042
+   Remeseiro B, 2019, COMPUT BIOL MED, V112, P0, DOI 10.1016/j.compbiomed.2019.103375
+   Roy K, 2023, P INT C INT SYST DAT, V0, P1
+   Roy K, 2023, CTU JOURNAL OF INNOVATION AND SUSTAINABLE DEVELOPMENT, V15, P93, DOI 10.22144/ctujoisd.2023.039
+   Schüpbach T, 2010, BIOINFORMATICS, V26, P1468, DOI 10.1093/bioinformatics/btq147
+   Sobnath D, 2020, IEEE ACCESS, V8, P159530, DOI 10.1109/ACCESS.2020.3018663
+   Sukhbaatar O, 2018, TENCON IEEE REGION, V0, PP2205, DOI 10.1109/TENCON.2018.8650138
+   Szymczak S, 2009, GENET EPIDEMIOL, V33, PS51, DOI 10.1002/gepi.20473
+   Tuo SH, 2020, BIOINFORMATICS, V36, P4389, DOI 10.1093/bioinformatics/btaa215
+   Turabieh H, 2021, COMPUTING, V103, P1417, DOI 10.1007/s00607-020-00894-7
+   Turabieh H, 2019, 2019 2ND INTERNATIONAL CONFERENCE ON NEW TRENDS IN COMPUTING SCIENCES (ICTCS), V0, P306
+   VeeraManickam MRM, 2019, CLUSTER COMPUT, V22, P1259, DOI 10.1007/s10586-017-1553-5
+   Wafi M, 2019, PROCEEDINGS OF 2019 4TH INTERNATIONAL CONFERENCE ON SUSTAINABLE INFORMATION ENGINEERING AND TECHNOLOGY (SIET 2019), V0, PP44, DOI 10.1109/SIET48054.2019.8986074
+   Wei W, 1900, WIDE VARIANT SPECTRUM, V0, P0
+   Wu B, 2019, INT CONF COMP SCI ED, V0, PP616, DOI 10.1109/iccse.2019.8845440
+   Xiao W, 2022, ENG REP, V4, P0, DOI 10.1002/eng2.12482
+   Xu M, 2017, LECT NOTES COMPUT SC, V10179, P364, DOI 10.1007/978-3-319-55705-2_29
+   Xue H, 2023, APPL SCI-BASEL, V13, P0, DOI 10.3390/app13095384
+   Yilmaz N, 2019, P INT C THEOR APPL S, V0, P596
+   Yoshida M, 2011, BMC BIOINFORMATICS, V12, P0, DOI 10.1186/1471-2105-12-469
+   Yousafzai BK, 2020, EDUC INF TECHNOL, V25, P4677, DOI 10.1007/s10639-020-10189-1
+   Zaffar M, 2018, INT.J. ADV. COMPUT. SCI. APPL., V9, P1
+   Zhang XL, 2023, SUSTAINABILITY-BASEL, V15, P0, DOI 10.3390/su15032335
+NR 62
+TC 19
+Z9 24
+U1 2
+U2 26
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+EI 
+J9 IEEE ACCESS
+JI IEEE Access
+PD JUN 15
+PY 2024
+VL 12
+IS 
+BP 75577
+EP 75598
+DI 10.1109/ACCESS.2024.3406252
+PG 22
+WC Computer Science, Information Systems; Engineering, Electrical & Electronic; Telecommunications
+SC Computer Science; Engineering; Telecommunications
+GA SV9N3
+UT WOS:001237343400001
+DA 2026-09-28
+ER
+
+PT J
+AU Dutta, A
+   Chatterjee, P
+   Dey, N
+   Moreno-Ger, P
+   Sen, S
+AF Dutta, Anjan
+   Chatterjee, Punyasha
+   Dey, Nilanjan
+   Moreno-Ger, Pablo
+   Sen, Soumya
+TI Cognitive Evaluation of Examinees by Dynamic Question Set Generation based on Bloom's Taxonomy
+SO IETE JOURNAL OF RESEARCH
+LA English
+DT Article
+DE Bloom's taxonomy; cognitive level; clustering; educational data mining (EDM); Jenks Natural Breaks Optimization; machine learning; ranking
+ID algorithm; education; model
+AB Educational data mining (EDM) is an emerging topic in recent years steered by data mining and machine learning techniques to enhance students' overall learning experience and academic progress. In recent years EDM techniques are frequently used to improve assessment systems but the evaluation procedure is majorly marks driven. Developing an evaluation system to distinguish candidates, based on their ability to answer cognitively difficult questions is a challenging task. In this study, a unique methodology is proposed to dynamically rank the candidates to develop an outcome-based online examination system that will properly evaluate a candidate's cognitive competencies. The questions are segmented into different cognitive groups based on classical Bloom's educational taxonomy. The Jenks Natural Breaks Optimization technique is used here to segment the questions and as a result, distinct question clusters based on different cognitive levels are obtained. Students are evaluated with different questions from these cognitive groups and ranking is done for individual candidates considering both the marks of the questions and his/her ability to solve questions from different difficulty levels.
+C1 [Dutta, Anjan; Chatterjee, Punyasha] Jadavpur Univ, Sch Mobile Comp & Commun, Kolkata 700098, India.
+   [Dey, Nilanjan] Techno Int New Town, Dept Comp Sci & Engn, Kolkata, India.
+   [Moreno-Ger, Pablo] Univ Int Rioja UNIR, Sch Engn, Logrono, Spain.
+   [Sen, Soumya] Calcutta Univ, AK Choudhury Sch Informat Technol, Kolkata 700106, India.
+C3 Jadavpur University; Universidad Internacional de La Rioja (UNIR); University of Calcutta
+RP Dutta, A (corresponding author), Jadavpur Univ, Sch Mobile Comp & Commun, Kolkata 700098, India.
+EM anjan.dutta.edu@gmail.com; punyasha.chatterjee@gmail.com; neelanjan.dey@gmail.com; pablo.moreno@unir.net; iamsoumyasen@gmail.com
+CR Abd Rahim TNT, 2017, 2017 IEEE CONFERENCE ON E-LEARNING, V0, P12, DOI 10.1109/IC3e.2017.8409231
+   Ajithabh KS, 2023, IEEE T FUZZY SYST, V171, P105270
+   Amria A, 2018, CSEDU 1, V2, P474, DOI 10.5220/0006795104740480
+   Anderson L, 2001, TAXONOMY LEARNING TE, V0, P0, DOI DOI 10.7771/1541-5015.1355
+   Antonenko PD, 2012, ETR&D-EDUC TECH RES, V60, P383, DOI 10.1007/s11423-012-9235-8
+   Azevedo JM, 2017, PROCEEDINGS OF THE 9TH INTERNATIONAL CONFERENCE ON COMPUTER SUPPORTED EDUCATION (CSEDU), VOL 2, P137, DOI 10.5220/0006324801370145
+   Bloom B, 1984, TAXONOMY ED OBJECTIV, V0, P0
+   Brewer CA, 2002, ANN ASSOC AM GEOGR, V92, P662, DOI 10.1111/1467-8306.00310
+   Camelia F, 2020, IEEE T EDUC, V63, P10, DOI 10.1109/TE.2019.2926054
+   Campagni R, 2014, 6TH INTERNATIONAL CONFERENCE ON COMPUTER-SUPPORTED EDUCATION (CSEDU 2014). PROCEEDINGS, V0, P26
+   Chen J, 2013, INT ARCH PHOTOGRAMM, V40-4-W3, P47, DOI 10.5194/isprsarchives-XL-4-W3-47-2013
+   Chen YN, 2020, INT J CONTIN ENG EDU, V30, P161
+   Ciolacu M, 2017, INT SYM DES TECH ELE, V0, PP432, DOI 10.1109/SIITME.2017.8259942
+   Crespo Raquel M, 2010, 2010 IEEE EDUCATION ENGINEERING 2010 - THE FUTURE OF GLOBAL LEARNING ENGINEERING EDUCATION (EDUCON 2010), V0, PP1239, DOI 10.1109/EDUCON.2010.5492385
+   Laddha MD, 2021, INTERNATIONAL JOURNAL OF ENGINEERING TRENDS AND TECHNOLOGY, V69, P211, DOI 10.14445/22315381/ijett-v69i3p232
+   de Morais Alana M, 2014, 2014 IEEE FRONTIERS IN EDUCATION CONFERENCE (FIE). PROCEEDINGS, V0, PP1, DOI 10.1109/FIE.2014.7044401
+   Monteiro RLD, 2018, SOC INDIC RES, V136, P417, DOI 10.1007/s11205-017-1556-x
+   Dong S, 2013, IETE J RES, V59, P326, DOI 10.4103/0377-2063.118021
+   El Maadi A, 2015, IETE J RES, V61, P308, DOI 10.1080/03772063.2015.1017614
+   ESRI, 2012, WHAT IS JENKS OPT ME, V0, P0
+   Ezen-Can A, 2015, P 5 INT C LEARNING A, V0, PP146, DOI 10.1145/2723576.2723589
+   Fairweather M, 1984, CHOROPLETH MAPPING P, V0, P0
+   FISHER WD, 1958, J AM STAT ASSOC, V53, P789, DOI 10.2307/2281952
+   Hodeghatta UR, 2016, BUSINESS ANAL USING, V0, P0
+   Jayakodi K, 2016, 2ND INTERNATIONAL MERCON 2016 MORATUWA ENGINEERING RESEARCH CONFERENCE, V0, PP12, DOI 10.1109/MERCon.2016.7480108
+   Jayakodi K, 2015, 2015 IEEE INTERNATIONAL CONFERENCE ON TEACHING, V0, P0
+   Jenks GF, 1977, OPTIMAL DATA CLASSIFICATION FOR CHOROPLETH MAPS, V0, P0
+   Martínez PJ, 2020, IEEE T EDUC, V63, P2, DOI 10.1109/TE.2019.2925320
+   Khamis N, 2018, 2018 IEEE 7TH INTERNATIONAL CONFERENCE ON POWER AND ENERGY (PECON), V0, PP128, DOI 10.1109/PECON.2018.8684113
+   Krathwohl DR, 2002, THEOR PRACT, V41, P212, DOI 10.1207/s15430421tip4104_2
+   Kusuma SF, 2018, 2018 INTERNATIONAL SEMINAR ON INTELLIGENT TECHNOLOGY AND ITS APPLICATIONS (ISITIA 2018), V0, PP269, DOI 10.1109/ISITIA.2018.8711015
+   Liu SY, 2017, IEEE GLOB ENG EDUC C, V0, PP1373, DOI 10.1109/EDUCON.2017.7943026
+   Manzoor A, 2017, INT J CONTIN ENG EDU, V27, P266, DOI 10.1504/IJCEELL.2017.087136
+   McArthur D, 2005, J. EDUC. TECHNOL., V1, P42, DOI 10.26634/JET.1.4.972
+   McMaster R, 1997, CARTOGR GEOGR INF SC, V24, P56, DOI 10.1559/152304097782438764
+   Mohammed M, 2020, PLOS ONE, V15, P0, DOI 10.1371/journal.pone.0230442
+   Moreira A, 2005, DENSITY-BASED CLUSTERING ALGORITHMS - DBSCAN AND SNN, V0, P0
+   Mujkanovic A, 2012, 2012 INTERNATIONAL CONFERENCE ON INFORMATION SOCIETY (I-SOCIETY), V0, P50
+   Naglot D, 2018, INTERNATIONAL JOURNAL OF COMPUTER APPLICATIONS, V179, P36, DOI 10.5120/ijca2018916866
+   North Matthew A, 2009, PROCEEDINGS OF THE 2009 SIXTH INTERNATIONAL CONFERENCE ON FUZZY SYSTEMS AND KNOWLEDGE DISCOVERY (FSKD 2009), V0, PP35, DOI 10.1109/FSKD.2009.319
+   Pardo A, 2017, IEEE T LEARN TECHNOL, V10, P82, DOI 10.1109/TLT.2016.2639508
+   Pérez J, 2017, IEEE T EDUC, V60, P22, DOI 10.1109/TE.2016.2582736
+   Qin JW, 2019, INT J CONTIN ENG EDU, V29, P113, DOI 10.1504/IJCEELL.2019.099251
+   Rao CHD, 2020, IEEE T LEARN TECHNOL, V13, P14, DOI 10.1109/TLT.2018.2889100
+   Samunnisa K, 2023, MEAS SENS, V25, P100612
+   Sebbaq H, 2022, INT REV RES OPEN DIS, V23, P170
+   Shovon MHI, 2012, INT J ADV COMPUT SC, V3, P146
+   Swart AJ, 2010, IEEE T EDUC, V53, P257, DOI 10.1109/TE.2009.2014221
+   Thompson E, 2008, PROCEEDINGS OF THE TENTH CONFERENCE ON AUSTRALASIAN COMPUTING EDUCATION-VOLUME, V78, P155
+   Whalley JL, 2006, PROCEEDINGS OF THE 8TH AUSTRALASIAN CONFERENCE ON COMPUTING EDUCATION-VOLUME 52, V52, P243
+   Widiyaningtyas T, 1900, P1, V0, P0, DOI DOI 10.1109/EECSI.2017.8239083
+   Yahya A A, 2012, MODERN ADV INTELLIGE, V0, P135
+   Yahya AA, 2011, AUTOMATIC CLASSIFICATION OF QUESTIONS INTO BLOOMS COGNITIVE LEVELS USING SUPPORT VECTOR MACHINES, V0, P0
+   Yahya Anwar Ali, 2011, BLOOMS TAXONOMY COGNITIVE LEVELS DATA SET, V0, P0, DOI DOI 10.13140/RG.2.1.4932.3123
+   Yang S, 2020, J PHYS C SERI, V1453, P012090, DOI 10.1088/1742-6596/1453/1/01209
+   Zhang NY, 2017, LECT NOTES ARTIF INT, V10331, P430, DOI 10.1007/978-3-319-61425-0_36
+NR 60
+TC 1
+Z9 4
+U1 1
+U2 12
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0377-2063
+EI 0974-780X
+J9 IETE J RES
+JI IETE J. Res.
+PD MAR 3
+PY 2024
+VL 70
+IS 3
+BP 2570
+EP 2582
+DI 10.1080/03772063.2023.2175060
+EA FEB 2023
+PG 13
+WC Engineering, Electrical & Electronic; Telecommunications
+SC Engineering; Telecommunications
+GA ZV2D3
+UT WOS:000936067900001
+DA 2026-09-28
+ER
+
+PT J
+AU Zhang, M
+AF Zhang, Min
+TI Integrating Deep Learning into Educational Big Data Analytics for Enhanced Intelligent Learning Platforms
+SO INFORMATION TECHNOLOGY AND CONTROL
+LA English
+DT Article
+DE Educational Big Data Analytics; Deep Learning Techniques; Parental Involvement; Student Engagement; Online Learning; Predictive Modeling; and Long Short-Term Memory (LSTM) Networks
+ID artificial-intelligence
+AB Exploring the field of educational big data analytics and gaining insights into student behaviour and its connection to academic performance is crucial for creating intelligent learning environments. Technological innovations have changed how students learn and reshaped the nature of education. Technological advancements have unquestionably made learning more accessible, faster, and enjoyable for pupils. When deep learning is integrated with learning management systems, intelligent course content may be generated with high accuracy, and no human interaction is required. This study utilises advanced deep learning techniques to analyse the xAPI-Educational Mining Dataset and reveal valuable insights that can significantly improve online learning experiences. The study underscores the crucial importance of parental involvement, emphasising its link to student attendance and overall satisfaction with the educational institution. In addition, the results suggest that students who actively participate in course announcements and utilise resources tend to achieve better academic outcomes, highlighting the significance of resource utilisation in achieving academic success. On the other hand, engaging in conversations seems to have a minimal effect on how students are categorised. Building upon these findings, a novel predictive model is introduced, utilising Long Short-Term Memory (LSTM) networks. This model utilises sequential student interaction data to predict future behaviour and academic outcomes, helping online platforms understand student actions and make informed decisions. This study makes a valuable contribution to developing cutting-edge intelligent learning approaches. It achieves this by utilising the potential of educational big data analytics and deep learning techniques.
+C1 [Zhang, Min] Xuzhou Med Univ, Clin Med Sch 1, Xuzhou 221000, Peoples R China.
+C3 Xuzhou Medical University
+RP Zhang, M (corresponding author), Xuzhou Med Univ, Clin Med Sch 1, Xuzhou 221000, Peoples R China.
+EM minzhangresas@outlook.com
+CR Abu Amrieh E, 2015, 2015 IEEE JORDAN CONFERENCE ON APPLIED ELECTRICAL ENGINEERING AND COMPUTING TECHNOLOGIES (AEECT), V0, P0
+   Agbo Friday Joseph, 2019, INTELLIGENT COMPUTING. PROCEEDINGS OF THE 2019 COMPUTING CONFERENCE. ADVANCES IN INTELLIGENT SYSTEMS AND COMPUTING (AISC 998), V0, PP1061, DOI 10.1007/978-3-030-22868-2_71
+   Ahad Mohd Abdul, 2018, SMART LEARNING ENVIRONMENTS, V5, P0, DOI 10.1186/s40561-018-0057-y
+   Al Kabi A, 2023, INTERNATIONAL JOURNAL OF INTELLIGENT NETWORKS, V4, P68, DOI 10.1016/j.ijin.2023.03.002
+   Amrieh EA, 2016, INTERNATIONAL JOURNAL OF DATABASE THEORY AND APPLICATION, V9, P119, DOI 10.14257/ijdta.2016.9.8.13
+   Caspari-Sadeghi S, 2023, COGENT EDUC, V10, P0, DOI 10.1080/2331186X.2022.2162697
+   Chen GM, 2024, INTERACT LEARN ENVIR, V32, P6096, DOI 10.1080/10494820.2023.2251038
+   Falcao TP, 2018, COMPUT EDUC, V116, P161, DOI 10.1016/j.compedu.2017.09.006
+   Fuseini I, 2024, QUAL EDUC ALL, V1, P41, DOI 10.1108/qea-01-2024-0006
+   Gu X, 2024, J SUPERCOMPUT, V80, P3382, DOI 10.1007/s11227-023-05592-7
+   Hill J, 2015, COMPUT HUM BEHAV, V49, P245, DOI 10.1016/j.chb.2015.02.026
+   Huang CQ, 2023, COMPUT EDUC, V207, P0, DOI 10.1016/j.compedu.2023.104910
+   Joseph AF, 2019, P1382, V0, P0
+   PK, 2020, INTERNATIONAL JOURNAL OF COMPUTER TRENDS AND TECHNOLOGY, V68, P5, DOI 10.14445/22312803/ijctt-v68i2p102
+   Li BW, 2021, PLOS ONE, V16, P0, DOI 10.1371/journal.pone.0242023
+   Li DM, 2024, COMPUT HUM BEHAV, V157, P0, DOI 10.1016/j.chb.2024.108211
+   Li HY, 2019, LECT NOTES ARTIF INT, V11626, P163, DOI 10.1007/978-3-030-23207-8_31
+   Li ZW, 2024, NAT COMMUN, V15, P0, DOI 10.1038/s41467-024-45745-7
+   Liu X, 2023, SYSTEMS-BASEL, V11, P0, DOI 10.3390/systems11090483
+   Liu Z, 2024, EDUC TECHNOL SOC, V27, P197, DOI 10.30191/ETS.202404_27(2).RP08
+   Lu OHT, 2018, EDUC TECHNOL SOC, V21, P220
+   Mahmud MS, 2020, BIG DATA MIN ANAL, V3, P85, DOI 10.26599/BDMA.2019.9020015
+   Martínez-Comesaña M, 2023, REV PSICODIDACT, V28, P93, DOI 10.1016/j.psicod.2023.06.001
+   McDonald N, 2024, ARXIV, V0, P0
+   Mikulecky P, 2016, DIVAI 2016: 11TH INTERNATIONAL SCIENTIFIC CONFERENCE ON DISTANCE LEARNING IN APPLIED INFORMATICS, V0, P33
+   Mislevy R J, 2020, HDB AUTOMATED SCORIN, V0, PP403, DOI 10.1201/9781351264808-22
+   Paneque M, 2023, EXPERT SYST APPL, V213, P0, DOI 10.1016/j.eswa.2022.118892
+   Pierrès O, 2024, IEEE ACCESS, V12, P27810, DOI 10.1109/ACCESS.2024.3365368
+   Qin CJ, 2024, INT J CONTROL AUTOM, V22, P705, DOI 10.1007/s12555-022-0104-x
+   Salinas-Chipana J, 2023, INT C INF COMM TECHN, V0, PP1003, DOI 10.1007/978-981-99-3043-283
+   Shoikova Elena, 2017, ELECTROTECHNICA & ELECTRONICA (E+ E), V52, P0
+   Tapalova O, 2022, ELECTRON J E-LEARN, V20, P639
+   Zhang Q, 2020, IEEE ACCESS, V8, P162830, DOI 10.1109/ACCESS.2020.3019262
+   Zheng WF, 2024, CMES-COMP MODEL ENG, V139, P2729, DOI 10.32604/cmes.2023.046692
+   Zheng WF, 2023, INT J COMPUT INT SYS, V16, P0, DOI 10.1007/s44196-023-00345-z
+   Zhou J, 2019, ENGINEERING-PRC, V5, P624, DOI 10.1016/j.eng.2019.07.015
+   Zhou P, 2021, IEEE ROBOT AUTOM LET, V6, P5002, DOI 10.1109/LRA.2021.3070828
+   2023, 1900, V10, V0, P0, DOI DOI 10.33168/jliss.2023.0309
+NR 38
+TC 3
+Z9 4
+U1 4
+U2 17
+PU KAUNAS UNIV TECHNOLOGY
+PI KAUNAS
+PA KAUNAS UNIV TECHNOL, DEPT ELECTRONICS ENGINEERING, STUDENTU STR 50, KAUNAS, LT-51368, LITHUANIA
+SN 1392-124X
+EI 
+J9 INF TECHNOL CONTROL
+JI Inf. Technol. Control
+PD JUN 15
+PY 2024
+VL 53
+IS 4
+BP 
+EP 
+DI 10.5755/j01.itc.53.4.36968
+PG 334
+WC Automation & Control Systems; Computer Science, Artificial Intelligence; Computer Science, Information Systems
+SC Automation & Control Systems; Computer Science
+GA Q4M1J
+UT WOS:001384432900006
+DA 2026-09-28
+ER
+
+PT J
+AU Monteverde-Suárez, D
+   González-Flores, P
+   Santos-Solórzano, R
+   Garcia-Minjares, M
+   Zavala-Sierra, I
+   de la Luz, VL
+   Sanchez-Mendiola, M
+AF Monteverde-Suarez, Diego
+   Gonzalez-Flores, Patricia
+   Santos-Solorzano, Roberto
+   Garcia-Minjares, Manuel
+   Zavala-Sierra, Irma
+   de la Luz, Veronica Luna
+   Sanchez-Mendiola, Melchor
+TI Predicting students' academic progress and related attributes in first-year medical students: an analysis with artificial neural networks and Naïve Bayes
+SO BMC MEDICAL EDUCATION
+LA English
+DT Article
+DE Educational data mining; Student academic progress; Prediction; Medical education; Artificial neural networks; Naive Bayes
+ID performance; university; attrition; risk
+AB BackgroundDropout and poor academic performance are persistent problems in medical schools in emerging economies. Identifying at-risk students early and knowing the factors that contribute to their success would be useful for designing educational interventions. Educational Data Mining (EDM) methods can identify students at risk of poor academic progress and dropping out. The main goal of this study was to use machine learning models, Artificial Neural Networks (ANN) and Naive Bayes (NB), to identify first year medical students that succeed academically, using sociodemographic data and academic history.MethodsData from seven cohorts (2011 to 2017) of admitted medical students to the National Autonomous University of Mexico (UNAM) Faculty of Medicine in Mexico City were analysed. Data from 7,976 students (2011 to 2017 cohorts) of the program were included. Information from admission diagnostic exam results, academic history, sociodemographic characteristics and family environment was used. The main dataset included 48 variables. The study followed the general knowledge discovery process: pre-processing, data analysis, and validation. Artificial Neural Networks (ANN) and Naive Bayes (NB) models were used for data mining analysis.ResultsANNs models had slightly better performance in accuracy, sensitivity, and specificity. Both models had better sensitivity when classifying regular students and better specificity when classifying irregular students. Of the 25 variables with highest predictive value in the Naive Bayes model, percentage of correct answers in the diagnostic exam was the best variable.ConclusionsBoth ANN and Naive Bayes methods can be useful for predicting medical students' academic achievement in an undergraduate program, based on information of their prior knowledge and socio-demographic factors. Although ANN offered slightly superior results, Naive Bayes made it possible to obtain an in-depth analysis of how the different variables influenced the model. The use of educational data mining techniques and machine learning classification techniques have potential in medical education.
+C1 [Monteverde-Suarez, Diego; Gonzalez-Flores, Patricia; Santos-Solorzano, Roberto; Garcia-Minjares, Manuel; Zavala-Sierra, Irma; de la Luz, Veronica Luna; Sanchez-Mendiola, Melchor] Natl Autonomous Univ Mexico UNAM, Coordinat Open Univ Educ Innovat & Distance Educ C, Mexico City, Mexico.
+   [de la Luz, Veronica Luna; Sanchez-Mendiola, Melchor] Natl Autonomous Univ Mexico UNAM, Fac Med, Mexico City, Mexico.
+C3 Universidad Nacional Autonoma de Mexico; Universidad Nacional Autonoma de Mexico
+RP Sanchez-Mendiola, M (corresponding author), Natl Autonomous Univ Mexico UNAM, Coordinat Open Univ Educ Innovat & Distance Educ C, Mexico City, Mexico.; Sanchez-Mendiola, M (corresponding author), Natl Autonomous Univ Mexico UNAM, Fac Med, Mexico City, Mexico.
+EM melchorsm@unam.mx
+CR Abu Amra IA, 2017, IEEE, V0, PP29, DOI 10.2514/1.45525
+   Adoukonou T, 2016, PAN AFR MED J, V23, P0, DOI 10.11604/pamj.2016.23.87.8527
+   Ahmady S, 2019, J ADV MED ED PROFESS, V7, P74, DOI 10.30476/JAMP.2019.44711
+   Alhurishi SA, 2021, BMC MED EDUC, V21, P0, DOI 10.1186/s12909-021-02525-x
+   Alvarado-Uribe J, 2022, DATA, V7, P0, DOI 10.3390/data7090119
+   Amaya Y, 2015, IEEE LAT AM T, V13, P3127, DOI 10.1109/tla.2015.7350068
+   Amrieh EA, 2016, INTERNATIONAL JOURNAL OF DATABASE THEORY AND APPLICATION, V9, P119, DOI 10.14257/ijdta.2016.9.8.13
+   Campillo Labrandero M, 2021, EDUC MED, V22, P67, DOI 10.1016/j.edumed.2019.05.003
+   de Ponce ME, 2003, REV FAC MED UNAM, V46, P185
+   Delen D, 2011, J COLL STUD RETENT-R, V13, P17, DOI 10.2190/CS.13.1.b
+   Garcia EPI, 2011, 2011 10TH MEXICAN INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE (MICAI 2011), V0, PP169, DOI 10.1109/MICAI.2011.28
+   Gatica F, 2010, REV FACULTAD MEDICIN, V53, P9
+   Göker H, 2013, 2013 12TH INTERNATIONAL CONFERENCE ON MACHINE LEARNING AND APPLICATIONS (ICMLA 2013), VOL 2, P535, DOI 10.1109/ICMLA.2013.173
+   Kruzicevic SM, 2012, PLOS ONE, V7, P0, DOI 10.1371/journal.pone.0039144
+   Li J, 2019, BMC MED EDUC, V19, P0, DOI 10.1186/s12909-019-1860-z
+   Lopez Pedraza FJ, 2019, TIES, V0, P0
+   Mabizela SE, 2020, BMC MED EDUC, V20, P0, DOI 10.1186/s12909-020-02059-8
+   Marbouti F, 2016, COMPUT EDUC, V103, P1, DOI 10.1016/j.compedu.2016.09.005
+   Martinez-Gonzalez A, 2018, MODELO MULTIVAR REV EDUC SUP., V47, P0, DOI 10.36857/resu.2018.188
+   Mason C, 2018, RES HIGH EDUC, V59, P382, DOI 10.1007/s11162-017-9473-z
+   Mhetre V, 2017, 2017 INTERNATIONAL CONFERENCE ON COMPUTING METHODOLOGIES AND COMMUNICATION (ICCMC), V0, PP475, DOI 10.1109/ICCMC.2017.8282735
+   Mohammed M, 2016, MACHINE LEARNING: ALGORITHMS AND APPLICATIONS, V0, P0, DOI DOI 10.1201/9781315371658
+   Salinas JGM, 2015, LECT NOTES ARTIF INT, V9414, P208, DOI 10.1007/978-3-319-27101-9_15
+   Navarro RE, 2001, REV IBEROAM EDUC, V33, P1
+   Pawar PS, 2021, 2021 IEEE 2 INT C TE, V0, PP1, DOI 10.1109/TEMSMET53515.2021.9768773
+   Picton A, 2022, BMC MED EDUC, V22, P0, DOI 10.1186/s12909-022-03158-4
+   Potdar K, 2017, INTERNATIONAL JOURNAL OF COMPUTER APPLICATIONS, V175, P7, DOI 10.5120/ijca2017915495
+   Puddey IB, 2019, BMC MED EDUC, V19, P0, DOI 10.1186/s12909-019-1584-0
+   Pujianto U, 2017, IEEE, V0, PP163, DOI 10.1109/ICEEIE.2017.8328782
+   Rahul Katarya R, 2019, PREDICTING THE PERFORMANCE OF STUDENTS USING MACHINE LEARNING CLASSIFICATION TECHNIQUES, V0, P0, DOI DOI 10.1109/I-SMAC47947.2019.9032493
+   Razaque F, 2018, IEEE, V0, PP1, DOI 10.1109/ICETAS.2017.8277884
+   Sanchez-Mendiola M, 2020, TECHNICAL REPORT, V0, P0
+   Sanchez-Mendiola M, 2017, EL DESEMPENO ESCOLAR DE LOS ESTUDIANTES DE LA EDUCACION MEDIA SUPERIOR Y SU TRANSICION AL NIVEL SUPERIOR DENTRO DE LA UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO, V0, P0
+   Shukri AK, 2019, INT J PHARM RES ALLI, V8, P158
+   Shynarbek N, 2021, P 2021 16 INT C EL C, V0, P0, DOI DOI 10.1109/ICECCO53203.2021.9663763
+   Silva LM, 2015, LA IMPORTANCIA DEL PRIMER ANO UNIVERSITARIO: DE LA TEORIA A LA PRACTICA, V0, P132
+   Solis M, 2018, NO TITLE CAPTURED, V0, PP1, DOI [10.1109/IWOBI.2018.8464191, DOI 10.1109/IWOBI.2018.8464191]
+   Stephens CR, 2009, PLOS ONE, V4, P0, DOI 10.1371/journal.pone.0005725
+   Tekin A, 2014, EURASIAN J EDUC RES, V0, PP207, DOI 10.14689/ejer.2014.54.12
+   Theobald M, 2021, CONTEMP EDUC PSYCHOL, V66, P0, DOI 10.1016/j.cedpsych.2021.101976
+   Tsikriktsis N, 2005, J OPER MANAG, V24, P53, DOI 10.1016/j.jom.2005.03.001
+   UNAM: Agenda Estadistica UNAM, 2023, TECHNICAL REPORT, V0, P0
+   Aguilar MEU, 2014, GAC MED MEX, V150, P324
+   Uzel VN, 2018, 2018 INNOVATIONS IN INTELLIGENT SYSTEMS AND APPLICATIONS CONFERENCE (ASYU), V0, P166
+   Valero Orea S, 2010, MINERIA DE DATOS: PREDICCION DE LA DESERCION ESCOLAR MEDIANTE EL ALGORITMO DE ARBOLES DE DECISION Y EL ALGORITMO DE LOS K VECINOS MAS CERCANOS, V0, P33
+   Vanegas-Pissa Juan Carlos, 2019, EDUCARE, V23, P203, DOI 10.15359/ree.23-1.11
+   Vargas I, 2011, SALUD MENT, V34, P301
+   Wati M, 2007, DATA MINING FOR PREDICTING STUDENTS LEARNING RESULT, V0, PP1, DOI 10.1109/CAIPT.2017.8320666
+   Wong BTM, 2020, J COMPUT EDUC, V7, P7, DOI 10.1007/s40692-019-00143-7
+   Yagci M, 2022, SMART LEARN ENVIRON, V9, P0, DOI 10.1186/s40561-022-00192-z
+   Yukselturk E, 2014, EUROPEAN JOURNAL OF OPEN, V0, P0
+NR 51
+TC 23
+Z9 29
+U1 4
+U2 35
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 
+EI 1472-6920
+J9 BMC MED EDUC
+JI BMC Med. Educ.
+PD JAN 19
+PY 2024
+VL 24
+IS 1
+BP 
+EP 
+DI 10.1186/s12909-023-04918-6
+PG 11
+WC Education & Educational Research; Education, Scientific Disciplines
+SC Education & Educational Research
+GA FJ4S3
+UT WOS:001145385500001
+PM 38243257
+DA 2026-09-28
+ER
+
+PT J
+AU Cerezo, R
+   Lara, JA
+   Azevedo, R
+   Romero, C
+AF Cerezo, R.
+   Lara, J. -A.
+   Azevedo, R.
+   Romero, C.
+TI Reviewing the differences between learning analytics and educational data mining: Towards educational data science
+SO COMPUTERS IN HUMAN BEHAVIOR
+LA English
+DT Article
+DE Learning analytics; Educational data mining; Educational data science; Differences between EDM and LA
+AB Over the last decade, Educational Data Mining (EDM) and Learning Analytics (LA) have evolved enormously as interrelated research areas and disciplines. Many researchers interested in these areas may wonder why there are two different communities, whether they are the same concept or not, and the differences between them, which is key information for designing their research and publication strategies. To address this, we conducted a systematic review of academic papers about the differences between LA and EDM following the Preferred Reporting Method for Systematic Reviews (PRISMA) guidelines. We selected 10 research works and identified 11 differences. Our conclusions are that, although both use the same data and share similar goals and interests, EDM and LA are different research communities with different origins and focuses, with their respective conferences and journals. However, there is active collaboration between the two communities and their members often tend to publish in both fields' conferences and journals. Additionally, none of the differences are apparently large enough to conclude that LA and EDM follow different paths for improving the teaching-learning process, but rather the opposite. Following a common future line, it seems that the two "sister" communities are working together with the same perspective, along with some "cousin" communities such as AIED (Artificial Intelligence in Education), L@S (Learning at Scale), Learning Science (LS), etc. in the same area that could be called Educational Data Science (EDS). We propose using the term EDS to integrate both LA and EDM with all these related communities.
+C1 [Cerezo, R.] Univ Oviedo, Oviedo, Spain.
+   [Lara, J. -A.; Romero, C.] Univ Cordoba, Cordoba, Spain.
+   [Azevedo, R.] Univ Cent Florida, Orlando, FL USA.
+C3 University of Oviedo; Universidad de Cordoba; State University System of Florida; University of Central Florida
+RP Lara, JA (corresponding author), Univ Cordoba, Cordoba, Spain.
+EM cerezorebeca@uniovi.es; juan.lara@uco.es; roger.azevedo@ucf.edu; cromero@uco.es
+FU Spanish Ministry of Science, Innovation and Universities [PDC2022-133411-I00, RED2022-134284-T]; SNOLA Network [ProyExcel-0069]; University, Research and Innovation Department of the Andalusian Board [TED2021-131054B-I00];  [PID2019-107201GB-100]
+CR Aksnes DW, 2019, SAGE OPEN, V9, P0, DOI 10.1177/2158244019829575
+   Aldowah H, 2019, TELEMAT INFORM, V37, P13, DOI 10.1016/j.tele.2019.01.007
+   Baek C, 2023, INTERACT LEARN ENVIR, V31, P3828, DOI 10.1080/10494820.2021.1943689
+   Baker R, 2014, CAMBRIDGE HANDBOOK OF THE LEARNING SCIENCES, V0, P253
+   Baker RS, 2021, COMPUT EDUC-ARTIF IN, V2, P100021, DOI 10.1016/j.caeai.2021.100021
+   Bienkowski M, 2012, ENHANCING TEACHING AND LEARNING THROUGH EDUCATIONAL DATA MINING AND LEARNING ANALYTICS: AN ISSUE BRIEF, V0, P0
+   Liñán LC, 2015, RUSC-UNIV KNOWL SOC, V12, P98, DOI 10.7238/rusc.v12i3.2515
+   Cerezo R, 2020, J COMPUT HIGH EDUC, V32, P0, DOI 10.1007/s12528-019-09225-y
+   Charitopoulos A, 2020, INT J ARTIF INTELL E, V30, P371, DOI 10.1007/s40593-020-00200-8
+   Chen GL, 2020, LAK20: THE TENTH INTERNATIONAL CONFERENCE ON LEARNING ANALYTICS & KNOWLEDGE, V0, PP544, DOI 10.1145/3375462.3375500
+   Dormezil S, 2019, INT C ED DATA MINING, V0, P0
+   Estrellado RA, 2020, DATA SCIENCE IN EDUCATION USING R, V0, P0
+   Fancsali SE, 2022, INT C ED DATA MINING, V0, P0
+   Gonzalez-Pienda J, 2002, MANUAL DE PSICOLOGIA DE LA EDUCACION, V0, P0
+   Gudivada VN, 2018, RESPONSIBLE ANALYTICS AND DATA MINING IN EDUCATION: GLOBAL PERSPECTIVES ON QUALITY, V0, P0
+   Guzmán-Valenzuela C, 2021, INT J EDUC TECHNOL H, V18, P0, DOI 10.1186/s41239-021-00258-x
+   Haim A, 2023, PROCEEDINGS OF THE TENTH ACM CONFERENCE ON LEARNING @ SCALE, V0, P248, DOI 10.1145/3573051.3593398
+   Hamal O, 2022, SUSTAINABILITY-BASEL, V14, P0, DOI 10.3390/su14052862
+   K G S, 2021, A BEGINNERS GUIDE TO LEARNING ANALYTICS, V0, P29
+   Kizilcec RF, 2023, PRACTICABLE LEARNING, V0, PP133, DOI 10.1007/978-3-031-27646-0_8
+   Klasnja-Milicevic A, 2017, COMPUT APPL ENG EDUC, V25, P1066, DOI 10.1002/cae.21844
+   Labarthe H, 2018, 14 INT C INT TUT SYS, V0, P10
+   Lang C, 2022, HDB LEARNING ANALYTI, V2nd, P0, DOI 10.18608/HLA22
+   Lang C, 2022, HANDBOOK OF LEARNING ANALYTICS, V2nd, P0
+   Lemay DJ, 2021, COMPUT EDUC-ARTIF IN, V2, P100016, DOI 10.1016/j.caeai.2021.100016
+   Liu R, 2017, JOURNAL OF EDUCATIONAL DATA MINING, V9, P25, DOI 10.5281/ZENODO.3554625
+   Marcu D, 2019, BRAIN-BROAD RES ARTI, V10, P1
+   Maseleno A, 2018, INTERNATIONAL JOURNAL OF ENGINEERING AND TECHNOLOGY, V7, P1124, DOI 10.14419/ijet.v7i3.9789
+   McFarland DA, 2021, AERA OPEN, V7, P0, DOI 10.1177/23328584211052055
+   Page MJ, 2021, BMJ-BRIT MED J, V372, P0, DOI 10.1136/bmj.n71
+   Papamitsiou Z, 2014, EDUC TECHNOL SOC, V17, P49
+   Pena-Ayala A, 2023, EDUCATIONAL DATA SCIENCE: ESSENTIALS, V0, P0
+   Peña-Ayala A, 2018, WIRES DATA MIN KNOWL, V8, P0, DOI 10.1002/widm.1243
+   Rienties B, 2020, FRONT EDUC, V5, P0, DOI 10.3389/feduc.2020.00128
+   Romero C, 2010, HANDBOOK OF EDUCATIONAL DATA MINING, V0, P0, DOI DOI 10.1201/B10274
+   Romero C, 2020, WIRES DATA MIN KNOWL, V10, P0, DOI 10.1002/widm.1355
+   Romero C, 2017, WIRES DATA MIN KNOWL, V7, P0, DOI 10.1002/widm.1187
+   Siemens G, 2013, AM BEHAV SCI, V57, P1380, DOI 10.1177/0002764213498851
+   Siemens George, 2012, P 2 INT C LEARNING A, V0, PP252, DOI 10.1145/2330601.2330661
+   Viberg O, 2020, LAK20: THE TENTH INTERNATIONAL CONFERENCE ON LEARNING ANALYTICS & KNOWLEDGE, V0, PP524, DOI 10.1145/3375462.3375483
+NR 40
+TC 20
+Z9 24
+U1 6
+U2 50
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0747-5632
+EI 1873-7692
+J9 COMPUT HUM BEHAV
+JI Comput. Hum. Behav.
+PD MAY 15
+PY 2024
+VL 154
+IS 
+BP 
+EP 
+DI 10.1016/j.chb.2024.108155
+EA JAN 2024
+PG 10
+WC Psychology, Multidisciplinary; Psychology, Experimental
+SC Psychology
+GA JE5P7
+UT WOS:001171504300001
+DA 2026-09-28
+ER
+
+PT J
+AU Ying, DH
+   Ma, JM
+AF Ying, Dahao
+   Ma, Jieming
+TI Student Performance Prediction with Regression Approach and Data Generation
+SO APPLIED SCIENCES-BASEL
+LA English
+DT Article
+DE educational data mining; student performance prediction; generative adversarial networks
+AB Although the modern education system is highly developed, educators have never stopped looking for new ways to improve it. After entering the 21st century, more and more educational data are stored, and data mining techniques have developed rapidly. Educational data mining has become a hot topic for educators who want to discover the information hiding among educational data. As a sub-branch of educational data mining, student performance prediction aims to predict student performance based on student datasets. This research attempts to improve the performance of predictive algorithms on a 5-level student performance grading system. This research changes the prediction method from a classification approach to a regression approach and enlarges small datasets with synthetic data. Algorithms including Support Vector Machine (SVM), Random Forest (RF), Neural Network (NN), and Generative Adversarial Networks (GANs) are used in this research. From the results obtained, it is concluded that the regression approach outperforms the classification approach in predicting student performance. The classification approach is currently widely used in student performance prediction. This research also explores the possibility of using synthetic student data to augment small educational datasets. The course and evaluation system differ among different regions, making student data hard to collect or merge. Augmenting small student datasets with synthetic data may help educators to better evaluate their teaching skills. This research shows that a regression approach using synthetic data improves the prediction accuracy by up to 21.9%, 15.6%, and 6.6%, respectively, using SVM, NN, and RF.
+C1 [Ying, Dahao; Ma, Jieming] Xian Jiaotong Liverpool Univ, Dept Comp, Suzhou 215123, Peoples R China.
+C3 Xi'an Jiaotong-Liverpool University
+RP Ying, DH (corresponding author), Xian Jiaotong Liverpool Univ, Dept Comp, Suzhou 215123, Peoples R China.
+EM dahao.ying21@alumni.xjtlu.edu.cn; jieming.ma@xjtlu.edu.cn
+CR Al-Shehri H, 2017, CAN CON EL COMP EN, V0, P0
+   Asif Raheela, 2014, INTERNATIONAL JOURNAL OF INTELLIGENT SYSTEMS AND APPLICATIONS, V7, P49, DOI 10.5815/ijisa.2015.01.05
+   Chen MS, 1996, IEEE T KNOWL DATA EN, V8, P866, DOI 10.1109/69.553155
+   Clifton C, 2022, DATA MINING, V0, P0
+   Cortez P, 2008, 15TH EUROPEAN CONCURRENT ENGINEERING CONFERENCE/5TH FUTURE BUSINESS TECHNOLOGY CONFERENCE, V0, P5
+   Fang W, 2018, CMC-COMPUT MATER CON, V57, P167, DOI 10.32604/cmc.2018.02356
+   FRAWLEY WJ, 1992, AI MAG, V13, P57
+   Goodfellow I, 2020, COMMUN ACM, V63, P139, DOI 10.1145/3422622
+   Goodfellow IJ, 2014, ADV NEUR IN, V27, P2672
+   Kabakchieva D, 2012, INT J COMPUTER SCI M, V1, P686
+   Kim BH, 2018, ARXIV, V0, P0
+   Kotsiantis S, 2004, APPL ARTIF INTELL, V18, P411, DOI 10.1080/08839510490442058
+   Li DC, 2014, NEUROCOMPUTING, V143, P222, DOI 10.1016/j.neucom.2014.06.004
+   Liu B, 2000, TARGET SELECTION VIA SCORING USING, V0, P0
+   Luan J, 2002, NEW DIRECTIONS I RES, V2002, P17, DOI 10.1002/IR.35
+   National Center for Education Statistics, 2023, TABLE 311.15. NUMBER AND PERCENTAGE OF STUDENTS ENROLLED IN DEGREE-GRANTING POSTSECONDARY INSTITUTIONS, V0, P0
+   Romero C, 2010, IEEE T SYST MAN CY C, V40, P601, DOI 10.1109/TSMCC.2010.2053532
+   Srivastava J, 2000, SIGKDD EXPLOR NEWSL, V1, P12
+   Tin Kam Ho, 1995, PROCEEDINGS OF THE THIRD INTERNATIONAL CONFERENCE ON DOCUMENT ANALYSIS AND RECOGNITION, V0, PP278, DOI 10.1109/ICDAR.1995.598994
+   United Nations Educational Scientific and Cultural Organization, 2022, EDUCATION: FROM DISRUPTION TO RECOVERY, V0, P0
+   Yining Ma, 2000, PROCEEDINGS. KDD-2000. SIXTH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, V0, P457
+NR 21
+TC 4
+Z9 5
+U1 7
+U2 46
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 2076-3417
+J9 APPL SCI-BASEL
+JI Appl. Sci.-Basel
+PD FEB 15
+PY 2024
+VL 14
+IS 3
+BP 
+EP 
+DI 10.3390/app14031148
+PG 10
+WC Chemistry, Multidisciplinary; Engineering, Multidisciplinary; Materials Science, Multidisciplinary; Physics, Applied
+SC Chemistry; Engineering; Materials Science; Physics
+GA HN0S3
+UT WOS:001160071700001
+DA 2026-09-28
+ER
+
+PT J
+AU Abdalkareem, M
+   Min-Allah, N
+AF Abdalkareem, Mai
+   Min-Allah, Nasro
+TI Explainable Models for Predicting Academic Pathways for High School Students in Saudi Arabia
+SO IEEE ACCESS
+LA English
+DT Article
+DE Feature extraction; Predictive models; Data mining; Prediction algorithms; Classification algorithms; Data models; Training; Machine learning; Education; Risk management; Career development; Curriculum development; Educational courses; Classification; data mining; educational data mining; explainable artificial intelligence; feature selection; machine learning; Shapley additive explanations (SHAP) value; student
+ID data mining techniques; performance; classification
+AB The science of data mining has contributed considerably to the education sector. However, most educational data mining (EDM) studies have focused on predicting the future performance of students and detecting at-risk students to provide early targeted interventions. A few studies used machine learning techniques to predict the future academic pathways for degree students. However, there are limited studies that use the datasets of high school students to predict future pathways. Moreover, such studies are yet to be conducted using datasets produced in Saudi high schools. Therefore, researchers that work in the education sector have focused on EDM and are eager to apply advanced computer science methods to upgrade old administrative systems. Furthermore, the education sector is a rich field with data that can be exploited to improve and enhance educational management systems and accelerate digital transformation. In this study, we explore the applications of EDM and review the algorithms used by other researchers in this field. We applied supervised machine learning classifiers to educational datasets collected from high schools in Saudi to predict the future academic pathways of students and identify the essential factors that affect them. This study contributes to the literature by developing a predictive model for students in Saudi high schools and detecting critical features that affect future academic careers of the students. Furthermore, we used explainable artificial intelligence to interpret the best model and enhance its transparency.
+C1 [Abdalkareem, Mai; Min-Allah, Nasro] Imam Abdulrahman Bin Faisal Univ, Coll Comp Sci & Informat Technol, Dept Comp Sci, POB 1982, Dammam, Saudi Arabia.
+C3 Imam Abdulrahman Bin Faisal University
+RP Abdalkareem, M (corresponding author), Imam Abdulrahman Bin Faisal Univ, Coll Comp Sci & Informat Technol, Dept Comp Sci, POB 1982, Dammam, Saudi Arabia.
+EM 2210500248@iau.edu.sa
+CR Abdi L, 2016, IEEE T KNOWL DATA EN, V28, P238, DOI 10.1109/TKDE.2015.2458858
+   Abu Amra Ihsan A, 2017, 2017 8TH INTERNATIONAL CONFERENCE ON INFORMATION TECHNOLOGY (ICIT). PROCEEDINGS, V0, PP909, DOI 10.1109/ICITECH.2017.8079967
+   Adnan M, 2021, IEEE ACCESS, V9, P7519, DOI 10.1109/ACCESS.2021.3049446
+   Agatonovic-Kustrin S, 2000, J PHARMACEUT BIOMED, V22, P717, DOI 10.1016/S0731-7085(99)00272-1
+   Ahmed M, 2018, PAKISTAN J. SCI., V70, P91
+   Al-Shabandar R, 2019, IEEE ACCESS, V7, P149464, DOI 10.1109/ACCESS.2019.2943351
+   Alamri R, 2021, IEEE ACCESS, V9, P33132, DOI 10.1109/ACCESS.2021.3061368
+   Alboaneen D, 2022, DATA-BASEL, V7, P0, DOI 10.3390/data7020021
+   Amrieh EA, 2016, INTERNATIONAL JOURNAL OF DATABASE THEORY AND APPLICATION, V9, P119, DOI 10.14257/ijdta.2016.9.8.13
+   Arjunan P, 2020, APPL ENERG, V276, P0, DOI 10.1016/j.apenergy.2020.115413
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   Buenaño-Fernández D, 2019, SUSTAINABILITY-BASEL, V11, P0, DOI 10.3390/su11102833
+   Bujang SDA, 2021, IEEE ACCESS, V9, P95608, DOI 10.1109/ACCESS.2021.3093563
+   Chawla NV, 2002, J ARTIF INTELL RES, V16, P321, DOI 10.1613/jair.953
+   Chen Tianqi, 2015, R PACKAGE VERSION 0.4-2, V0, P1
+   Datamarv D, 2019, EXPLAIN YOUR MODEL WITH THE SHAP VALUES, V0, P0
+   Dutti A, 2017, IEEE ACCESS, V5, P15991, DOI 10.1109/ACCESS.2017.2654247
+   Hand DJ, 2001, INT STAT REV, V69, P385, DOI 10.1111/j.1751-5823.2001.tb00465.x
+   Harvey JL, 2019, 2019 IEEE SYMPOSIUM SERIES ON COMPUTATIONAL INTELLIGENCE (IEEE SSCI 2019), V0, PP3004, DOI 10.1109/SSCI44817.2019.9003147
+   Hashim Ali Salah, 2020, IOP CONFERENCE SERIES: MATERIALS SCIENCE AND ENGINEERING, V928, P0, DOI 10.1088/1757-899x/928/3/032019
+   Huang J, 2005, IEEE T KNOWL DATA EN, V17, P299, DOI 10.1109/TKDE.2005.50
+   Iatrellis O, 2021, EDUC INF TECHNOL, V26, P69, DOI 10.1007/s10639-020-10260-x
+   Iatrellis O, 2020, EDUC INF TECHNOL, V25, P3109, DOI 10.1007/s10639-020-10105-7
+   Karthikeyan VG, 2020, SOFT COMPUT, V24, P18477, DOI 10.1007/s00500-020-05075-4
+   Kenekayoro Patrick, 2018, INTERNATIONAL JOURNAL OF KNOWLEDGE-BASED ORGANIZATIONS, V8, P67, DOI 10.4018/ijkbo.2018100104
+   Kotsiantis SB, 2006, ARTIF INTELL REV, V26, P159, DOI 10.1007/s10462-007-9052-3
+   Kuzilek J, 2021, FUTURE GENER COMP SY, V125, P661, DOI 10.1016/j.future.2021.07.009
+   Lin AJ, 2019, IEEE ACCESS, V7, P67235, DOI 10.1109/ACCESS.2019.2918026
+   Liu D, 2020, IEEE ACCESS, V8, P0, DOI 10.1109/ACCESS2020.3033200
+   Lundberg S, 2017, ADV NEURAL INFORM PR, V2017, P4766, DOI 10.48550/arxiv.1705.07874
+   Hossain MK, 2015, DEVELOPING COUNTRY STUDIES, V5, P1, DOI 10.5121/ijdkp.2015.5201
+   Mengash HA, 2020, IEEE ACCESS, V8, P55462, DOI 10.1109/ACCESS.2020.2981905
+   Mohsin MFM, 2010, PROC IEEE INT C INTE, V0, PP483, DOI 10.1109/ISKE.2010.5680824
+   Nabil A, 2021, IEEE ACCESS, V9, P140731, DOI 10.1109/ACCESS.2021.3119596
+   Polyzou A, 2019, IEEE T LEARN TECHNOL, V12, P237, DOI 10.1109/TLT.2019.2913358
+   Priya S, 2021, ADVANCES IN PARALLEL COMPUTING TECHNOLOGIES AND APPLICATIONS, V0, P0
+   Qazdar A, 2019, EDUC INF TECHNOL, V24, P3577, DOI 10.1007/s10639-019-09946-8
+   Quinlan JR, 1990, MACH LEARN, V0, PP140, DOI 10.1016/B978-0-08-051055-2.50011-0
+   Romero C, 2013, WIRES DATA MIN KNOWL, V3, P12, DOI 10.1002/widm.1075
+   Romero C, 2010, IEEE T SYST MAN CY C, V40, P601, DOI 10.1109/TSMCC.2010.2053532
+   Sahlaoui H, 2021, IEEE ACCESS, V9, P152688, DOI 10.1109/ACCESS.2021.3124270
+   Saleem F, 2021, MATHEMATICS-BASEL, V9, P0, DOI 10.3390/math9172078
+   Sokkhey Phauk, 2020, IEIE TRANSACTIONS ON SMART PROCESSING & COMPUTING, V9, P217, DOI 10.5573/ieiespc.2020.9.3.217
+   Sunday K, 2020, INT J EMERG TECHNOL, V15, P127, DOI 10.3991/ijet.v15i02.11527
+   Tarik A, 2021, PROCEDIA COMPUT SCI, V184, P835, DOI 10.1016/j.procs.2021.03.104
+   Manjarres AV, 2018, DIGIT EDUC REV, V0, P235
+   Wakelam E, 2020, BRIT J EDUC TECHNOL, V51, P347, DOI 10.1111/bjet.12836
+   Zupan J, 1994, ACTA CHIM. SLOV, V0, P327
+NR 50
+TC 14
+Z9 15
+U1 0
+U2 25
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+EI 
+J9 IEEE ACCESS
+JI IEEE Access
+PD JUN 15
+PY 2024
+VL 12
+IS 
+BP 30604
+EP 30626
+DI 10.1109/ACCESS.2024.3369586
+PG 23
+WC Computer Science, Information Systems; Engineering, Electrical & Electronic; Telecommunications
+SC Computer Science; Engineering; Telecommunications
+GA JW1P1
+UT WOS:001176110200001
+DA 2026-09-28
+ER
+
+PT J
+AU Zhang, R
+   Meng, ZH
+   Wang, HL
+   Liu, TH
+   Wang, G
+   Zheng, L
+   Wang, C
+AF Zhang, Ru
+   Meng, Zihan
+   Wang, Hongli
+   Liu, Tianhe
+   Wang, Guan
+   Zheng, Lu
+   Wang, Cong
+TI Hyperscale data analysis oriented optimization mechanisms for higher education management systems platforms with evolutionary intelligence
+SO APPLIED SOFT COMPUTING
+LA English
+DT Article
+DE Higher education management systems; Evolutionary intelligence; Hyperscale data analysis; Educational data mining; Learning analytics
+ID learning analytics
+AB Higher education institutions face vast amounts of complex data from various sources. Extracting meaningful insights from this data can improve student outcomes and institutional performance. This paper proposes novel evolutionary optimization mechanisms for higher education management systems to enable hyperscale data analysis. An integrated framework is developed, combining educational data mining, learning analytics, and evolutionary computation techniques. The methodology employs a multi -objective evolutionary algorithm with dynamic resource allocation to optimize multiple objectives simultaneously. Adaptive learning control is incorporated to balance exploration and exploitation. Theoretical analyses provide convergence proofs for the proposed algorithms. Comprehensive experiments on real -world and synthetic datasets demonstrate the effectiveness of the proposed mechanisms compared to state-of-the-art approaches. The results show significant performance gains regarding solution quality, scalability, and computational efficiency. The proposed techniques can be a foundation for developing the next generation of intelligent higher education management systems.
+C1 [Zhang, Ru; Meng, Zihan; Wang, Guan; Zheng, Lu; Wang, Cong] Jinzhou Med Univ, Jinzhou 121000, Peoples R China.
+   [Wang, Hongli] Dalian Med Univ, Hosp 2, Dalian 116027, Peoples R China.
+   [Liu, Tianhe] Liaoning Univ Technol, Jinzhou 121001, Peoples R China.
+C3 Jinzhou Medical University; Dalian Medical University; Liaoning University of Technology
+RP Meng, ZH (corresponding author), Jinzhou Med Univ, Jinzhou 121000, Peoples R China.
+EM mengzh@jzmu.edu.cn
+FU Education and Teaching Research and Reform Project of Jinzhou Medical University [2022LGDJ-QN004]; Building Research Project of Liaoning University of Technology;  [YB2023006];  [YB2023042]
+CR Aldowah H, 2019, TELEMAT INFORM, V37, P13, DOI 10.1016/j.tele.2019.01.007
+   Alhijawi B, 2024, EVOL INTELL, V17, P1245, DOI 10.1007/s12065-023-00822-6
+   Aljawarneh S, 2021, J COMPUT HIGH EDUC, V33, P545, DOI 10.1007/s12528-021-09299-7
+   Cao J, 2023, APPL INTELL, V53, P10380, DOI 10.1007/s10489-022-03990-7
+   Charitopoulos A, 2020, INT J ARTIF INTELL E, V30, P371, DOI 10.1007/s40593-020-00200-8
+   Dennehy D, 2023, INFORM SYST FRONT, V25, P1315, DOI 10.1007/s10796-021-10183-z
+   Dutti A, 2017, IEEE ACCESS, V5, P15991, DOI 10.1109/ACCESS.2017.2654247
+   El Aouifi H, 2021, EDUC INF TECHNOL, V26, P5799, DOI 10.1007/s10639-021-10512-4
+   Feldman-Maggor Y, 2021, EDUC INF TECHNOL, V26, P1455, DOI 10.1007/s10639-020-10309-x
+   Geng HT, 2023, COMPLEX INTELL SYST, V9, P579, DOI 10.1007/s40747-022-00812-8
+   Godhrawala Husain, 2023, INTERNATIONAL JOURNAL OF INFORMATION TECHNOLOGY, V0, PP803, DOI 10.1007/s41870-022-00926-9
+   Hong WJ, 2021, INT J AUTOM COMPUT, V18, P155, DOI 10.1007/s11633-020-1253-0
+   Ifenthaler D, 2020, ETR&D-EDUC TECH RES, V68, P1961, DOI 10.1007/s11423-020-09788-z
+   Ikegwu AC, 2023, J. COMPUT. SCI., V0, P0, DOI DOI 10.1007/s42044-023-00158-5
+   Jiang SY, 2023, ACM COMPUT SURV, V55, P0, DOI 10.1145/3524495
+   Krylova NP, 2022, SCI TECH INF PROCESS, V49, P180, DOI 10.3103/S0147688222030078
+   List A, 2023, EDUC PSYCHOL REV, V35, P0, DOI 10.1007/s10648-023-09756-y
+   Ma HP, 2023, ARTIF INTELL REV, V56, P15217, DOI 10.1007/s10462-023-10526-z
+   Mamedova L, 2023, EDUC INF TECHNOL, V28, P15173, DOI 10.1007/s10639-023-11822-5
+   Nahar K, 2021, EDUC INF TECHNOL, V26, P6051, DOI 10.1007/s10639-021-10575-3
+   Okoye K, 2022, EDUC INF TECHNOL, V27, P3891, DOI 10.1007/s10639-021-10751-5
+   Papamitsiou Z, 2014, EDUC TECHNOL SOC, V17, P49
+   Pillay N, 2020, GENET PROGRAM EVOL M, V21, P87, DOI 10.1007/s10710-019-09362-4
+   Romero C, 2020, WIRES DATA MIN KNOWL, V10, P0, DOI 10.1002/widm.1355
+   Sayed BT, 2022, SN COMPUTER SCIENCE, V4, P0, DOI 10.1007/s42979-022-01562-7
+   Shoaib M, 2022, EDUC INF TECHNOL, V27, P9099, DOI 10.1007/s10639-022-10970-4
+   Skopek J, 2020, DEMOGRAPHY, V57, P1241, DOI 10.1007/s13524-020-00896-2
+   Tang BW, 2020, NEURAL COMPUT APPL, V32, P4849, DOI 10.1007/s00521-018-3878-2
+   Usher M, 2022, J SCI EDUC TECHNOL, V31, P649, DOI 10.1007/s10956-022-09984-x
+   Wong BTM, 2020, J COMPUT EDUC, V7, P7, DOI 10.1007/s40692-019-00143-7
+   Xie YB, 2021, INFORM SCIENCES, V556, P472, DOI 10.1016/j.ins.2020.08.070
+   Xu M, 2021, INT J BIO-INSPIR COM, V17, P14, DOI 10.1504/IJBIC.2021.113336
+   Yagci M, 2022, SMART LEARN ENVIRON, V9, P0, DOI 10.1186/s40561-022-00192-z
+   Yang WT, 2023, SOFT COMPUT, V27, P17809, DOI 10.1007/s00500-023-09061-4
+   Zouache D, 2022, ANN OPER RES, V0, P0, DOI DOI 10.1007/s10479-022-04641-3
+NR 35
+TC 12
+Z9 12
+U1 1
+U2 16
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1568-4946
+EI 1872-9681
+J9 APPL SOFT COMPUT
+JI Appl. Soft. Comput.
+PD APR 15
+PY 2024
+VL 155
+IS 
+BP 
+EP 
+DI 10.1016/j.asoc.2024.111460
+EA MAR 2024
+PG 16
+WC Computer Science, Artificial Intelligence; Computer Science, Interdisciplinary Applications
+SC Computer Science
+GA PB0E0
+UT WOS:001211494500001
+DA 2026-09-28
+ER
+
+PT J
+AU Boztas, GD
+   Berigel, M
+   Altinay, F
+AF Boztas, Gizem Dilan
+   Berigel, Muhammet
+   Altinay, Fahriye
+TI A bibliometric analysis of Educational Data Mining studies in global perspective
+SO EDUCATION AND INFORMATION TECHNOLOGIES
+LA English
+DT Article
+DE Bibliometric analysis; EDM; Scientific mapping; Educational Data Mining; SciMAT
+ID science; evolution; analytics; network
+AB Educational Data Mining (EDM) is an interdisciplinary field that encapsulates different fields such as computer science, education, and statistics. It is crucial to make data mining in education to shape future trends in education for policymakers, researchers, and educators in terms of developments. To have an all-inclusive understanding of EDM studies, a comprehensive examination of both the intellectual and social structure of the field with a global perspective and its evolution over time is required to provide adequate comprehension of the past, present, and as well future research direction for this research field. In this respect, this research study aims to explore the performance analysis of the EDM, the intellectual structure of the EDM, the social structure of the area, and the temporal modeling of the EDM through bibliometric analysis. In this bibliometric analysis, the existing body of knowledge that covered 2010-2021 was presented on educational data mining to provide future directions in the field of education. The results of the study showed the number of publications increased by 1325% (8 to 114) over the years. It has been determined that the most influential journals in the field are "Computers & Education", "International Journal of Advanced Computer Science and Applications" and "Educational Technology & Society" and the most influential authors are "C. Romero", "S. Ventura" and "R.S. Barker", and the USA, Spain, and China seem to be the most influential countries in the field of EDM. The themes of "CLASSIFICATION" and "SYSTEMS" in the first sub-period (2010-2013) of EDM, and "LEARNING ANALYTICS", "PREDICTION OF ACADEMIC PERFORMANCE" and "SOCIAL MEDIA" in the second sub-term (2014-2017) and the third and last sub-period (2018-2021), "PREDICTION OF ACADEMIC PERFORMANCE", "MACHINE LEARNING", "PROCESS MINING", "PARTICIPATION", "KNN", "J48" and "BAYESIAN NETWORK" themes were identified as engine themes. In addition, as a result of the thematic evolution map, it was discovered that the themes "DEEP-LEARNING (DL)" and "EMOTION" are emerging themes for future studies for shaping the future of education based on sustainable goals.
+C1 [Boztas, Gizem Dilan] Karadeniz Tech Univ, Digital Transformat Off, TR-61080 Trabzon, Turkiye.
+   [Berigel, Muhammet] Karadeniz Tech Univ, Fac Econ & Adm Sci, Management Informat Syst, TR-61080 Trabzon, Turkiye.
+   [Altinay, Fahriye] Near East Univ, Inst Grad Studies, Societal Res & Dev Ctr, Northern Part Cyprus Mersin 10, Nicosia, Turkiye.
+C3 Karadeniz Technical University; Karadeniz Technical University; Near East University
+RP Boztas, GD (corresponding author), Karadeniz Tech Univ, Digital Transformat Off, TR-61080 Trabzon, Turkiye.
+EM gizemdilanboztas@ktu.edu.tr; berigel@ktu.edu.tr; fahriye.altinay@neu.edu.tr
+CR Adeniji BA, 2019, THESIS LONG ISLAND U, V0, P0
+   Akgül EK, 2020, FRACTAL FRACT, V4, P0, DOI 10.29345/futvis.160
+   Almasri A, 2023, MIN ED DAT IMPR TEAC, V0, PP243, DOI 10
+   Martínez MA, 2015, RES SOCIAL WORK PRAC, V25, P257, DOI 10.1177/1049731514522101
+   Azevedo A, 2021, INTERNATIONAL JOURNAL OF EDUCATIONAL RESEARCH OPEN, V2, P100084, DOI 10.1016/j.ijedro.2021.100084
+   Baek C, 2022, IEEE ACCESS, V10, P31289, DOI 10.1109/ACCESS.2022.3160457
+   BAKER RSJD, 2009, J ED DATA MINING, V1, P3, DOI 10.5281/zenodo.3554657
+   Bakhshinategh B, 2018, EDUC INF TECHNOL, V23, P537, DOI 10.1007/s10639-017-9616-z
+   Zorić AB, 2020, JOURNAL OF INTERNATIONAL BUSINESS RESEARCH AND MARKETING, V6, P12, DOI 10.18775/jibrm.1849-8558.2015.61.3002
+   CALLON M, 1991, SCIENTOMETRICS, V22, P155, DOI 10.1007/BF02019280
+   Cobo MJ, 2011, J INFORMETR, V5, P146, DOI 10.1016/j.joi.2010.10.002
+   Dormezil S, 2020, CEUR WORKSHOP PROC, V2592, P17
+   Du X, 2020, INF DISCOV DELIV, V48, P225, DOI 10.1108/IDD-09-2019-0070
+   Feng GY, 2022, IEEE ACCESS, V10, P65271, DOI 10.1109/ACCESS.2022.3184111
+   Ganepola D, 2022, PROC FRONT EDUC CONF, V0, P0, DOI DOI 10.1109/FIE56618.2022.9962490
+   Harzing AW, 2007, PUBLISH PERISH, V2007, P2007
+   Hernández-Blanco A, 2019, COMPLEXITY, V0, P0, DOI DOI 10.1155/2019/1306039
+   Hung HC, 2020, SYMMETRY-BASEL, V12, P0, DOI 10.3390/sym12020213
+   International Educational Data Mining Society, 2011, ABOUT US, V0, P0
+   Jena RK, 2019, BEHAV INFORM TECHNOL, V38, P986, DOI 10.1080/0144929X.2019.1625440
+   Khalaf A, 2021, SOUTHEAST EUROPE JOURNAL OF SOFT COMPUTING, V10, P55, DOI 10.21533/SCJOURNAL.V10I1.199
+   Lee SJ, 2001, IND MANAGE DATA SYST, V101, P41, DOI 10.1108/02635570110365989
+   Mahboob K, 2023, MEHRAN UNIV RES J EN, V42, P120, DOI 10.22581/muet1982.2301.12
+   Mougiakou S, 2023, EDUCATIONAL DATA ANALYTICS FOR TEACHERS AND SCHOOL LEADERS, V0, P0, DOI DOI 10.1007/978-3-031-15266-5
+   Mougiakou S, 2023, ED DATA ANALYTICS TE, V0, P0, DOI DOI 10.1007/978-3-031-15266-5_1
+   Murgado-Armenteros EM, 2015, SCIENTOMETRICS, V102, P519, DOI 10.1007/s11192-014-1443-z
+   Nilashi M, 2022, EDUC INF TECHNOL, V27, P9401, DOI 10.1007/s10639-022-10997-7
+   Nkomo LM, 2021, TECHTRENDS, V65, P808, DOI 10.1007/s11528-021-00638-0
+   Noyons ECM, 1999, J AM SOC INFORM SCI, V50, P115, DOI 10.1002/(SICI)1097-4571(1999)50:2<115::AID-ASI3>3.0.CO;2-J
+   Noyons ECM, 1999, SCIENTOMETRICS, V46, P591, DOI 10.1007/BF02459614
+   Olson D, 2008, ADVANCED DATA MINING TECHNIQUES, V0, P0, DOI DOI 10.1007/978-3-540-76917-0
+   Peña-Ayala A, 2014, EXPERT SYST APPL, V41, P1432, DOI 10.1016/j.eswa.2013.08.042
+   Perianes-Rodriguez A, 2016, J INFORMETR, V10, P1178, DOI 10.1016/j.joi.2016.10.006
+   Romero C, 2020, WIRES DATA MIN KNOWL, V10, P0, DOI 10.1002/widm.1355
+   Romero C, 2013, WIRES DATA MIN KNOWL, V3, P12, DOI 10.1002/widm.1075
+   Romero C, 2010, IEEE T SYST MAN CY C, V40, P601, DOI 10.1109/TSMCC.2010.2053532
+   Sánchez A, 2023, SUSTAINABILITY-BASEL, V15, P0, DOI 10.3390/su15020895
+   Shafiq DA, 2022, IEEE ACCESS, V10, P72480, DOI 10.1109/ACCESS.2022.3188767
+   Small H, 1999, J AM SOC INFORM SCI, V50, P799, DOI 10.1002/(SICI)1097-4571(1999)50:9<799::AID-ASI9>3.0.CO;2-G
+   Talan T, 2023, INFORM EDUC, V22, P161, DOI 10.15388/infedu.2023.02
+   Waheed H, 2018, BEHAV INFORM TECHNOL, V37, P941, DOI 10.1080/0144929X.2018.1467967
+   WHITE HD, 1981, J AM SOC INFORM SCI, V32, P163, DOI 10.1002/asi.4630320302
+   Wu Yongling, 2023, BIG DATA MANAGEMENT AND ANALYSIS FOR CYBER PHYSICAL SYSTEMS: SELECTED PAPERS OF BDET 2022. LECTURE NOTES ON DATA ENGINEERING AND COMMUNICATIONS TECHNOLOGIES (150), V0, PP60, DOI 10.1007/978-3-031-17548-0_6
+   Xiao W, 2022, ENG REP, V4, P0, DOI 10.1002/eng2.12482
+   Xiao ZW, 2021, INFORM SCIENCES, V571, P65, DOI 10.1016/j.ins.2021.04.053
+   Xing HL, 2022, IEEE T INSTRUM MEAS, V71, P0, DOI 10.1109/TIM.2022.3201203
+   Yu B, 2022, WIRES DATA MIN KNOWL, V12, P0, DOI 10.1002/widm.1443
+   Zupic I, 2015, ORGAN RES METHODS, V18, P429, DOI 10.1177/1094428114562629
+NR 48
+TC 9
+Z9 13
+U1 2
+U2 90
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 1360-2357
+EI 1573-7608
+J9 EDUC INF TECHNOL
+JI Educ. Inf. Technol.
+PD MAY 15
+PY 2024
+VL 29
+IS 7
+BP 8961
+EP 8985
+DI 10.1007/s10639-023-12170-0
+EA SEP 2023
+PG 25
+WC Education & Educational Research
+SC Education & Educational Research
+GA QP8U6
+UT WOS:001057666200001
+DA 2026-09-28
+ER
+
+PT J
+AU Tsoni, R
+   Garani, G
+   Verykios, VS
+AF Tsoni, Rozita
+   Garani, Georgia
+   Verykios, Vassilios S.
+TI Data pipelines for educational data mining in distance education
+SO INTERACTIVE LEARNING ENVIRONMENTS
+LA English
+DT Article
+DE Data warehouse; data pipelines; educational data mining; distance learning
+ID big data
+AB New challenges in education demand effective solutions. Although Learning Analytics (LA), Educational Data Mining (EDM) and the use of Big Data are often presented as a panacea, there is a lot of ground to be covered in order for the EDM to answer the real questions of educators. An important step toward this goal is to implement holistic solutions that allow educational stakeholders to engage in the core of the EDM processes. The effectiveness of such an attempt relies on (a) having access to data arranged in an organized and meaningful way and (b) setting a sequence of processes that are flexible and reusable. Therefore, a data pipeline that imports data from a specially developed data warehouse is designed and created. Additionally, it is tested in real-life data, and results are discussed.
+C1 [Tsoni, Rozita; Verykios, Vassilios S.] Hellenic Open Univ, Sch Sci & Technol, Patras, Greece.
+   [Garani, Georgia] Univ Thessaly, Sch Technol, Larisa, Greece.
+C3 Hellenic Open University; University of Thessaly
+RP Tsoni, R (corresponding author), Hellenic Open Univ, Sch Sci & Technol, Patras, Greece.
+EM rozita.tsoni@ac.eap.gr
+CR Baig MI, 2020, INT J EDUC TECHNOL H, V17, P0, DOI 10.1186/s41239-020-00223-0
+   Bakhshinategh B, 2018, EDUC INF TECHNOL, V23, P537, DOI 10.1007/s10639-017-9616-z
+   Berthold MR, 2020, GUIDE TO INTELLIGENT DATA SCIENCE. TEXTS IN COMPUTER SCIENCE, V0, P127
+   Berthold MR, 2020, GUIDE INTELLIGENT DA, V0, P319
+   Berthold MR, 2010, TEXTS COMPUT SCI, V0, PP33, DOI 10.1007/978-1-84882-260-3_4
+   Bertolini R, 2021, INT J EDUC TECHNOL H, V18, P0, DOI 10.1186/s41239-021-00279-6
+   Ciuciu I, 2019, LECT NOTES BUS INF P, V353, P407, DOI 10.1007/978-3-030-20485-3_32
+   Delen Dursun, 2021, SIGCSE 21: PROCEEDINGS OF THE 52ND ACM TECHNICAL SYMPOSIUM ON COMPUTER SCIENCE EDUCATION, V0, P0, DOI DOI 10.1145/3408877.3439538
+   Elatia S, 2016, DATA MINING AND LEARNING ANALYTICS, V0, P0, DOI DOI 10.1002/9781118998205
+   ElAtia S, 2021, INT J INF LEARN TECH, V38, P117, DOI 10.1108/IJILT-03-2020-0025
+   Fischer C, 2020, REV RES EDUC, V44, P130, DOI 10.3102/0091732X20903304
+   Garani G, 2020, HEALTH INF SCI SYST, V8, P0, DOI 10.1007/s13755-020-00117-5
+   Garani G, 2012, INT J DATA WAREHOUS, V8, P22, DOI 10.4018/jdwm.2012100102
+   Gasevic D, 2015, TECHTRENDS, V59, P64, DOI 10.1007/s11528-014-0822-x
+   Gkontzis AF, 2017, C P ONL OP FLEX HIGH, V0, P25
+   Gkontzis AF, 2018, 22ND PAN-HELLENIC CONFERENCE ON INFORMATICS (PCI 2018), V0, PP76, DOI 10.1145/3291533.3291551
+   Goncalves PMJr, 2012, 2012 IEEE/ACIS 11TH INTERNATIONAL CONFERENCE ON COMPUTER AND INFORMATION SCIENCE (ICIS), V0, PP173, DOI 10.1109/ICIS.2012.79
+   Greener S, 2021, INTERACT LEARN ENVIR, V29, P1, DOI 10.1080/10494820.2021.1848506
+   Greener S, 2019, INTERACT LEARN ENVIR, V27, P135, DOI 10.1080/10494820.2019.1575631
+   Ifenthaler D, 2021, ETR&D-EDUC TECH RES, V69, P2131, DOI 10.1007/s11423-020-09909-8
+   Jayashree G, 2020, INTELLIGENT COMPUTING AND INNOVATION ON DATA SCIENCE. PROCEEDINGS OF ICTIDS 2019. LECTURE NOTES IN NETWORKS AND SYSTEMS (LNNS 118), V0, PP1, DOI 10.1007/978-981-15-3284-9_1
+   Kaliisa R, 2021, VISUALIZATIONS AND DASHBOARDS FOR LEARNING ANALYTICS, V0, P351
+   Logica B, 2015, PROC ECON FINANC, V33, P277, DOI 10.1016/S2212-5671(15)01712-8
+   Machita J, 2021, 2021 SYSTEMS AND INFORMATION ENGINEERING DESIGN SYMPOSIUM (IEEE SIEDS 2021), V0, PP52, DOI 10.1109/SIEDS52267.2021.9483729
+   Mendez NDD, 2017, PROCEEDINGS OF THE 5TH INTERNATIONAL CONFERENCE ON TECHNOLOGICAL ECOSYSTEMS FOR ENHANCING MULTICULTURALITY, V38, P1, DOI 10.1145/3144826.3145388
+   Moscoso-Zea O, 2018, IEEE ACCESS, V6, P64659, DOI 10.1109/ACCESS.2018.2876753
+   Moscoso-Zea O, 2016, INT CONF INFO TECH, V0, P0
+   Naidu S, 2020, DISTANCE EDUC, V41, P425, DOI 10.1080/01587919.2020.1825929
+   Oblinger DG, 2012, GAME CHANGERS: EDUCATION AND INFORMATION TECHNOLOGIES, V0, P0
+   Picciano AG, 2012, J ASYNCHRONOUS LEARN, V16, P9, DOI 10.24059/olj.v16i3.267
+   Procaci TB, 2018, IEEE INT CONF ADV LE, V0, PP173, DOI 10.1109/ICALT.2018.00048
+   Rabbany R, 2014, EDUCATIONAL DATA MINING, V0, PP441, DOI 10.1007/978-3-319-02738-8
+   Ramos TG, 2015, PROCEDIA COMPUT SCI, V55, P1031, DOI 10.1016/j.procs.2015.07.061
+   Romero C, 2014, EDUCATIONAL DATA MINING, V0, PP29, DOI 10.1007/978-3-319-02738-8_2
+   Santoso LW, 2017, PROCEDIA COMPUT SCI, V124, P93, DOI 10.1016/j.procs.2017.12.134
+   Schwendimann BA, 2017, IEEE T LEARN TECHNOL, V10, P30, DOI 10.1109/TLT.2016.2599522
+   Sebei H, 2018, SOC NETW ANAL MIN, V8, P0, DOI 10.1007/s13278-018-0507-0
+   Sergis S, 2017, STUD SYST DECIS CONT, V94, P25, DOI 10.1007/978-3-319-52977-6_2
+   Siemens George, 2012, P 2 INT C LEARNING A, V0, PP252, DOI 10.1145/2330601.2330661
+   Suman Sweta, 2020, MODELLING, V0, P30, DOI 10.1007/978-981-15-4775-1_4
+   Tsoni R, 2019, PROC CSEDU 2 SCITEPR, V0, PP458, DOI 10.5220/0007751904580465
+   Tsoni R, 2022, EDUC INF TECHNOL, V27, P3529, DOI 10.1007/s10639-021-10742-6
+   Tsoni R, 2021, INTELL DECIS TECHNOL, V15, P305, DOI 10.3233/IDT-200137
+   Villegas-Ch W, 2018, 2018 IEEE WORLD ENGINEERING EDUCATION CONFERENCE (EDUNINE), V0, P40
+NR 44
+TC 2
+Z9 2
+U1 0
+U2 54
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1049-4820
+EI 1744-5191
+J9 INTERACT LEARN ENVIR
+JI Interact. Learn. Environ.
+PD JUL 2
+PY 2024
+VL 32
+IS 6
+BP 2789
+EP 2802
+DI 10.1080/10494820.2022.2160466
+EA DEC 2022
+PG 14
+WC Education & Educational Research
+SC Education & Educational Research
+GA G1Y7I
+UT WOS:000905301800001
+DA 2026-09-28
+ER
+
+PT J
+AU Nakamura, K
+   Ishihara, M
+   Horikoshi, I
+   Ogata, H
+AF Nakamura, Kohei
+   Ishihara, Manabu
+   Horikoshi, Izumi
+   Ogata, Hiroaki
+TI Uncovering insights from big data: change point detection of classroom engagement
+SO SMART LEARNING ENVIRONMENTS
+LA English
+DT Article
+DE Educational big data; Change point detection; PELT algorithm; E-book reader
+ID measuring student engagement; intrinsic motivation; analytics; achievement; algorithms
+AB Expectations of big data across various fields, including education, are increasing. However, uncovering valuable insights from big data is like locating a needle in a haystack, and it is difficult for teachers to use educational big data on their own. This study aimed to understand changes in student participation rates during classes and teachers' teaching styles by analyzing educational big data. In the analysis, data from 120 students and two mathematics class teachers at a public junior high school in Japan were used. We applied the pruned exact linear time (PELT) algorithm to automatically identify significant changes in student participation during class. Based on the information obtained, we analyzed the interaction logs of teachers' e-book readers and clarified the relationship between student participation rates and teacher behavior patterns. Change point detection using the PELT algorithm showed a high F1-score of 0.7929, indicating good overall performance. We also investigated whether there was a relationship between class differences and teachers' actions and found a statistically significant difference. The results provide clues for improving student learning engagement and teachers' teaching styles, and they are expected to improve the quality of education by automatically identifying notable cases from educational big data. However, further research is required to improve data analysis methods, such as adjusting the parameters of algorithms based on the situation.
+C1 [Nakamura, Kohei; Ishihara, Manabu] Kyoto Univ, Grad Sch Informat, Yoshidahonmachi,Sakyo Ward, Kyoto 6068501, Japan.
+   [Horikoshi, Izumi; Ogata, Hiroaki] Kyoto Univ, Acad Ctr Comp & Media Studies, Yoshidahonmachi,Sakyo Ward, Kyoto 6068501, Japan.
+C3 Kyoto University; Kyoto University
+RP Nakamura, K (corresponding author), Kyoto Univ, Grad Sch Informat, Yoshidahonmachi,Sakyo Ward, Kyoto 6068501, Japan.; Horikoshi, I (corresponding author), Kyoto Univ, Acad Ctr Comp & Media Studies, Yoshidahonmachi,Sakyo Ward, Kyoto 6068501, Japan.
+EM kohei.nakamura.lab@gmail.com; horikoshi.izumi.7f@kyoto-u.ac.jp
+FU JSPS KAKENHI [JP22K20246, JP23H00505]
+CR Ahuja Karan, 2019, PROCEEDINGS OF THE ACM ON INTERACTIVE, V0, P0
+   Archambault I, 2013, LEARN INSTR, V23, P1, DOI 10.1016/j.learninstruc.2012.09.003
+   Arlot S, 2019, J MACH LEARN RES, V20, P0
+   AUGER IE, 1989, B MATH BIOL, V51, P39, DOI 10.1007/BF02458835
+   Avci Ü, 2022, INTERACT LEARN ENVIR, V30, P71, DOI 10.1080/10494820.2019.1636088
+   Bai JS, 1998, ECONOMETRICA, V66, P47, DOI 10.2307/2998540
+   Boticki I, 2019, INTERACT LEARN ENVIR, V27, P754, DOI 10.1080/10494820.2019.1610459
+   Boubaker S, 2021, TECHNOL FORECAST SOC, V168, P0, DOI 10.1016/j.techfore.2021.120755
+   Celisse A, 2018, COMPUT STAT DATA AN, V128, P200, DOI 10.1016/j.csda.2018.07.002
+   Chen MRA, 2023, INTERACT LEARN ENVIR, V31, P2411, DOI 10.1080/10494820.2021.1888755
+   Daniel B, 2015, BRIT J EDUC TECHNOL, V46, P904, DOI 10.1111/bjet.12230
+   Dixson MD, 2015, ONLINE LEARN, V19, P143
+   Duggal K, 2021, MATH PROBL ENG, V2021, P0, DOI 10.1155/2021/9922775
+   EDWARDS AWF, 1965, BIOMETRICS, V21, P362, DOI 10.2307/2528096
+   Fischer C, 2020, REV RES EDUC, V44, P130, DOI 10.3102/0091732X20903304
+   Flanagan B, 2018, ICCE 2018 26 INT C C, V0, P487
+   Froiland JM, 2016, PSYCHOL SCHOOLS, V53, P321, DOI 10.1002/pits.21901
+   Froiland JM, 2014, EDUC PSYCHOL-UK, V34, P119, DOI 10.1080/01443410.2013.822964
+   Gebre E, 2014, BRIT J EDUC TECHNOL, V45, P83, DOI 10.1111/bjet.12001
+   Gibson D, 2017, TECHNOL KNOWL LEARN, V22, P237, DOI 10.1007/s10758-017-9331-2
+   Haynes K, 2017, STAT COMPUT, V27, P1293, DOI 10.1007/s11222-016-9687-5
+   Haynes K, 2017, J COMPUT GRAPH STAT, V26, P134, DOI 10.1080/10618600.2015.1116445
+   Henrie CR, 2015, COMPUT EDUC, V90, P36, DOI 10.1016/j.compedu.2015.09.005
+   Jackson B, 2005, IEEE SIGNAL PROC LET, V12, P105, DOI 10.1109/LSP.2001.838216
+   Killick R, 2012, J AM STAT ASSOC, V107, P1590, DOI 10.1080/01621459.2012.737745
+   Killick R, 2014, J STAT SOFTW, V58, P1
+   Kim HJ, 2019, EDUC SCI, V9, P0, DOI 10.3390/educsci9020087
+   Kuromiya H, 2022, RES PRACT TECH ENHAN, V17, P0, DOI 10.1186/s41039-022-00184-0
+   LANDIS JR, 1977, BIOMETRICS, V33, P159, DOI 10.2307/2529310
+   Lee W, 2012, EDUC PSYCHOL-UK, V32, P727, DOI 10.1080/01443410.2012.732385
+   Li BY, 2023, N AM J ECON FINANC, V65, P0, DOI 10.1016/j.najef.2023.101882
+   Lim L, 2024, BRIT J EDUC TECHNOL, V55, P1309, DOI 10.1111/bjet.13414
+   Lin H, 2020, IEEE T KNOWL DATA EN, V32, P1936, DOI 10.1109/TKDE.2019.2912817
+   Liu WY, 2021, J TRANSP ENG B-PAVE, V147, P0, DOI 10.1061/JPEODX.0000270
+   Ma BX, 2022, SMART LEARN ENVIRON, V9, P0, DOI 10.1186/s40561-021-00183-6
+   Majumdar R, 2021, RES PRACT TECH ENHAN, V16, P0, DOI 10.1186/s41039-021-00164-w
+   Mian A, 2019, 2019 IEEE INTERNATIONAL CONFERENCE ON PROGNOSTICS AND HEALTH MANAGEMENT (ICPHM), V0, P0
+   Mor Y, 2015, BRIT J EDUC TECHNOL, V46, P221, DOI 10.1111/bjet.12273
+   Mouri K, 2017, 2017 6TH IIAI INTERNATIONAL CONGRESS ON ADVANCED APPLIED INFORMATICS (IIAI-AAI), V0, PP493, DOI 10.1109/IIAI-AAI.2017.59
+   Ndukwe IG, 2020, INT J EDUC TECHNOL H, V17, P0, DOI 10.1186/s41239-020-00201-6
+   Neuman Y, 2019, J BIG DATA-GER, V6, P0, DOI 10.1186/s40537-019-0172-9
+   Ogata H, 2017, SMART SENSORS AT THE IOT FRONTIER, V0, P327
+   Ogata H, 2023, IEICE T INF SYST, VE106D, P101, DOI 10.1587/transinf.2022ETI0002
+   Olteanu C, 2017, MATH EDUC RES J, V29, P349, DOI 10.1007/s13394-017-0211-9
+   Park J, 2017, SEVENTH INTERNATIONAL LEARNING ANALYTICS & KNOWLEDGE CONFERENCE (LAK17), V0, PP21, DOI 10.1145/3027385.3027430
+   Romero C, 2014, EDUCATIONAL DATA MINING, V0, PP29, DOI 10.1007/978-3-319-02738-8_2
+   Romero C, 2020, WIRES DATA MIN KNOWL, V10, P0, DOI 10.1002/widm.1355
+   SCOTT AJ, 1974, BIOMETRICS, V30, P507, DOI 10.2307/2529204
+   SEN A, 1975, ANN STAT, V3, P98, DOI 10.1214/aos/1176343001
+   Shimada A, 2018, PROCEEDINGS OF THE 8TH INTERNATIONAL CONFERENCE ON LEARNING ANALYTICS & KNOWLEDGE (LAK18): TOWARDS USER-CENTRED LEARNING ANALYTICS, V0, PP446, DOI 10.1145/3170358.3170412
+   Stojanov A, 2024, EDUC INF TECHNOL, V29, P5807, DOI 10.1007/s10639-023-12033-8
+   Subramainan L, 2020, INT J ADV COMPUT SC, V11, P105
+   Sumer O, 2023, IEEE T AFFECT COMPUT, V14, P1012, DOI 10.1109/TAFFC.2021.3127692
+   Truong C, 2020, SIGNAL PROCESS, V167, P0, DOI 10.1016/j.sigpro.2019.107299
+   Truong C, 2017, EUR SIGNAL PR CONF, V0, PP1569, DOI 10.23919/EUSIPCO.2017.8081473
+   van Leeuwen A, 2019, INT J COMP-SUPP COLL, V14, P261, DOI 10.1007/s11412-019-09299-x
+   van Leeuwen A, 2019, EDUC RES REV-NETH, V27, P71, DOI 10.1016/j.edurev.2019.02.001
+   Vanlommel K, 2017, INT J EDUC RES, V83, P75, DOI 10.1016/j.ijer.2017.02.013
+   Wang MZ, 2018, J SCHOOL PSYCHOL, V67, P16, DOI 10.1016/j.jsp.2017.09.002
+   Wang S, 2021, REMOTE SENS-BASEL, V13, P0, DOI 10.3390/rs13101873
+   Wang Z, 2014, SCHOOL PSYCHOL QUART, V29, P517, DOI 10.1037/spq0000050
+   Xie N, 2023, MULTIMEDIA SYST, V29, P3559, DOI 10.1007/s00530-023-01153-3
+   Zhao FZ, 2021, EDUC TECHNOL SOC, V24, P138
+NR 63
+TC 5
+Z9 7
+U1 0
+U2 15
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 
+EI 2196-7091
+J9 SMART LEARN ENVIRON
+JI Smart Learn. Env.
+PD JUL 1
+PY 2024
+VL 11
+IS 1
+BP 
+EP 
+DI 10.1186/s40561-024-00317-6
+PG 19
+WC Education & Educational Research
+SC Education & Educational Research
+GA XC7P5
+UT WOS:001259554000001
+DA 2026-09-28
+ER
+
+PT J
+AU Staneviciene, E
+   Gudoniene, D
+   Punys, V
+   Kukstys, A
+AF Staneviciene, Evelina
+   Gudoniene, Daina
+   Punys, Vytenis
+   Kukstys, Arturas
+TI A Case Study on the Data Mining-Based Prediction of Students' Performance for Effective and Sustainable E-Learning
+SO SUSTAINABILITY
+LA English
+DT Article
+DE educational data mining; prediction; academic success; student performance; sustainable development goals; machine learning
+ID academic self-efficacy
+AB The study explores the application of data analytics and machine learning to forecast academic outcomes, with the aim of ensuring effective and sustainable e-learning. Technological study programs in universities often experience high dropout rates, which makes it essential to analyze and predict potential risks to reduce dropout percentages. Student performance prediction (SPP) offers potential benefits, including personalized learning and early interventions. However, challenges such as (1) data quality and availability and (2) incomplete and inconsistent data complicate this process. Moreover, to support the fourth Sustainable Development Goal (SDG), we focus on the quality of education. A case study approach is used using data mining techniques, particularly classification, regression, and clustering, to predict student performance. The case presented aims to predict risks and ensure academic success and quality. The cross-industry standard process for data mining (CRISP-DM) methodology is used to structure and guide the prediction process. The study shows that using data from student learning processes within an academic success prediction model and data mining can identify at-risk students.
+C1 [Staneviciene, Evelina; Gudoniene, Daina; Punys, Vytenis] Kaunas Univ Technol, Fac Informat, Studentu Str 50, LT-44249 Kaunas, Lithuania.
+   [Kukstys, Arturas] Bergen Kommune, Radhusgaten 10, N-5014 BERGEN, Norway.
+C3 Kaunas University of Technology
+RP Gudoniene, D (corresponding author), Kaunas Univ Technol, Fac Informat, Studentu Str 50, LT-44249 Kaunas, Lithuania.
+EM evelina.staneviciene@ktu.lt; daina.gudoniene@ktu.lt; vytenis.punys@ktu.lt; arthuras.kukstys@bergen.kommune.no
+CR Aggarwal D, 2021, INT J SYST DYN APPL, V10, P38, DOI 10.4018/IJSDA.2021070103
+   Al Nagi Eman, 2020, 2020 INTERNATIONAL CONFERENCE ON INTELLIGENT DATA SCIENCE TECHNOLOGIES AND APPLICATIONS (IDSTA), V0, PP51, DOI 10.1109/IDSTA50958.2020.9264113
+   Almasri A, 2020, ARAB J SCI ENG, V45, P10067, DOI 10.1007/s13369-020-04578-4
+   Alyahyan E, 2020, INT J EDUC TECHNOL H, V17, P0, DOI 10.1186/s41239-020-0177-7
+   Anuradha C, 2015, INDIAN J SCI TECHNOL, V8, P0, DOI 10.17485/ijst/2015/v8i15/74555
+   Arulkadacham L, 2021, J UNIV TEACH LEARN P, V18, P0
+   Baashar Y, 2022, APPL SCI-BASEL, V12, P0, DOI 10.3390/app12031289
+   Balaji P, 2021, APPL SCI-BASEL, V11, P0, DOI 10.3390/app112110007
+   Batool S, 2023, EDUC INF TECHNOL, V28, P905, DOI 10.1007/s10639-022-11152-y
+   Beckham Nicholas Robert, 2023, PROCEDIA COMPUTER SCIENCE, V0, PP597, DOI 10.1016/j.procs.2022.12.174
+   Behr A, 2020, REV EDUC-US, V8, P614, DOI 10.1002/rev3.3202
+   Bouckaert RR, 2018, WEKA MANUAL FOR VERSION 3-8-3, V0, P1
+   Chapman Pete, 2000, CRISP-DM 1.0: STEP-BY-STEP DATA MINING GUIDE, V0, P0
+   Chen JH, 2018, INT J EMERG TECHNOL, V13, P67, DOI 10.3991/ijet.v13i11.9599
+   Cruz-Jesus F, 2020, HELIYON, V6, P0, DOI 10.1016/j.heliyon.2020.e04081
+   Dass S, 2021, INFORMATION, V12, P0, DOI 10.3390/info12110476
+   Deeba K, 2016, INDIAN J SCI TECHNOL, V9, P0, DOI 10.17485/ijst/2016/v9i39/102065
+   Doko Edona, 2018, INTERNATIONAL JOURNAL OF INTERACTIVE MOBILE TECHNOLOGIES, V12, P109, DOI 10.3991/ijim.v12i4.9223
+   Doménech-Betoret F, 2017, FRONT PSYCHOL, V8, P0, DOI 10.3389/fpsyg.2017.01193
+   Hellas A, 2018, ITICSE 2018 COMPANION: PROCEEDINGS COMPANION OF THE 23RD ANNUAL ACM CONFERENCE ON INNOVATION AND TECHNOLOGY IN COMPUTER SCIENCE EDUCATION, V0, PP175, DOI 10.1145/3293881.3295783
+   Hernández-Blanco A, 2019, COMPLEXITY, V0, P0, DOI DOI 10.1155/2019/1306039
+   Honicke T, 2016, EDUC RES REV-NETH, V17, P63, DOI 10.1016/j.edurev.2015.11.002
+   Hornyak NicholasJames, 2010, PERPETUAL PAVEMENT ANALYSIS FOR THE MARQUETTE INTERCHANGE INSTRUMENTATION PROJECT, V0, P1
+   Jayaraman J, 2020, P 13 INT C ED DATA M, V0, P629
+   Khairy D, 2024, EDUC INF TECHNOL, V29, P21621, DOI 10.1007/s10639-024-12619-w
+   Khasanah AU, 2017, IOP CONF SER-MAT SCI, V215, P0, DOI 10.1088/1757-899X/215/1/012036
+   Krizanic S, 2020, INT J ENG BUS MANAG, V12, P0, DOI 10.1177/1847979020908675
+   Powers DMW, 2020, ARXIV, V0, P0
+   Moreno-Marcos PM, 2020, IEEE ACCESS, V8, P5264, DOI 10.1109/ACCESS.2019.2963503
+   Nasir M, 2019, BULLETIN OF EDUCATION AND RESEARCH, V41, P33
+   Oreki D, 2022, P 12 INT C IND ENG O, V0, P4884
+   Ortiz-Lozano JM, 2020, INNOV EDUC TEACH INT, V57, P74, DOI 10.1080/14703297.2018.1502090
+   Paiva R, 2018, LECT NOTES ARTIF INT, V10948, P251, DOI 10.1007/978-3-319-93846-2_46
+   Phauk S, 2021, INTERNATIONAL JOURNAL OF COMPUTER AND INFORMATION ENGINEERING, V15, P131
+   Qiu FY, 2022, SCI REP-UK, V12, P0, DOI 10.1038/s41598-021-03867-8
+   Quinn RJ, 2019, IRISH JOURNAL OF TECHNOLOGY ENHANCED LEARNING, V5, P0, DOI 10.22554/ijtel.v5i1.57
+   Rajalaxmi R R, 2019, INT J RECENT TECHNOL, V7, P71
+   Romero C, 2020, WIRES DATA MIN KNOWL, V10, P0, DOI 10.1002/widm.1355
+   Seidel E, 2017, AUST J EDUC, V61, P200, DOI 10.1177/0004944117712310
+   Shreem SS, 2022, SOFT COMPUT, V26, P1811, DOI 10.1007/s00500-021-06424-7
+   Solano JA, 2022, PROCEDIA COMPUTER SCIENCE, V198, P512, DOI 10.1016/j.procs.2021.12.278
+   Srivastava J, 2015, INT. J. ENG. TECHNOL. MANAG. APPL. SCI, V3, P4
+   Trakunphutthirak R, 2019, AAAI CONF ARTIF INTE, V0, P734
+   Manjarres AV, 2018, DIGIT EDUC REV, V0, P235
+   Yagci M, 2022, SMART LEARN ENVIRON, V9, P0, DOI 10.1186/s40561-022-00192-z
+   Yildiz M, 2020, J EDUC TECHNOL ONLIN, V3, P372, DOI 10.31681/jetol.773206
+   Yildiz SG, 2023, EDUC INF TECHNOL, V28, P8879, DOI 10.1007/s10639-022-11446-1
+   Yokoyama S, 2019, FRONTIERS IN PSYCHOLOGY, V0, PP2794, DOI 10.3389/FPSYG.2018.02794
+NR 49
+TC 6
+Z9 8
+U1 5
+U2 25
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 2071-1050
+J9 SUSTAINABILITY-BASEL
+JI Sustainability
+PD DEC 15
+PY 2024
+VL 16
+IS 23
+BP 
+EP 
+DI 10.3390/su162310442
+PG 15
+WC Green & Sustainable Science & Technology; Environmental Sciences; Environmental Studies
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology
+GA P4T1E
+UT WOS:001377841100001
+DA 2026-09-28
+ER
+

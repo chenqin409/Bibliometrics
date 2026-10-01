@@ -1,0 +1,763 @@
+PT J
+AU Miguéis, VL
+   Freitas, A
+   Garcia, PJV
+   Silva, A
+AF Migueis, V. L.
+   Freitas, Ana
+   Garcia, Paulo J. V.
+   Silva, Andre
+TI Early segmentation of students according to their academic performance: A predictive modelling approach
+SO DECISION SUPPORT SYSTEMS
+LA English
+DT Article
+DE Educational data mining; Predictive modelling; Data mining; Academic performance; Engineering education
+ID honors program; management; education; success; system; achievement; validity; impact; gpa
+AB The early classification of university students according to their potential academic performance can be a useful strategy to mitigate failure, to promote the achievement of better results and to better manage resources in higher education institutions. This paper proposes a two-stage model, supported by data mining techniques, that uses the information available at the end of the first year of students' academic career (path) to predict their overall academic performance. Unlike most literature on educational data mining, academic success is inferred from both the average grade achieved and the time taken to conclude the degree. Furthermore, this study proposes to segment students based on the dichotomy between the evidence of failure or high performance at the beginning of the degree program, and the students' performance levels predicted by the model. A data set of 2459 students, spanning the years from 2003 to 2015, from a European Engineering School of a public research University, is used to validate the proposed methodology. The empirical results demonstrate the ability of the proposed model to predict the students' performance level with an accuracy above 95%, in an early stage of the students' academic path. It is found that random forests are superior to the other classification techniques that were considered (decision trees, support vector machines, naive Bayes, bagged trees and boosted trees). Together with the prediction model, the suggested segmentation framework represents a useful tool to delineate the optimum strategies to apply, in order to promote higher performance levels and mitigate academic failure, overall increasing the quality of the academic experience provided by a higher education institution.
+C1 [Migueis, V. L.] Univ Porto, Fac Engn, INESC TEC, Rua Dr Roberto Frias, P-4200465 Porto, Portugal.
+   [Freitas, Ana; Garcia, Paulo J. V.; Silva, Andre] Univ Porto, Fac Engn, Rua Dr Roberto Frias, P-4200465 Porto, Portugal.
+C3 Universidade do Porto; INESC TEC; Universidade do Porto
+RP Miguéis, VL (corresponding author), Univ Porto, Fac Engn, INESC TEC, Rua Dr Roberto Frias, P-4200465 Porto, Portugal.
+EM vera.migueis@fe.up.pt; anafreitas@fe.up.pt; pgarcia@fe.up.pt; ei10085@fe.up.pt
+CR Aher SB, 2013, KNOWL-BASED SYST, V51, P1, DOI 10.1016/j.knosys.2013.04.015
+   Aluko RO, 2016, CONSTR ECON BUILD, V16, P86, DOI 10.5130/AJCEB.v16i4.5184
+   Unknown -, 2015, P INT ED DAT MIN SOC, V0, P0
+   Unknown -, 1900, DOI 10.1016/J.STUEDUC.2011.12.001 DOI 10.1016/J.STUEDUC.2011.12.001, V0, P0
+   Araque F, 2009, COMPUT EDUC, V53, P563, DOI 10.1016/j.compedu.2009.03.013
+   Arsad PM, 2013, P IEEE INT C SMART I, V0, P1
+   Bacon DR, 2006, J MARKET EDUC, V28, P35, DOI 10.1177/0273475305284638
+   Baeza-Yates R, 2017, IEEE INT CONF BIG DA, V0, PP897, DOI 10.1109/BigData.2017.8258006
+   Bogaert M, 2016, DECIS SUPPORT SYST, V82, P26, DOI 10.1016/j.dss.2015.11.003
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   Busato VV, 1998, BRIT J EDUC PSYCHOL, V68, P427, DOI 10.1111/j.2044-8279.1998.tb01302.x
+   Busato VV, 2000, PERS INDIV DIFFER, V29, P1057, DOI 10.1016/S0191-8869(99)00253-6
+   Bydzovska Hana, 2016, PROCEEDINGS OF THE 9TH INTERNATIONAL CONFERENCE ON EDUCATIONAL DATA MINING, V0, P312
+   Christian TM, 2014, 2014 INTERNATIONAL CONFERENCE ON DATA AND SOFTWARE ENGINEERING (ICODSE), V0, P0, DOI DOI 10.1109/ICODSE.2014.7062654
+   Cohn E, 2004, ECON EDUC REV, V23, P577, DOI 10.1016/j.econedurev.2004.01.001
+   Costa EB, 2017, COMPUT HUM BEHAV, V73, P247, DOI 10.1016/j.chb.2017.01.047
+   Delen D, 2010, DECIS SUPPORT SYST, V49, P498, DOI 10.1016/j.dss.2010.06.003
+   Dietterich TG, 2000, LECT NOTES COMPUT SC, V1857, P1, DOI 10.1007/3-540-45014-9_1
+   Dougherty J, 1995, MACHINE LEARNING. PROCEEDINGS OF THE TWELFTH INTERNATIONAL CONFERENCE ON MACHINE LEARNING, V0, P194
+   Elfaki AO, 2015, INT J EDUC INF TECH, V9, P81
+   Freund Y, 1996, MACHINE LEARNING. PROCEEDINGS OF THE THIRTEENTH INTERNATIONAL CONFERENCE (ICML 96), V0, P148
+   Gibson D, 2017, TECHNOL KNOWL LEARN, V22, P237, DOI 10.1007/s10758-017-9331-2
+   Gray G, 2014, IEEE INT ADV COMPUT, V0, PP549, DOI 10.1109/IAdCC.2014.6779384
+   Groth SS, 2011, DECIS SUPPORT SYST, V50, P680, DOI 10.1016/j.dss.2010.08.019
+   Guruler H, 2010, COMPUT EDUC, V55, P247, DOI 10.1016/j.compedu.2010.01.010
+   Harlow JJB, 2014, PHYS REV SPEC TOP-PH, V10, P0, DOI 10.1103/PhysRevSTPER.10.010112
+   Hartshorn JC, 1997, J NURS EDUC, V36, P187
+   Hearst MA, 1998, IEEE INTELL SYST APP, V13, P18, DOI 10.1109/5254.708428
+   Hébert TP, 2007, GIFTED CHILD QUART, V51, P136, DOI 10.1177/0016986207299471
+   Hoffait AS, 2017, DECIS SUPPORT SYST, V101, P1, DOI 10.1016/j.dss.2017.05.003
+   Huang S, 2013, COMPUT EDUC, V61, P133, DOI 10.1016/j.compedu.2012.08.015
+   Kiang MY, 2009, DECIS SUPPORT SYST, V47, P51, DOI 10.1016/j.dss.2008.12.010
+   Kuncel NR, 2005, AM J PHARM EDUC, V69, P0, DOI 10.5688/aj690351
+   Labatut V, 2011, 5 INT C INFORM TECHN, V0, PP1, DOI 10.48550/ARXIV.1207.3790
+   Laugerman M, 2015, INT J ENG EDUC, V31, P1448
+   Lee D, 2009, J COLL STUDENT DEV, V50, P305, DOI 10.1353/csd.0.0071
+   Lewis D, 1998, MACHINE LEARNING: ECML, V0, PP4, DOI 10.1007/BFB0026666
+   Macfadyen LP, 2010, COMPUT EDUC, V54, P588, DOI 10.1016/j.compedu.2009.09.008
+   Marbouti F, 2016, COMPUT EDUC, V103, P1, DOI 10.1016/j.compedu.2016.09.005
+   Márquez-Vera C, 2016, EXPERT SYST, V33, P107, DOI 10.1111/exsy.12135
+   Mayilvaganan M, 2014, 2014 INTERNATIONAL CONFERENCE ON COMMUNICATION AND NETWORK TECHNOLOGIES (ICCNT), V0, PP113, DOI 10.1109/CNT.2014.7062736
+   Menze BH, 2009, BMC BIOINFORMATICS, V10, P0, DOI 10.1186/1471-2105-10-213
+   Miao J, 2004, ED POLICY ANAL ARCH, V12, P55, DOI 10.14507/EPAA.V12N55.2004
+   Mishra T, 2014, INT C ADV COMPUT COM, V0, PP255, DOI 10.1109/ACCT.2014.105
+   Naren J, 2014, INTERNATIONAL JOURNAL OF ENGINEERING AND TECHNOLOGY, V5, P4469
+   Natek S, 2014, EXPERT SYST APPL, V41, P6400, DOI 10.1016/j.eswa.2014.04.024
+   Nightingale SM, 2013, LEARN INDIVID DIFFER, V27, P174, DOI 10.1016/j.lindif.2013.08.004
+   Nomura O, 2017, BMC MED EDUC, V17, P0, DOI 10.1186/s12909-017-0939-7
+   Palmer S, 2013, INT J ENG EDUC, V29, P132
+   Papamitsiou ZK, 2014, P 4 INT C LEARN AN K, V0, P31
+   Parack S, 2012, 2012 IEEE INTERNATIONAL CONFERENCE ON TECHNOLOGY ENHANCED EDUCATION (ICTEE 2012), V0, P0
+   Pena-Ayala A, 2014, STUDIES IN COMPUTATIONAL INTELLIGENCE, V524, P0
+   Peña-Ayala A, 2014, EXPERT SYST APPL, V41, P1432, DOI 10.1016/j.eswa.2013.08.042
+   Pike GR, 2002, RES HIGH EDUC, V43, P187, DOI 10.1023/A:1014419724092
+   Piri S, 2017, DECIS SUPPORT SYST, V101, P12, DOI 10.1016/j.dss.2017.05.012
+   Putnik G, 2016, INT J TECHNOL DES ED, V26, P413, DOI 10.1007/s10798-015-9318-z
+   Quinlan JR, 1986, MACHINE LEARNING, V1, P81, DOI 10.1023/A:1022643204877
+   Richardson M, 2012, PSYCHOL BULL, V138, P353, DOI 10.1037/a0026838
+   Rinn AN, 2004, GIFTED CHILD QUART, V48, P54, DOI 10.1177/001698620404800106
+   Romero C, 2007, EXPERT SYST APPL, V33, P135, DOI 10.1016/j.eswa.2006.04.005
+   Romero C, 2013, COMPUT EDUC, V68, P458, DOI 10.1016/j.compedu.2013.06.009
+   Romero C, 2013, WIRES DATA MIN KNOWL, V3, P12, DOI 10.1002/widm.1075
+   Romero C, 2013, COMPUT APPL ENG EDUC, V21, P135, DOI 10.1002/cae.20456
+   Romero C, 2010, IEEE T SYST MAN CY C, V40, P601, DOI 10.1109/TSMCC.2010.2053532
+   Russell J, 2008, HIGH EDUC, V56, P59, DOI 10.1007/s10734-007-9089-x
+   Saad IA, 2008, INT J PSYCHOL, V43, P772
+   Shahiri AM, 2015, PROCEDIA COMPUT SCI, V72, P414, DOI 10.1016/j.procs.2015.12.157
+   Thammasiri D, 2014, EXPERT SYST APPL, V41, P321, DOI 10.1016/j.eswa.2013.07.046
+   TINTO V, 1982, J HIGH EDUC, V53, P687, DOI 10.2307/1981525
+   Van Den Berg MN, 2005, HIGH EDUC, V50, P413, DOI 10.1007/s10734-004-6361-1
+   Vandamme JP, 2007, EDUC ECON, V15, P405, DOI 10.1080/09645290701409939
+   Vanthournout G, 2012, EDUC RES INT, V2012, P0, DOI 10.1155/2012/152747
+   Wati M, 2017, 2017 3RD INTERNATIONAL CONFERENCE ON SCIENCE IN INFORMATION TECHNOLOGY (ICSITECH), V0, PP732, DOI 10.1109/ICSITech.2017.8257209
+   Witten IH, 2011, MOR KAUF D, V0, PP3, DOI 10.1016/B978-0-12-374856-0.00001-8
+   Yue HT, 2017, RES HIGH EDUC, V58, P184, DOI 10.1007/s11162-016-9420-4
+   Zaklouta F, 2011, 2011 INTERNATIONAL JOINT CONFERENCE ON NEURAL NETWORKS (IJCNN), V0, PP2151, DOI 10.1109/IJCNN.2011.6033494
+NR 79
+TC 116
+Z9 154
+U1 1
+U2 99
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0167-9236
+EI 1873-5797
+J9 DECIS SUPPORT SYST
+JI Decis. Support Syst.
+PD NOV 15
+PY 2018
+VL 115
+IS 
+BP 36
+EP 51
+DI 10.1016/j.dss.2018.09.001
+PG 16
+WC Computer Science, Artificial Intelligence; Computer Science, Information Systems; Operations Research & Management Science
+SC Computer Science; Operations Research & Management Science
+GA HC4RH
+UT WOS:000451791400005
+DA 2026-09-28
+ER
+
+PT J
+AU Lu, OHT
+   Huang, AYQ
+   Huang, JCH
+   Lin, AJQ
+   Ogata, H
+   Yang, SJH
+AF Lu, Owen H. T.
+   Huang, Anna Y. Q.
+   Huang, Jeff C. H.
+   Lin, Albert J. Q.
+   Ogata, Hiroaki
+   Yang, Stephen J. H.
+TI Applying Learning Analytics for the Early Prediction of Students' Academic Performance in Blended Learning
+SO EDUCATIONAL TECHNOLOGY & SOCIETY
+LA English
+DT Article
+DE Learning analytics; Educational big data; MOOCs; Blended learning; Principal component regression
+ID online; environments; information; moocs
+AB Blended learning combines online digital resources with traditional classroom activities and enables students to attain higher learning performance through well-defined interactive strategies involving online and traditional learning activities. Learning analytics is a conceptual framework and as a part of our Precision education used to analyze and predict students' performance and provide timely interventions based on student learning profiles. This study applied learning analytics and educational big data approaches for the early prediction of students' final academic performance in a blended Calculus course. Real data with 21 variables were collected from the proposed course, consisting of video-viewing behaviors, out-of-class practice behaviors, homework and quiz scores, and after-school tutoring. This study applied principal component regression to predict students' final academic performance. The experimental results show that students' final academic performance could be predicted when only one-third of the semester had elapsed. In addition, we identified seven critical factors that affect students' academic performance, consisting of four online factors and three traditional factors. The results showed that the blended data set combining online and traditional critical factors had the highest predictive performance.
+C1 [Lu, Owen H. T.; Huang, Anna Y. Q.; Lin, Albert J. Q.; Yang, Stephen J. H.] Natl Cent Univ, Dept Comp Sci & Informat Engn, Taoyuan, Taiwan.
+   [Huang, Jeff C. H.] Hwa Hsia Univ Technol, Dept Comp Sci & Informat Engn, Taipei, Taiwan.
+   [Ogata, Hiroaki] Kyoto Univ, Grad Sch Informat, Kyoto, Japan.
+C3 National Central University; Kyoto University
+RP Yang, SJH (corresponding author), Natl Cent Univ, Dept Comp Sci & Informat Engn, Taoyuan, Taiwan.
+EM cfleu198@gmail.com; anna.yuqing@gmail.com; jeff@cc.hwh.edu.tw; snailsmall612@gmail.com; hiroaki.ogata@gmail.com; jhyang@csie.ncu.edu.tw
+FU Ministry of Science and Technology, Taiwan [MOST-104-2511-S-008-006-MY2, MOST-105-2511-S-008-003-MY3, MOST-105-2622-S-008-002-CC2, MOST-106-2511-S-008 -004 -MY3]
+CR Agudo-Peregrina AF, 2014, COMPUT HUM BEHAV, V31, P542, DOI 10.1016/j.chb.2013.05.031
+   Arroway P, 2015, LEARNING ANALYTICS IN HIGHER EDUCATION, V0, P0
+   Asif Raheela, 2014, INTERNATIONAL JOURNAL OF INTELLIGENT SYSTEMS AND APPLICATIONS, V7, P49, DOI 10.5815/ijisa.2015.01.05
+   Çevik YD, 2015, COMPUT EDUC, V90, P54, DOI 10.1016/j.compedu.2015.09.002
+   Ellis RA, 2016, COMPUT EDUC, V102, P90, DOI 10.1016/j.compedu.2016.07.006
+   Freeman A, 2016, NMC TECHNOLOGY OUTLOOK FOR COOPERATIVE 4-H EXTENSION. 2016-2021: A HORIZON PROJECT SECTOR REPORT, V0, P0
+   GOLUB GH, 1979, TECHNOMETRICS, V21, P215, DOI 10.1080/00401706.1979.10489751
+   Hachey AC, 2014, COMPUT EDUC, V72, P59, DOI 10.1016/j.compedu.2013.10.012
+   Hart RS, 1995, CALICO JOURNAL, V12, P15
+   Hong JC, 2016, INTERACT LEARN ENVIR, V24, P572, DOI 10.1080/10494820.2014.908926
+   Hu YH, 2014, COMPUT HUM BEHAV, V36, P469, DOI 10.1016/j.chb.2014.04.002
+   Huang CSJ, 2016, EDUC TECHNOL SOC, V19, P263
+   Huang S, 2013, COMPUT EDUC, V61, P133, DOI 10.1016/j.compedu.2012.08.015
+   HWANG GJ, 2014, SMART LEARNING ENVIRONMENTS, V1, P0, DOI 10.1186/S40561-014-0004-5
+   Hwang GJ, 2017, INTERACT LEARN ENVIR, V25, P143, DOI 10.1080/10494820.2017.1287338
+   Johnson L, 2011, THE 2011 HORIZON REPORT, V0, P0
+   Kuzilek Jakub, 2015, LEARNING ANALYTICS REVIEW, V0, P1
+   Lara JA, 2014, COMPUT EDUC, V72, P23, DOI 10.1016/j.compedu.2013.10.009
+   Lu OHT, 2017, INTERACT LEARN ENVIR, V25, P220, DOI 10.1080/10494820.2016.1278391
+   Meier Y, 2016, IEEE T SIGNAL PROCES, V64, P959, DOI 10.1109/TSP.2015.2496278
+   Papamitsiou Z, 2014, EDUC TECHNOL SOC, V17, P49
+   Romero C, 2013, COMPUT EDUC, V68, P458, DOI 10.1016/j.compedu.2013.06.009
+   Romero C, 2010, IEEE T SYST MAN CY C, V40, P601, DOI 10.1109/TSMCC.2010.2053532
+   Salleh TSA, 2013, PROCD SOC BEHV, V102, P204, DOI 10.1016/j.sbspro.2013.10.734
+   Tempelaar DT, 2015, COMPUT HUM BEHAV, V47, P157, DOI 10.1016/j.chb.2014.05.038
+   Thammasiri D, 2014, EXPERT SYST APPL, V41, P321, DOI 10.1016/j.eswa.2013.07.046
+   Villagrá-Arnedo C, 2016, INT J DES NAT ECODYN, V11, P239, DOI 10.2495/dne-v11-n3-239-249
+   Xing WL, 2016, COMPUT HUM BEHAV, V58, P119, DOI 10.1016/j.chb.2015.12.007
+   Yang SJH, 2017, LECT N EDUC TECHNOL, V0, PP101, DOI 10.1007/978-3-662-52925-6_5
+NR 29
+TC 184
+Z9 231
+U1 1
+U2 140
+PU INT FORUM EDUCATIONAL TECHNOLOGY & SOC-IFETS
+PI DOULIU CITY
+PA NATL YUNLIN UNIV SCIENCE & TECHNOLOGY, NO 123, SECTION 3, DAXUE RD, DOULIU CITY, YUNLIN COUNTY, TAIWAN
+SN 1176-3647
+EI 1436-4522
+J9 EDUC TECHNOL SOC
+JI Educ. Technol. Soc.
+PD APR 15
+PY 2018
+VL 21
+IS 2
+BP 220
+EP 232
+DI 
+PG 13
+WC Education & Educational Research
+SC Education & Educational Research
+GA GC2XK
+UT WOS:000429647500018
+DA 2026-09-28
+ER
+
+PT J
+AU Vagliano, I
+   Blume, T
+   Saleh, A
+   Scherp, A
+   Günther, F
+   Heinz, M
+   Gottfried, S
+   Kellermann, J
+   Köhler, T
+   Apaolaza, A
+   Vigo, M
+   Bienia, I
+   Maas, A
+   Wiese, M
+   Breitfuss, G
+   Fessl, A
+   Hasitschka, P
+   Wertner, A
+   Collyda, C
+   Mezaris, V
+   Skulimowski, AMJ
+   Thalmann, S
+AF Vagliano, Iacopo
+   Blume, Till
+   Saleh, Ahmed
+   Scherp, Ansgar
+   Guenther, Franziska
+   Heinz, Matthias
+   Gottfried, Sebastian
+   Kellermann, Jasmin
+   Koehler, Thomas
+   Apaolaza, Aitor
+   Vigo, Markel
+   Bienia, Irina
+   Maas, Annalouise
+   Wiese, Michael
+   Breitfuss, Gert
+   Fessl, Angela
+   Hasitschka, Peter
+   Wertner, Alfred
+   Collyda, Chrysa
+   Mezaris, Vasileios
+   Skulimowski, Andrzej M. J.
+   Thalmann, Stefan
+TI Open Innovation in the Big Data Era With the MOVING Platform
+SO IEEE MULTIMEDIA
+LA English
+DT Article
+AB The MOVING platform enables its users to improve their information literacy by training how to exploit data mining methods in their daily research tasks. Its novel integrated working and training environment supports the education of data-savvy information professionals and allows them to address the big data and open innovation challenges.
+C1 [Vagliano, Iacopo; Blume, Till; Saleh, Ahmed; Scherp, Ansgar] Leibniz Informat Ctr Econ, Kiel, Germany.
+   [Guenther, Franziska; Heinz, Matthias; Gottfried, Sebastian; Kellermann, Jasmin; Koehler, Thomas] Tech Univ Dresden, Dresden, Germany.
+   [Apaolaza, Aitor; Vigo, Markel] Univ Manchester, Manchester, Lancs, England.
+   [Bienia, Irina; Maas, Annalouise] Ernst & Young, Assurance Res & Dev Grp, Munich, Germany.
+   [Wiese, Michael] Ernst & Young, Assurance Serv Line, Munich, Germany.
+   [Breitfuss, Gert; Fessl, Angela; Hasitschka, Peter; Wertner, Alfred] Know Ctr, Graz, Austria.
+   [Collyda, Chrysa; Mezaris, Vasileios] Ctr Res & Technol Hellas, Thessaloniki, Greece.
+   [Skulimowski, Andrzej M. J.] AGH Univ Sci & Technol, Krakow, Poland.
+   [Skulimowski, Andrzej M. J.] Progress & Business Fdn, Krakow, Poland.
+   [Thalmann, Stefan] Graz Univ Technol, Graz, Austria.
+C3 Leibniz Association; Deutsche Zentralbibliothek fur Wirtschaftswissenschaften (ZBW); Technische Universitat Dresden; University of Manchester; Centre for Research & Technology Hellas; AGH University of Krakow; Graz University of Technology
+RP Vagliano, I (corresponding author), Leibniz Informat Ctr Econ, Kiel, Germany.
+EM i.vagliano@zbw.eu; t.blume@zbw.eu; a.saleh@zbw.eu; a.scherp@zbw.eu; franziska.guenther1@tu-dresden.de; matthias.heinz@tu-dresden.de; Sebastian.Gottfried@tu-dresden.de; jasmin.kellermann@tu-dresden.de; thomas.koehler@tu-dresden.de; aitor.apaolaza@manchester.ac.uk; markel.vigo@manchester.ac.uk; irina.bienia@de.ey.com; annalouise.maas@de.ey.com; michael.wiese@de.ey.com; gbreitfuss@know-center.at; afessl@know-center.at; phasitschka@know-center.at; awertner@know-center.at; ckol@iti.gr; bmezaris@iti.gr; ams@agh.edu.pl; stefan.thalmann@tugraz.at
+FU EU's Horizon 2020 program [H2020-693092 MOVING]; Austrian COMET Program-Competence Centers for Excellent Technologies-under Austrian Federal Ministry of Transport, Innovation and Technology; Austrian Federal Ministry of Economy, Family and Youth; State of Styria
+CR Apaolaza Aitor, 2017, PROCEEDINGS OF THE ACM ON HUMAN-COMPUTER INTERACTION, V1, P0, DOI 10.1145/3095806
+   Apostolidis Evlampios, 2014, 2014 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, V0, P6583, DOI 10.1109/ICASSP.2014.6854873
+   Balog K, 2012, FOUND TRENDS INF RET, V6, P127, DOI 10.1561/1500000024
+   Boud David, 1985, REFLECTION, V0, P0, DOI 10.4324/9781315059051
+   Chesbrough HenryWilliam, 2006, OPEN INNOVATION: RESEARCHING A NEW PARADIGM, V0, P0
+   Figueroa C, 2015, CONCURR COMP-PRACT E, V27, P4659, DOI 10.1002/cpe.3449
+   FRUCHTERMAN TMJ, 1991, SOFTWARE PRACT EXPER, V21, P1129, DOI 10.1002/spe.4380211102
+   Gabrilovich E, 2007, 20TH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, V0, P1606
+   Goodyear P, 2010, TECHNOLOGY-ENHANCED LEARNING: DESIGN PATTERNS AND PATTERN LANGUAGES, V0, P0
+   Holten D, 2009, COMPUT GRAPH FORUM, V28, P983, DOI 10.1111/j.1467-8659.2009.01450.x
+   Hrastinki S, 2010, P ANN HICSS, V0, P133
+   Malacria S, 2013, P 26 ANN ACM S US IN, V0, PP321, DOI 10.1145/2501988.2501996
+   Markatopoulou F, 2017, PROCEEDINGS OF THE 2017 ACM INTERNATIONAL CONFERENCE ON MULTIMEDIA RETRIEVAL (ICMR17), V0, PP412, DOI 10.1145/3078971.3079041
+   Morana S, 2017, DECIS SUPPORT SYST, V97, P31, DOI 10.1016/j.dss.2017.03.003
+   Nishioka C, 2016, ACM-IEEE J CONF DIG, V0, PP171, DOI 10.1145/2910896.2910898
+   Pittaras N, 2017, LECT NOTES COMPUT SC, V10132, P102, DOI 10.1007/978-3-319-51811-4_9
+   Ricci Francesco, 2015, RECOMMENDER SYSTEMS, V0, P0
+   Schon Donald A, 1983, REFLECTIVE PRACTICIO, V0, P0
+   Tzelepis C, 2016, IMAGE VISION COMPUT, V53, P35, DOI 10.1016/j.imavis.2015.09.005
+NR 20
+TC 9
+Z9 15
+U1 0
+U2 26
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1070-986X
+EI 1941-0166
+J9 IEEE MULTIMEDIA
+JI IEEE Multimedia
+PD JUL-SEP 15
+PY 2018
+VL 25
+IS 3
+BP 8
+EP 21
+DI 10.1109/MMUL.2018.2873495
+PG 14
+WC Computer Science, Hardware & Architecture; Computer Science, Information Systems; Computer Science, Software Engineering; Computer Science, Theory & Methods
+SC Computer Science
+GA HF5PZ
+UT WOS:000454286500002
+DA 2026-09-28
+ER
+
+PT J
+AU Rodrigues, MW
+   Isotani, S
+   Zárate, LE
+AF Rodrigues, Marcos Wander
+   Isotani, Seiji
+   Zarate, Luiz Enrique
+TI Educational Data Mining: A review of evaluation process in the e-learning
+SO TELEMATICS AND INFORMATICS
+LA English
+DT Review
+DE Educational Data Mining; Education; e-Learning; Evaluation of teaching and learning process
+ID technology
+AB Due to the growing interest in e-learning as an important process of teaching and learning, new mechanisms to evaluate its pedagogical effectiveness are necessaries. This review describes the scenario of 20 years corresponding to data mining research where the context is the e-learning and the main subject is the evaluation aspect, which is considered a latent problem within this environment. Our goal is to provide an unexplored review of EDM research of the teaching and learning process considering the educational perspective. In order to obtain a more wide and complete review, the search of the bibliographic material was realized with the terms "data mining" and "education" which resulted in 525 articles. As exclusion criterion, articles that did not emphasize the improvement of the teaching and learning process were discarded, resulting in 72 articles. As result of our review, the analyzed papers show that the researches in EDM expanded into several areas and themes, for example, oriented studies on interactions between the educational actors, monitoring, and evaluation of teaching-learning process, administrators' evaluation about the adopted pedagogical actions, learning risks, and recommendation and recovery of educational media. The review allowed to present perspectives, identify trends and observe potential research directions, such as behavioral research, collaboration, interaction and performance in the development of teaching-learning activities.
+C1 [Rodrigues, Marcos Wander; Zarate, Luiz Enrique] Pontificia Univ Catolica Minas Gerais, Appl Computat Intelligence Lab, Belo Horizonte, MG, Brazil.
+   [Isotani, Seiji] Univ Sao Paulo, Inst Math & Comp Sci, Sao Carlos, SP, Brazil.
+C3 Pontificia Universidade Catolica de Minas Gerais; Universidade de Sao Paulo
+RP Rodrigues, MW (corresponding author), Pontificia Univ Catolica Minas Gerais, Appl Computat Intelligence Lab, Belo Horizonte, MG, Brazil.
+EM marcoswanderrodrigues@gmail.com; sisotani@icmc.usp.br; zarate@pucminas.br
+CR Ai Yubing, 2010, PROCEEDINGS 2010 INTERNATIONAL FORUM ON INFORMATION TECHNOLOGY AND APPLICATIONS (IFITA 2010), V0, PP145, DOI 10.1109/IFITA.2010.153
+   Akerkar R, 2014, P 4 INT C WEB INT MI, V0, P0
+   Alhajj R, 2007, ADV DAT MIN APPL 3 I, V4632, P0
+   Unknown -, 2015, INT ED DAT SOC 8 EDM, V0, P0
+   Unknown -, 2000, ACM SIGMOD WORKSH RE, V0, P0
+   Unknown -, 2006, INFORM TECHNOLOGY BA, V0, P0
+   Anupama Kumar S, 2012, PROCEEDINGS OF THE 2012 INTERNATIONAL CONFERENCE ON RECENT ADVANCES IN COMPUTING AND SOFTWARE SYSTEMS (RACSS), V0, PP67, DOI 10.1109/RACSS.2012.6212699
+   Bhushan N, 2007, STRATEGIC DECISION M, V0, P0, DOI DOI 10.1007/b97668
+   BUCKLEY JJ, 1985, FUZZY SET SYST, V17, P233, DOI 10.1016/0165-0114(85)90090-9
+   Bunkar K, 2012, IEEE, V0, PP1, DOI 10.1109/WOCN.2012.6335530
+   Caballe Santi, 2008, 2008 THIRD INTERNATIONAL CONFERENCE ON DIGITAL INFORMATION MANAGEMENT, V0, PP470, DOI 10.1109/ICDIM.2008.4746758
+   Calinger M, 2008, INT J INF COMMUN TEC, V4, P9, DOI 10.4018/jicte.2008100102
+   Chaczko Zenon, 2006, INF TECHN BAS HIGH E, V0, PP21, DOI 10.1109/ITHET.2006.339723
+   Changxin Liu, 2010, PROCEEDINGS SECOND INTERNATIONAL WORKSHOP ON EDUCATION TECHNOLOGY AND COMPUTER SCIENCE (ETCS 2010), V0, PP495, DOI 10.1109/ETCS.2010.364
+   Chen CM, 2007, IEEE T SYST MAN CY C, V37, P1349, DOI 10.1109/TSMCC.2007.900641
+   Chen CM, 2009, COMPUT EDUC, V52, P256, DOI 10.1016/j.compedu.2008.08.005
+   Chen FS, 2000, IEEE SYS MAN CYBERN, V0, PP3366, DOI 10.1109/ICSMC.2000.886525
+   Chen SY, 2005, INT J INF COMMUN TEC, V1, P69, DOI 10.4018/jicte.2005010107
+   Chen YY, 2012, INT CONF INTERNET, V0, P304
+   Coelho O B, 2012, C LAT IB INV OP S BR, V0, P0
+   Da M, 2010, INF ENG COMP SCI ICI, V0, PP1, DOI 10.1109/ICIECS.2010.5677687
+   Dejaeger K, 2012, EUR J OPER RES, V218, P548, DOI 10.1016/j.ejor.2011.11.022
+   DRIGAS AS, 2006, P 7 INT C INF TECHN, V0, PP875, DOI 10.1109/ITHET.2006.339713
+   Eagle M, 2013, PROCEEDINGS OF THE 6TH INTERNATIONAL CONFERENCE ON EDUCATIONAL DATA MINING, V0, P372
+   Fernández-Luna J, 2009, INFORM RETRIEVAL, V12, P201, DOI 10.1007/s10791-009-9089-9
+   Gobert JD, 2015, THINK SKILLS CREAT, V18, P81, DOI 10.1016/j.tsc.2015.04.008
+   Gong MM, 2007, FIRST INTERNATIONAL WORKSHOP ON KNOWLEDGE DISCOVERY AND DATA MINING, V0, P400, DOI 10.1109/WKDD.2008.152
+   Gottardo E, 2012, WORKSHOP DESAFIOS CO, V0, P30
+   Gottardo E, 2012, AN 23 S BRAS INF ED, V23, P0, DOI 10.5753/cbie.sbie.2012.%25p
+   Guleria PG, 2014, INTERNATIONAL JOURNAL OF DATA MINING KNOWLEDGE MANAGEMENT PROCESS, V4, P47, DOI 10.5121/ijdkp.2014.4504
+   Haddawy P, 2007, PROC. FRONTIERS EDUC. CONF., V0, P1, DOI 10.1109/FIE.2007.4417958
+   Harfield A, 2013, INT JOINT CONF COMP, V0, P195
+   Howard SK, 2016, COMPUT EDUC, V101, P29, DOI 10.1016/j.compedu.2016.05.008
+   Huebner RichardA, 2013, RESEARCH IN HIGHER EDUCATION JOURNAL, V19, P0
+   Ivanova VD, 2012, COLLECT AMPHI 7, V0, P1
+   Jaques P, 2012, AN 32 C SOC BRAS COM, V0, P0
+   Jiabin Deng, 2010, PROCEEDINGS OF THE 2010 2ND INTERNATIONAL CONFERENCE ON INFORMATION TECHNOLOGY AND COMPUTER SCIENCE (ITCS 2010), V0, PP381, DOI 10.1109/ITCS.2010.99
+   Jin HX, 2008, PROCEEDINGS OF THE 2008 INTERNATIONAL SYMPOSIUM ON COMPUTATIONAL INTELLIGENCE AND DESIGN, VOL 1, P166, DOI 10.1109/ISCID.2008.127
+   Jindal R, 2013, INT. J. DATABASE MANAG. SYST, V5, P53, DOI 10.5121/IJDMS.2013.5304
+   Kechaou Z, 2011, 2011 IEEE GLOBAL ENGINEERING EDUCATION CONFERENCE (EDUCON), V0, PP1032, DOI 10.1109/EDUCON.2011.5773275
+   Kitchenham B, 2009, INFORM SOFTWARE TECH, V51, P7, DOI 10.1016/j.infsof.2008.09.009
+   KOHONEN T, 1982, BIOL CYBERN, V43, P59, DOI 10.1007/BF00337288
+   Kohonen T, 1995, LEARNING VECTOR QUAN, V0, P0, DOI DOI 10.1007/978-3-642-97610-06
+   Lajis A, 2010, COMP RES DEV 2010 2, V0, PP379, DOI 10.1109/ICCRD.2010.68
+   Lau IK, 2003, 14TH INTERNATIONAL WORKSHOP ON DATABASE AND EXPERT SYSTEMS APPLICATIONS, V0, P302
+   Li RJ, 1999, COMPUT MATH APPL, V38, P91, DOI 10.1016/S0898-1221(99)00172-8
+   Liu FJ, 2007, IEEE INT SYM MULTIM, V0, PP343, DOI 10.1109/ISM.Workshops.2007.64
+   Liu HQ, 2011, CURR OPIN CRIT CARE, V17, P190, DOI 10.1097/MCC.0b013e328344b397
+   Liu LP, 2005, INT J INF COMMUN TEC, V1, P21, DOI 10.4018/jicte.2005070102
+   Liu Q, 2013, INT CONF COMM SYST, V0, PP688, DOI 10.1109/CSNT.2013.147
+   London A, 2015, P 16 INT C COMP SYST, V0, PP358, DOI 10.1145/2812428.2812436
+   Longhi MT, 2010, RENOTE REV NOVAS TEC, V0, P0
+   Lopes CC, 2004, 13 SEMINO SEM COMP F, V0, P0
+   Machado LD, 2003, 3RD IEEE INTERNATIONAL CONFERENCE ON ADVANCED LEARNING TECHNOLOGIES, V0, P360, DOI 10.1109/ICALT.2003.1215123
+   Mahlow C, 2007, IADIS INT C E LEARN, V0, P203
+   Manikandan C, 2006, NO TITLE CAPTURED, V0, P274
+   Marbouti F, 2016, COMPUT EDUC, V103, P1, DOI 10.1016/j.compedu.2016.09.005
+   Minaei-Bidgoli B, 2004, PROCEEDINGS OF THE 2004 IEEE INTERNATIONAL CONFERENCE ON INFORMATION REUSE AND INTEGRATION (IRI-2004), V0, PP504, DOI 10.1109/IRI.2004.1431511
+   Mohamad SK, 2013, PROCD SOC BEHV, V97, P320, DOI 10.1016/j.sbspro.2013.10.240
+   Mylonas P, 2004, IEEE INTERNATIONAL CONFERENCE ON ADVANCED LEARNING TECHNOLOGIES, V0, P560, DOI 10.1109/ICALT.2004.1357477
+   Ningjiu Tang, 2012, 2012 2ND INTERNATIONAL CONFERENCE ON CONSUMER ELECTRONICS, V0, P3394, DOI 10.1109/CECNet.2012.6201470
+   Nodenot T, 2006, INF TECHN BAS HIGH E, V0, PP280, DOI 10.1109/ITHET.2006.339776
+   Otsuka JL, 2007, 7TH IEEE INTERNATIONAL CONFERENCE ON ADVANCED LEARNING TECHNOLOGIES, V0, P85, DOI 10.1109/ICALT.2007.21
+   Pan QX, 2009, ICCSSE 2009: PROCEEDINGS OF 2009 4TH INTERNATIONAL CONFERENCE ON COMPUTER SCIENCE & EDUCATION, V0, PP1404, DOI 10.1109/ICCSE.2009.5228194
+   Pascual-Cid V, 2010, IEEE INT CONF INF VI, V0, PP149, DOI 10.1109/IV.2010.31
+   Peña-Ayala A, 2014, EXPERT SYST APPL, V41, P1432, DOI 10.1016/j.eswa.2013.08.042
+   Qiu Robin G, 2013, 2013 IEEE 4TH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING AND SERVICE SCIENCE (ICSESS), V0, PP352, DOI 10.1109/ICSESS.2013.6615322
+   Resnick P, 1994, TRANSCENDING BOUNDARIES, V0, P175, DOI 10.1145/192844.192905
+   Ricarte ILM, 2011, REV INFORM EDUCACAO, V14, P83
+   Robles G, 2013, IEEE GLOB ENG EDUC C, V0, PP1249, DOI 10.1109/EduCon.2013.6530267
+   Romero C, 2007, EXPERT SYST APPL, V33, P135, DOI 10.1016/j.eswa.2006.04.005
+   Romero C, 2010, IEEE T SYST MAN CY C, V40, P601, DOI 10.1109/TSMCC.2010.2053532
+   Rosales GCM, 2011, 2011 11TH IEEE INTERNATIONAL CONFERENCE ON ADVANCED LEARNING TECHNOLOGIES (ICALT 2011), V0, PP573, DOI 10.1109/ICALT.2011.173
+   Saaty TL, 1980, ANALYTIC HIERARCHY P, V0, P0, DOI DOI 10.1007/978-1-4612-4880-4
+   Sachin RB, 2012, PROCEEDINGS OF THE 2012 SECOND INTERNATIONAL CONFERENCE ON ADVANCED COMPUTING & COMMUNICATION TECHNOLOGIES (ACCT 2012), V0, PP96, DOI 10.1109/ACCT.2012.14
+   Sales G, 2012, REV BRASILEIRA INFOR, V20, P0, DOI 10.5753/RBIE.2012.20.1.60
+   Sales GL, 2011, RENOTE REV NOVAS TEC, V9, P0
+   Sales GL, 2001, ANAIS S BRASILEIRO I, V1, P340, DOI 10.5753/cbie.sbie.2008.340-349
+   San Pedro ES, 2015, INTERNATIONAL EDUCATIONAL DATA MINING SOCIETY, V0, P85
+   Sankar CS, 2010, INT J INF COMMUN TEC, V6, P25, DOI 10.4018/jicte.2010070103
+   Santos OC, 2008, 8TH IEEE INTERNATIONAL CONFERENCE ON ADVANCED LEARNING TECHNOLOGIES, V0, P491, DOI 10.1109/ICALT.2008.101
+   Scheffer Tobias, 2001, PRINCIPLES OF DATA MINING AND KNOWLEDGE DISCOVERY, V0, PP424, DOI 10.1007/3-540-44794-6_35
+   Shen R, 2001, P FRONT ED C, V1, PTIF, DOI 10.1109/FIE.2001.963855
+   Song D, 2007, IFIP INT C NETW PARA, V0, PP788, DOI 10.1109/NPC.2007.51
+   Sun X, 2009, IEEE: 2009 INTERNATIONAL CONFERENCE ON E-LEARNING, V0, P0
+   Tovar E, 2010, PROC FRONT EDUC CONF, V0, P0
+   Wang CS, 2012, INT CONF GENET EVOL, V0, PP566, DOI 10.1109/ICGEC.2012.72
+   Wang J, 2012, INT CONF COMP SCI ED, V0, PP652, DOI 10.1109/ICCSE.2012.6295159
+   Wang L, 2010, SIGNAL COMMUN PLANTS, V0, PP135, DOI 10.1007/978-3-642-03524-1_8
+   Wang L, 2007, 2007 IEEE SYMPOSIUM ON COMPUTATIONAL INTELLIGENCE AND DATA MINING, VOLS 1 AND 2, P194
+   Wang X, 2015, PROCEEDINGS OF THE 8TH INTERNATIONAL CONFERENCE ON EDUCATIONAL DATA MINING, V0, P226
+   Wei Wang, 2011, PROCEEDINGS OF THE 2011 FIRST INTERNATIONAL WORKSHOP ON COMPLEXITY AND DATA MINING (IWCDM 2011), V0, PP156, DOI 10.1109/IWCDM.2011.44
+   Xing WL, 2015, COMPUT HUM BEHAV, V47, P168, DOI 10.1016/j.chb.2014.09.034
+   Yu J, 2010, ADV COMP THEOR ENG I, V4, P0, DOI 10.1109/ICACTE.2010.5579725
+   Yu T, 2014, P 4 INT C LEARNING A, V0, P269
+   Zaïane OR, 2001, IEEE INTERNATIONAL CONFERENCE ON ADVANCED LEARNING TECHNOLOGIES, V0, P357, DOI 10.1109/ICALT.2001.943944
+   Zeng LY, 2012, PROCEEDINGS OF 2012 2ND INTERNATIONAL CONFERENCE ON COMPUTER SCIENCE AND NETWORK TECHNOLOGY (ICCSNT 2012), V0, PP1732, DOI 10.1109/ICCSNT.2012.6526255
+   Zhao DS, 2009, 2009 INTERNATIONAL FORUM ON COMPUTER SCIENCE-TECHNOLOGY AND APPLICATIONS, VOL 3, PROCEEDINGS
+NR 99
+TC 96
+Z9 123
+U1 0
+U2 93
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0736-5853
+EI 
+J9 TELEMAT INFORM
+JI Telemat. Inform.
+PD SEP 15
+PY 2018
+VL 35
+IS 6
+BP 1701
+EP 1717
+DI 10.1016/j.tele.2018.04.015
+PG 17
+WC Information Science & Library Science
+SC Information Science & Library Science
+GA GQ9DN
+UT WOS:000442066200012
+DA 2026-09-28
+ER
+
+PT J
+AU Kausar, S
+   Xu, HH
+   Hussain, I
+   Zhu, WH
+   Zahid, M
+AF Kausar, Samina
+   Xu Huahu
+   Hussain, Iftikhar
+   Zhu Wenhao
+   Zahid, Misha
+TI Integration of Data Mining Clustering Approach in the Personalized E-Learning System
+SO IEEE ACCESS
+LA English
+DT Article
+DE Big data; clustering; data-mining; educational data-mining; e-learning; profile learning
+ID fast search; big-data; find; performance
+AB Educational data-mining is an evolving discipline that focuses on the improvement of self-learning and adaptive methods. It is used for finding hidden patterns or intrinsic structures of educational data. In the arena of education, the heterogeneous data is involving and continuously growing in the paradigm of big-data. To extract meaningful information adaptively from big educational data, some specific data mining techniques are needed. This paper presents a clustering approach to partition students into different groups or clusters based on their learning behavior. Furthermore, the personalized e-learning system architecture is presented, which detects and responds to teaching contents according to the students' learning capabilities. The primary objective includes the discovery of optimal settings, in which the learners can improve their learning capabilities. Moreover, the administration can find essential hidden patterns to bring the effective reforms in the existing system. The clustering methods K-Means, K-Medoids, Density-based Spatial Clustering of Applications with Noise, Agglomerative Hierarchical Cluster Tree and Clustering by Fast Search and Finding of Density Peaks via Heat Diffusion (CFSEDP-HD) are analyzed using educational data mining. It has been observed that more robust results can be achieved by the replacement of existing methods with CFSEDP-HD. The data mining techniques are equally effective in analyzing the big data to make education systems vigorous.
+C1 [Kausar, Samina; Xu Huahu; Zhu Wenhao] Shanghai Univ, Sch Comp Engn & Sci, Shanghai 200444, Peoples R China.
+   [Kausar, Samina] Univ Kotli Azad Jammu & Kashmir, Dept CS&IT, Kotli Azad Kashmir 11100, Pakistan.
+   [Hussain, Iftikhar] Hasselt Univ, Inst Voor Mobiliteit IMOB, B-3500 Hasselt, Belgium.
+   [Hussain, Iftikhar; Zahid, Misha] Beaconhouse Natl Univ, Sch Comp & IT, Terogil Campus, Lahore 53700, Pakistan.
+C3 Shanghai University; Hasselt University
+RP Hussain, I (corresponding author), Hasselt Univ, Inst Voor Mobiliteit IMOB, B-3500 Hasselt, Belgium.; Hussain, I (corresponding author), Beaconhouse Natl Univ, Sch Comp & IT, Terogil Campus, Lahore 53700, Pakistan.
+EM iftikhar.hussain@bnu.edu.pk
+FU National Natural Science Foundation of China [61572434, 91630206]; Shanghai Science and Technology Committee [16DZ2293600]
+CR Abu Saa A, 2016, INT J ADV COMPUT SC, V7, P212
+   Agasisti T, 2017, HANDBOOK ON THE ECONOMICS OF EDUCATION, V0, PP184, DOI 10.7916/D8PR95T2
+   Ahmad PK, 2015, PERFORMA MEDIA ILMIA, V14, P41
+   Algarni A, 2016, INT J ADV COMPUT SC, V7, P456
+   Anaya AR, 2009, ED DATA MINING, V2009, P210
+   Baker R, 2010, INT ENCY ED, V7, P112, DOI 10.4018/978-1-59140-557-3
+   BAKER RSJD, 2009, J ED DATA MINING, V1, P3, DOI 10.5281/zenodo.3554657
+   Bie RF, 2016, PERS UBIQUIT COMPUT, V20, P785, DOI 10.1007/s00779-016-0954-4
+   Blanco T, 2017, INT J TECHNOL DES ED, V27, P329, DOI 10.1007/s10798-015-9347-7
+   Bovo A, 2013, P 6 INT C ED DAT MIN, V0, P306
+   Chen CLP, 2014, INFORM SCIENCES, V275, P314, DOI 10.1016/j.ins.2014.01.015
+   Chen M, 2014, BIG DATA, V0, P59
+   Cobo G, 2011, NO TITLE CAPTURED, V0, P253
+   Cordeiro M, 2016, ONLINE SOCIAL NETWORKS EVENT DETECTION: A SURVEY, V0, PP1, DOI 10.1007/978-3-319-41706-61
+   Daniel B, 2015, BRIT J EDUC TECHNOL, V46, P904, DOI 10.1111/bjet.12230
+   de Morais AM, 2014, 2014 IEEE FRONTIERS IN EDUCATION CONFERENCE (FIE) PROCEEDINGS, V0, P1
+   Dede C, 2016, EDUCATIONAL TECHNOLOGY, V0, P37
+   Dradilova Pavla, 2008, 2008 IEEE/WIC/ACM INTERNATIONAL CONFERENCE ON WEB INTELLIGENCE AND INTELLIGENT AGENT TECHNOLOGY - WORKSHOPS, V0, PP373, DOI 10.1109/WIIAT.2008.250
+   Drigas AS, 2014, INTERNATIONAL JOURNAL OF COMPUTER SCIENCE ISSUES IJCSI, V11, P58
+   Dutti A, 2017, IEEE ACCESS, V5, P15991, DOI 10.1109/ACCESS.2017.2654247
+   Engström S, 2018, INT J TECHNOL DES ED, V28, P239, DOI 10.1007/s10798-016-9374-z
+   Eranki KLN, 2012, 2012 IEEE FOURTH INTERNATIONAL CONFERENCE ON TECHNOLOGY FOR EDUCATION (T4E), V0, PP38, DOI 10.1109/T4E.2012.12
+   Esposito F, 2003, P I KNOW 0 GRAZ AUST, V0, P238
+   Ester Martin, 1996, KDD, V96, P226, DOI 10.5555/3001460.3001507
+   Gaeta M, 2013, SYSTEMICS, V0, P0
+   Gomes P, 2008, COMMUN COGNITION, V41, P127
+   Howe D, 2008, NATURE, V455, P47, DOI 10.1038/455047a
+   Ivancevic V, 2012, NO TITLE CAPTURED, V0, P1
+   Kaufman L, 1987, STATISTICAL DATA ANALYSIS BASED ON THE L1-NORM AND RELATED METHODS. FIRST INTERNATIONAL CONFERENCE, V0, P405
+   Kim GH, 2014, COMMUN ACM, V57, P78, DOI 10.1145/2500873
+   Li L-Y, 2010, MOD ED TECHNOL, V2, P0
+   Li X, 2005, PROC. DMS, V0, P109
+   Long Phil, 2011, EDUCAUSE REVIEW, V46, P31
+   MacQueen J, 1966, PROCEEDINGS OF 5-TH BERKELEY SYMPOSIUM ON MATHEMATICAL STATISTICS AND PROBABILITY, V1, P281
+   Manohar A, 2016, P ASEE NE SECT C KIN, V0, P0
+   Markowska-Kaczmar U, 2010, STUD COMPUT INTELL, V273, P1
+   Maseleno A, 2018, INTERNATIONAL JOURNAL OF ENGINEERING AND TECHNOLOGY, V7, P1124, DOI 10.14419/ijet.v7i3.9789
+   Mehmood R, 2016, NEUROCOMPUTING, V208, P210, DOI 10.1016/j.neucom.2016.01.102
+   Nerurkar P, 2018, PROCEDIA COMPUT SCI, V125, P770, DOI 10.1016/j.procs.2017.12.099
+   Noury N, 2000, 1ST ANNUAL INTERNATIONAL IEEE-EMBS SPECIAL TOPIC CONFERENCE ON MICROTECHNOLOGIES IN MEDICINE & BIOLOGY, V0, P607, DOI 10.1109/MMB.2000.893857
+   Prakash B R, 2014, INT. J. INNOV. RES. COMPUT. COMMUN. ENG., V2, P7515
+   Qian GQ, 2016, COMPUT INTEL NEUROSC, V2016, P0, DOI 10.1155/2016/4037380
+   Rodriguez A, 2014, SCIENCE, V344, P1492, DOI 10.1126/science.1242072
+   Rokach L, 2005, DATA MINING AND KNOWLEDGE DISCOVERY HANDBOOK, V0, PP321, DOI 10.1007/0-387-25465-X_15
+   Romero C, 2013, COMPUT EDUC, V68, P458, DOI 10.1016/j.compedu.2013.06.009
+   Shah GH, 2012, INT. J. SOFT COMPUT. ENG., V22312307, P216
+   Shen LP, 2009, EDUC TECHNOL SOC, V12, P176
+   Shovon MHI, 2012, INT J ADV COMPUT SC, V3, P146
+   Tulasi B, 2013, INTERNATIONAL JOURNAL OF COMPUTER APPLICATIONS, V68, P21, DOI 10.5120/11648-7142
+   Wen-Chih Chang, 2009, 2009 FOURTH INTERNATIONAL CONFERENCE ON INNOVATIVE COMPUTING, V0, P1045, DOI 10.1109/ICICIC.2009.247
+   Wong WC, 2002, ENABLING SOCIETY WITH INFORMATION TECHNOLOGY, V0, P101
+   Wu CH, 2018, EURASIA J MATH SCI T, V14, P903, DOI 10.12973/ejmste/81061
+   Yarandi M, 2013, WEBOLOGY, V10, P110
+   Ying K, 2012, 2012 IEEE FOURTH INTERNATIONAL CONFERENCE ON TECHNOLOGY FOR EDUCATION (T4E), V0, PP20, DOI 10.1109/T4E.2012.17
+   Zappia L, 2018, BIORXIV, V0, P1
+NR 55
+TC 40
+Z9 45
+U1 1
+U2 46
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+EI 
+J9 IEEE ACCESS
+JI IEEE Access
+PD JUN 15
+PY 2018
+VL 6
+IS 
+BP 72724
+EP 72734
+DI 10.1109/ACCESS.2018.2882240
+PG 11
+WC Computer Science, Information Systems; Engineering, Electrical & Electronic; Telecommunications
+SC Computer Science; Engineering; Telecommunications
+GA HF2HS
+UT WOS:000454058200001
+DA 2026-09-28
+ER
+
+PT J
+AU Penteado, BE
+   Paiva, PMP
+   Morettin-Zupelari, M
+   Isotani, S
+   Ferrari, DV
+AF Penteado, Bruno Elias
+   Pereira Paiva, Paula Maria
+   Morettin-Zupelari, Marina
+   Isotani, Seiji
+   Ferrari, Deborah Viviane
+TI Toward Better Outcomes in Audiology Distance Education: An Educational Data Mining Approach
+SO AMERICAN JOURNAL OF AUDIOLOGY
+LA English
+DT Article
+AB Purpose: This article introduces concepts and a general taxonomy used by the educational data mining (EDM) community, as well as examples of their applications, with the aims of providing audiology educators with a referential basis for developing this area. Method: A narrative review was carried out to present an overview of EDM and its main methods. Some of these methods were exemplified with analysis of real data from an Internet-based specialization course on pediatric auditory rehabilitation. Results: The review introduced EDM main concepts and applications and described methods from its area. Real data examples illustrated EDM use to predict interpersonal help-seeking, model interpersonal interaction, analyze students' trajectories within a course's module, and understand how students approached group assignments. Some of the insights provided by EDM to support teaching and learning processes were also described. Conclusions: EDM methods offer new tools to discover knowledge from digital traces (i.e., logs) and support key stakeholders (students, instructors, or course administrators) to raise awareness about course dynamics. This approach has the potential to foster a better understanding and management of educational processes in audiology distance education.
+C1 [Penteado, Bruno Elias; Isotani, Seiji] Univ Sao Paulo, Inst Math & Comp Sci, Sao Carlos, SP, Brazil.
+   [Pereira Paiva, Paula Maria; Morettin-Zupelari, Marina; Ferrari, Deborah Viviane] Univ Sao Paulo, Dent Sch Bauru, Speech Language Pathol & Audiol Dept, Bauru, Brazil.
+C3 Universidade de Sao Paulo; Universidade de Sao Paulo
+RP Penteado, BE (corresponding author), Univ Sao Paulo, Inst Math & Comp Sci, Sao Carlos, SP, Brazil.
+EM brunopenteado@usp.br
+FU Brazilian Ministry of Health, Support Program for Institutional Development of the National Health System (Proadi/SUS) [25000.024953/2015-89]; Coordination for the Improvement of Higher Education Personnel
+CR Al-Samarraie H, 2017, INTERACT LEARN ENVIR, V25, P452, DOI 10.1080/10494820.2016.1138313
+   Al-Shorbaji N, 2015, ELEARNING UNDERGRADU, V0, P0
+   Alcalá-Fdez J, 2011, J MULT-VALUED LOG S, V17, P255
+   Unknown -, 2013, GUIDELINES, V0, P124
+   Baker R, 2010, INT ENCY ED, V7, P112, DOI 10.4018/978-1-59140-557-3
+   Baker R, 2014, CAMBRIDGE HANDBOOK OF THE LEARNING SCIENCES, V0, P253
+   Bastian Mathieu, 1900, DOI 10.1609/ICWSM.V3I1.13937, V0, P0
+   Bayer J, 2012, PREDICTING DROP OUT, V0, P0
+   Blikstein P, 2016, J LEARN ANAL, V3, P220, DOI 10.18608/jla.2016.32.11
+   Breiman L, 2001, STAT SCI, V16, P199, DOI 10.1214/ss/1009213726
+   Crandell CC, 2002, THE HEARING JOURNAL, V55, P42
+   Ellaway RH, 2014, MED TEACH, V36, P216, DOI 10.3109/0142159X.2014.874553
+   English K, 2000, J AM ACAD AUDIOL, V11, P84
+   George PP, 2014, J GLOB HEALTH, V4, P0, DOI 10.7189/jogh.04.010406
+   Goulios H, 2008, INT J AUDIOL, V47, P647, DOI 10.1080/14992020802203322
+   Hall M, 2009, ACM SIGKDD EXPLORATI, V11, P10, DOI 10.1145/1656274.1656278
+   Hand DJ, 2006, STAT SCI, V21, P1, DOI 10.1214/088342306000000060
+   Hofmann M, 2013, RAPIDMINER DATA MINI, V0, P0
+   Johnson DW, 2007, EDUC PSYCHOL REV, V19, P15, DOI 10.1007/s10648-006-9038-8
+   Karabenick SA, 2015, METACOGN LEARN, V10, P151, DOI 10.1007/s11409-015-9137-3
+   Koedinger KR, 2015, WIRES COGN SCI, V6, P333, DOI 10.1002/wcs.1350
+   Liu R, 2017, JOURNAL OF EDUCATIONAL DATA MINING, V9, P25, DOI 10.5281/ZENODO.3554625
+   Macdonald J, 2003, COMPUT EDUC, V40, P377, DOI 10.1016/S0360-1315(02)00168-9
+   Macfadyen LP, 2010, COMPUT EDUC, V54, P588, DOI 10.1016/j.compedu.2009.09.008
+   Mayfield E, 2013, HANDBOOK OF AUTOMATED ESSAY EVALUATION: CURRENT APPLICATION AND NEW DIRECTIONS, V0, P124
+   McInnerney JM, 2004, ONLINE COLLABORATIVE, V0, PP203, DOI 10.4018/978-1-59140-174-2.CH009
+   Poulin R, 2016, WCET DISTANCE ED ENR, V0, P0
+   Raats MM, 1992, FOOD QUALITY AND PREFERENCE, V3, P89, DOI 10.1016/0950-3293(91)90028-D
+   Romero C, 2008, COMPUT EDUC, V51, P368, DOI 10.1016/j.compedu.2007.05.016
+   Romero C, 2013, WIRES DATA MIN KNOWL, V3, P12, DOI 10.1002/widm.1075
+   Schaeffer CE, 2010, INTERNATIONAL JOURNAL OF INSTRUCTIONAL TECHNOLOGY DISTANCE LEARNING, V7, P3
+   Silva AC, 2015, CIENC SAUDE COLETIVA, V20, P3609, DOI 10.1590/1413-812320152011.00602015
+   Sinclair PM, 2016, INT J NURS STUD, V57, P70, DOI 10.1016/j.ijnurstu.2016.01.011
+   Staikopoulos A, 2017, ADJUNCT PUBLICATION OF THE 25TH CONFERENCE ON USER MODELING, V0, P203, DOI 10.1145/3099023.3099049
+   VanLehn K, 2006, INTERNATIONAL JOURNAL OF ARTIFICIAL INTELLIGENCE IN EDUCATION, V16, P227, DOI 10.3233/IRG-2006-16(3)02
+   Warr P, 2000, BRIT J PSYCHOL, V91, P311, DOI 10.1348/000712600161853
+   Warr Warr PP, 1998, INTERNATIONAL REVIEW OF INDUSTRIAL AND ORGANIZATIONAL PSYCHOLOGY, V13 13, P83
+   Wesley RMG, 2011, P ACM SIGMOD INT C M, V0, PP1185, DOI 10.1145/1989323.1989449
+   Windmill IM, 2013, J AM ACAD AUDIOL, V24, P407, DOI 10.3766/jaaa.24.5.7
+   Zerbini Thaís, 2008, PSICO-USF, V13, P177
+NR 47
+TC 5
+Z9 6
+U1 0
+U2 25
+PU AMER SPEECH-LANGUAGE-HEARING ASSOC
+PI ROCKVILLE
+PA 2200 RESEARCH BLVD, #271, ROCKVILLE, MD 20850-3289 USA
+SN 1059-0889
+EI 1558-9137
+J9 AM J AUDIOL
+JI Am. J. Audiol.
+PD NOV 15
+PY 2018
+VL 27
+IS 3
+BP 513
+EP 525
+DI 10.1044/2018_AJA-IMIA3-18-0020
+PG 13
+WC Audiology & Speech-Language Pathology; Otorhinolaryngology
+SC Audiology & Speech-Language Pathology; Otorhinolaryngology
+GA HJ0BX
+UT WOS:000456823100015
+PM 30452755
+DA 2026-09-28
+ER
+
+PT J
+AU Bharara, S
+   Sabitha, S
+   Bansal, A
+AF Bharara, Sanyam
+   Sabitha, Sai
+   Bansal, Abhay
+TI Application of learning analytics using clustering data Mining for Students' disposition analysis
+SO EDUCATION AND INFORMATION TECHNOLOGIES
+LA English
+DT Article
+DE Learning analytics; Educational data mining; Disposition analytics; Academic analytics; Learning management systems
+ID knowledge; objects
+AB Learning Analytics (LA) is an emerging field in which sophisticated analytic tools are used to improve learning and education. It draws from, and is closely tied to, a series of other fields of study like business intelligence, web analytics, academic analytics, educational data mining, and action analytics. The main objective of this research work is to find meaningful indicators or metrics in a learning context and to study the inter-relationships between these metrics using the concepts of Learning Analytics and Educational Data Mining, thereby, analyzing the effects of different features on student's performance using Disposition analysis. In this project, K-means clustering data mining technique is used to obtain clusters which are further mapped to find the important features of a learning context. Relationships between these features are identified to assess the student's performance.
+C1 [Bharara, Sanyam; Sabitha, Sai; Bansal, Abhay] Amity Univ Uttar Pradesh, Noida 201301, Uttar Pradesh, India.
+C3 Amity University Noida
+RP Bharara, S (corresponding author), Amity Univ Uttar Pradesh, Noida 201301, Uttar Pradesh, India.
+EM bhararasanyam@gmail.com; saisabitha@gmail.com; abhaybansal@gmail.com
+CR Aher SB, 2012, PROCEEDINGS OF THE 2012 INTERNATIONAL CONFERENCE ON ADVANCES IN COMPUTING, V0, P1034
+   Amrieh EA, 2016, INTERNATIONAL JOURNAL OF DATABASE THEORY AND APPLICATION, V9, P119, DOI 10.14257/ijdta.2016.9.8.13
+   Unknown -, 2016, STUD AC PERF DAT XAP, V0, P0
+   Unknown -, 2011, EDUCAUSE REVIEW, V0, P0
+   Unknown -, 2010, ED DATA MINING 2011, V0, P0
+   Unknown -, 2004, PERSONALITY DIFFEREN, V0, P0
+   Unknown -, 2002, NEW PARADIGM BORDERL, V0, P0
+   Antonenko PD, 2012, ETR&D-EDUC TECH RES, V60, P383, DOI 10.1007/s11423-012-9235-8
+   Arnold KE, 2012, PROCEEDINGS OF THE SECOND INTERNATIONAL CONFERENCE ON LEARNING ANALYTICS AND KNOWLEDGE, V0, PP267, DOI 10.1145/2330601.2330666
+   Arora S, 2017, AM J DISTANCE EDUC, V31, P80, DOI 10.1080/08923647.2017.1300461
+   BAKER RSJD, 2009, J ED DATA MINING, V1, P3, DOI 10.5281/zenodo.3554657
+   Baker R, 2014, CAMBRIDGE HANDBOOK OF THE LEARNING SCIENCES, V0, P253
+   Bharara S, 2017, PROCEEDINGS OF THE 7TH INTERNATIONAL CONFERENCE ON CLOUD COMPUTING, V0, P512, DOI 10.1109/CONFLUENCE.2017.7943205
+   Bovo Angela, 2013, 2013 SECOND INTERNATIONAL CONFERENCE ON E-LEARNING AND E-TECHNOLOGIES IN EDUCATION (ICEEE 2013), V0, PP121, DOI 10.1109/ICeLeTE.2013.6644359
+   Chatti MA, 2012, INT J TECHNOL ENHANC, V4, P318, DOI 10.1504/IJTEL.2012.051815
+   Chellatamilan T, 2011, PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON SUSTAINABLE ENERGY AND INTELLIGENT SYSTEMS (SEISCON 2011), V0, PP922, DOI 10.1049/cp.2011.0499
+   Chen CM, 2007, IEEE T SYST MAN CY C, V37, P1349, DOI 10.1109/TSMCC.2007.900641
+   Chen HC, 2012, MIS QUART, V36, P1165
+   Chen JL, 2009, THIRD INTERNATIONAL CONFERENCE ON GENETIC AND EVOLUTIONARY COMPUTING, V0, PP863, DOI 10.1109/WGEC.2009.214
+   Chu HC, 2009, EXPERT SYST APPL, V36, P5456, DOI 10.1016/j.eswa.2008.06.140
+   Cobo G, 2012, PROCEEDINGS OF THE 2ND INTERNATIONAL CONFERENCE ON LEARNING ANALYTICS AND KNOWLEDGE, V0, P248
+   Cohn D, 2009, BULLETIN OF THE IEEE COMPUTER SOCIETY TECHNICAL COMMITTEE ON DATA ENGINEERING, V32, P3
+   Dradilova Pavla, 2008, 2008 IEEE/WIC/ACM INTERNATIONAL CONFERENCE ON WEB INTELLIGENCE AND INTELLIGENT AGENT TECHNOLOGY - WORKSHOPS, V0, PP373, DOI 10.1109/WIIAT.2008.250
+   Duval E, 2011, PROCEEDINGS OF THE FIRST INTERNATIONAL CONFERENCE ON LEARNING ANALYTICS AND KNOWLEDGE, V0, PP9, DOI 10.1145/2090116.2090118
+   Eranki KLN, 2012, 2012 IEEE FOURTH INTERNATIONAL CONFERENCE ON TECHNOLOGY FOR EDUCATION (T4E), V0, PP38, DOI 10.1109/T4E.2012.12
+   Ermisch J, 2001, ECONOMICA, V68, P137, DOI 10.1111/1468-0335.00239
+   Fayyad U, 1996, AI MAG, V17, P37
+   Ferguson R, 2012, INT J TECHNOL ENHANC, V4, P304, DOI 10.1504/IJTEL.2012.051816
+   Ghorbani F, 2012, IEEE CONF ELEARN, V0, PP65, DOI 10.1109/ICELET.2012.6333367
+   Govindarajan K, 2013, IEEE CONF TECHNOL ED, V0, PP61, DOI 10.1109/T4E.2013.23
+   Greller W, 2012, EDUC TECHNOL SOC, V15, P42
+   Gunuc S, 2015, ASSESS EVAL HIGH EDU, V40, P587, DOI 10.1080/02602938.2014.938019
+   Hattie J, 2007, REV EDUC RES, V77, P81, DOI 10.3102/003465430298487
+   Kizilcec RF, 2013, P 3 INT C LEARNING A, V0, PP170, DOI 10.1145/2460296.2460330
+   Kuhlmann M, 2003, PROC. ACM SYMPOSIUM ON ACCESS CONTROL MODELS AND TECHNOLOGIES (SACMAT), V0, PP179, DOI 10.1145/775412.775435
+   Lahane SV, 2012, INT CONF EMERG TR, V0, PP191, DOI 10.1109/ICETET.2012.55
+   Liao SH, 2008, EXPERT SYST APPL, V34, P1763, DOI 10.1016/j.eswa.2007.01.036
+   Mandinach EB, 2012, TRANSFORMING TEACHING AND LEARNING THROUGH DATA-DRIVEN DECISION MAKING, V0, P0
+   Mandinach EB, 2012, EDUC PSYCHOL-US, V47, P71, DOI 10.1080/00461520.2012.667064
+   Ong CS, 2006, COMPUT HUM BEHAV, V22, P816, DOI 10.1016/j.chb.2004.03.006
+   Parack S, 2012, 2012 IEEE INTERNATIONAL CONFERENCE ON TECHNOLOGY ENHANCED EDUCATION (ICTEE 2012), V0, P0
+   Putrevu Sanjay, 2001, ACAD MARKETING SCI R, V10, P1
+   Romero C, 2010, IEEE T SYST MAN CY C, V40, P601, DOI 10.1109/TSMCC.2010.2053532
+   Rothman S, 2001, INTERNATIONAL EDUCATION JOURNAL, V2, P59
+   Sabitha AS, 2017, EDUC INF TECHNOL, V22, P1673, DOI 10.1007/s10639-016-9516-7
+   Sabitha AS, 2016, EDUC INF TECHNOL, V21, P1329, DOI 10.1007/s10639-015-9385-5
+   Sabitha AS, 2016, EDUC INF TECHNOL, V21, P1753, DOI 10.1007/s10639-015-9416-2
+   Salazar A, 2004, ITRE 2004: 2ND INTERNATIONAL CONFERENCE INFORMATION TECHNOLOGY: RESEARCH AND EDUCATION, V0, P150, DOI 10.1109/ITRE.2004.1393665
+   Scheuer O, 2012, ENCYCLOPEDIA OF THE SCIENCES OF LEARNING, V0, P1075
+   Shahiri AM, 2015, PROCEDIA COMPUT SCI, V72, P414, DOI 10.1016/j.procs.2015.12.157
+   Siemens George, 2012, P 2 INT C LEARNING A, V0, PP252, DOI 10.1145/2330601.2330661
+   Tian F, 2008, INT C COMP SUPP COOP, V0, P1035
+   Valsamidis S, 2012, EDUC TECHNOL SOC, V15, P154
+   Wijayanto F, 2015, 2015 INTERNATIONAL CONFERENCE ON SCIENCE AND TECHNOLOGY (TICST), V0, P318
+   Wook M, 2009, INT C COMP ELEC ENG, V0, PP357, DOI 10.1109/ICCEE.2009.168
+   Xiangwei Zheng, 2011, PROCEEDINGS OF THE 2011 INTERNATIONAL SYMPOSIUM ON INFORMATION TECHNOLOGY IN MEDICINE AND EDUCATION (ITME 2011), V0, PP442, DOI 10.1109/ITiME.2011.6132144
+   Zheng QH, 2007, INT C COMP SUPP COOP, V0, P979
+   ZhiXin Tie, 2010, PROCEEDINGS OF THE 2010 IEEE 10TH INTERNATIONAL CONFERENCE ON COMPUTER AND INFORMATION TECHNOLOGY (CIT 2010), V0, PP2001, DOI 10.1109/CIT.2010.338
+   Zorrilla ME, 2005, LECT NOTES COMPUT SC, V3643, P205, DOI 10.1007/11556985_26
+NR 67
+TC 65
+Z9 73
+U1 2
+U2 90
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 1360-2357
+EI 1573-7608
+J9 EDUC INF TECHNOL
+JI Educ. Inf. Technol.
+PD MAR 15
+PY 2018
+VL 23
+IS 2
+BP 957
+EP 984
+DI 10.1007/s10639-017-9645-7
+PG 28
+WC Education & Educational Research
+SC Education & Educational Research
+GA FY9GG
+UT WOS:000427173100020
+DA 2026-09-28
+ER
+
